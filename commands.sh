@@ -1,0 +1,11 @@
+python search_paper.py --year 2015 --num_results 35
+python search_paper.py --year 2016 --num_results 50
+python search_paper.py --year 2017 --num_results 70
+python search_paper.py --year 2018 --num_results 75
+python search_paper.py --year 2019 --num_results 70
+python search_paper.py --year 2020 --num_results 100
+python search_paper.py --year 2021 --num_results 145
+python search_paper.py --year 2022 --num_results 210
+python search_paper.py --year 2023 --num_results 240
+python search_paper.py --year 2024 --num_results 240
+python search_paper.py --year 2025 --num_results 170
