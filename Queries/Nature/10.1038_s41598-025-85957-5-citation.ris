@@ -1,0 +1,19 @@
+TY  - JOUR
+AU  - Zhang, Tianci
+AU  - Zhou, Xiaohong
+AU  - Li, Meng
+AU  - Zuo, Chunyue
+AU  - Gao, Weijuan
+PY  - 2025
+DA  - 2025/03/14
+TI  - Comprehensive analysis of bioinformatics identification TST, SQOR and NRDC is mitochondria-related biomarkers of ischemic cerebral apoplexy
+JO  - Scientific Reports
+SP  - 8892
+VL  - 15
+IS  - 1
+AB  - Mitochondria are an important organelle affecting the occurrence and development of ischemic stroke (IS). Although the role of mitochondria in IS has been paid attention to, the relevant biomarkers have not been identified, and the targeted treatment is still lacking. To further solve these problems, in this study, we combined and standardized GSE16561 and GSE58294 datasets in the GEO database as the test set, and GSE22255 as the training set. The mitochondria-related gene set was obtained from MitoCarta3.0 for study. R language was used to screen differentially expressed genes (DEGs), and weighted gene co-expression network analysis (WGCNA) was used to obtain the intersection genes. KEGG pathway enrichment and gene ontology (GO) analysis were performed. LASSO and Logistic methods were used to determine the diagnostic markers of mitochondrial-related IS. The correlation between it and the main immune cells and immune-related factors was analysed. The ROC curve was used to determine the diagnostic efficacy. The protein co-expression network, transcription factor, and miRNA prediction, and drug prediction by cMAP were performed against these markers. Molecular docking tested the binding energy. Transmission electron microscopy was used to observe the structure and morphology of mitochondria in cerebral microvascular endothelial cells of MCAO/R rats. Biochemical kits were used to detect the levels of MDA and SOD in blood and tissues. Elisa was used to detect the changes of the above targets in blood and tissues. In this study, a total of 38 intersection genes were obtained, and a diagnostic model composed of 3 genes (TST, SQOR, NRDC) was further established. KEGG and GO analysis showed that these genes were highly related to immunity and were involved in the immune activities related to neutrophils, CD4+T cells, CD8+T cells, and macrophages. In addition, a total of 42 proteins, 601 transcription factors, and 99 miRNAs related to TST, SQOR, and NRDC were predicted, and the interaction map was constructed. cMAP predicted 5 potential small molecule drugs and molecular docking suggested that W.13 had the best binding energy. In MCAO/R rats, the mitochondria in BMECs were severely damaged and fragmented, accompanied by a decrease in SOD activity and an increase in MDA level. In addition, the levels of TST and SQOR in blood and tissues were increased, and the levels of NRDC were decreased. Our study provides new insights into further understanding of IS from a mitochondrial perspective.
+SN  - 2045-2322
+UR  - https://doi.org/10.1038/s41598-025-85957-5
+DO  - 10.1038/s41598-025-85957-5
+ID  - Zhang2025
+ER  - 

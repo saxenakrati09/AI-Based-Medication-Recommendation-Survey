@@ -1,0 +1,23 @@
+TY  - JOUR
+AU  - Cai, Liyang
+AU  - Guo, Xin
+AU  - Zhang, Yucheng
+AU  - Xie, Huajie
+AU  - Liu, Yongfeng
+AU  - Zhou, Jianlong
+AU  - Feng, Huolun
+AU  - Zheng, Jiabin
+AU  - Li, Yong
+PY  - 2025
+DA  - 2025/03/07
+TI  - Integrated analysis of single-cell and bulk RNA-sequencing to predict prognosis and therapeutic response for colorectal cancer
+JO  - Scientific Reports
+SP  - 7986
+VL  - 15
+IS  - 1
+AB  - Colorectal cancer (CRC) is a prevalent malignant tumor characterized by high global incidence and mortality rates. Furthermore, it is imperative to comprehend the molecular mechanisms underlying its development and to identify effective prognostic markers. These efforts are crucial for pinpointing potential therapeutic targets and enhancing patient survival rates. Therefore, we develop a novel prognostic model aimed at providing new theoretical support for clinical prognosis evaluation and treatment. We downloaded data from the Gene Expression Omnibus (GEO) and The Cancer Genome Atlas (TCGA) databases. Subsequently, we performed single-cell analysis and developed a prognostic model associated with colorectal cancer. We divided the scRNA-seq dataset (GSE221575) into 19 cell clusters and classified these clusters into 11 distinct cell types using marker genes. Using univariate Cox regression and LASSO (Least Absolute Shrinkage and Selection Operator) analyses, we developed a prognostic model consisting of 9 genes. Based on our 9-gene model, we divided patients into high-risk and low-risk groups using the median risk score. The high-risk group demonstrated significant positive correlations with M0 macrophages, CD8+ T cells, and M2 macrophages. The enrichment analyses indicate significant enrichment of immune-related pathways in the high-risk group, including HEDGEHOG_SIGNALING, Wnt signaling pathway, and cell adhesion molecules. Drug sensitivity analysis revealed that the low-risk group was sensitive to 5 chemotherapeutic drugs, while the high-risk group was sensitive to only 1. Additionally, we developed a highly reliable nomogram for clinical application. This suggests that the risk score derived from our modeling analysis is highly effective for stratifying colorectal cancer samples. This study comprehensively applied bioinformatics methods to construct a risk score model. The model showed good predictive performance, offering potential guidance for individualized treatment of colorectal cancer patients. Furthermore, it may provide valuable insights into the disease’s pathogenesis and identify potential therapeutic targets for further research.
+SN  - 2045-2322
+UR  - https://doi.org/10.1038/s41598-025-91761-y
+DO  - 10.1038/s41598-025-91761-y
+ID  - Cai2025
+ER  - 

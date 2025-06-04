@@ -1,0 +1,42 @@
+TY  - JOUR
+AU  - Wang, Luopin
+AU  - Pattnaik, Aryamav
+AU  - Sahoo, Subhransu Sekhar
+AU  - Stone, Ella G.
+AU  - Zhuang, Yuxin
+AU  - Benton, Annaleigh
+AU  - Tajmul, Md
+AU  - Chakravorty, Srishti
+AU  - Dhawan, Deepika
+AU  - Nguyen, My An
+AU  - Sirit, Isabella
+AU  - Mundy, Kyle
+AU  - Ricketts, Christopher J.
+AU  - Hadisurya, Marco
+AU  - Baral, Garima
+AU  - Tinsley, Samantha L.
+AU  - Anderson, Nicole L.
+AU  - Hoda, Smriti
+AU  - Briggs, Scott D.
+AU  - Kaimakliotis, Hristos Z.
+AU  - Allen-Petersen, Brittany L.
+AU  - Tao, W. Andy
+AU  - Linehan, W. Marston
+AU  - Knapp, Deborah W.
+AU  - Hanna, Jason A.
+AU  - Olson, Matthew R.
+AU  - Afzali, Behdad
+AU  - Kazemian, Majid
+PY  - 2024
+DA  - 2024/08/24
+TI  - Unbiased discovery of cancer pathways and therapeutics using Pathway Ensemble Tool and Benchmark
+JO  - Nature Communications
+SP  - 7288
+VL  - 15
+IS  - 1
+AB  - Correctly identifying perturbed biological pathways is a critical step in uncovering basic disease mechanisms and developing much-needed therapeutic strategies. However, whether current tools are optimal for unbiased discovery of relevant pathways remains unclear. Here, we create “Benchmark” to critically evaluate existing tools and find that most function sub-optimally. We thus develop the “Pathway Ensemble Tool” (PET), which outperforms existing methods. Deploying PET, we identify prognostic pathways across 12 cancer types. PET-identified prognostic pathways offer additional insights, with genes within these pathways serving as reliable biomarkers for clinical outcomes. Additionally, normalizing these pathways using drug repurposing strategies represents therapeutic opportunities. For example, the top predicted repurposed drug for bladder cancer, a CDK2/9 inhibitor, represses cell growth in vitro and in vivo. We anticipate that using Benchmark and PET for unbiased pathway discovery will offer additional insights into disease mechanisms across a spectrum of diseases, enabling biomarker discovery and therapeutic strategies.
+SN  - 2041-1723
+UR  - https://doi.org/10.1038/s41467-024-51859-9
+DO  - 10.1038/s41467-024-51859-9
+ID  - Wang2024
+ER  - 

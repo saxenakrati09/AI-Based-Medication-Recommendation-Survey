@@ -1,0 +1,24 @@
+TY  - JOUR
+AU  - Zeng, Billy
+AU  - Glicksberg, Benjamin S.
+AU  - Newbury, Patrick
+AU  - Chekalin, Evgeny
+AU  - Xing, Jing
+AU  - Liu, Ke
+AU  - Wen, Anita
+AU  - Chow, Caven
+AU  - Chen, Bin
+PY  - 2021
+DA  - 2021/02/01
+TI  - OCTAD: an open workspace for virtually screening therapeutics targeting precise cancer patient groups using gene expression features
+JO  - Nature Protocols
+SP  - 728
+EP  - 753
+VL  - 16
+IS  - 2
+AB  - As the field of precision medicine progresses, treatments for patients with cancer are starting to be tailored to their molecular as well as their clinical features. The emerging cancer subtypes defined by these molecular features require that dedicated resources be used to assist the discovery of drug candidates for preclinical evaluation. Voluminous gene expression profiles of patients with cancer have been accumulated in public databases, enabling the creation of cancer-specific expression signatures. Meanwhile, large-scale gene expression profiles of cellular responses to chemical compounds have also recently became available. By matching the cancer-specific expression signature to compound-induced gene expression profiles from large drug libraries, researchers can prioritize small molecules that present high potency to reverse expression of signature genes for further experimental testing of their efficacy. This approach has proven to be an efficient and cost-effective way to identify efficacious drug candidates. However, the success of this approach requires multiscale procedures, imposing considerable challenges to many labs. To address this, we developed Open Cancer TherApeutic Discovery (OCTAD; http://octad.org): an open workspace for virtually screening compounds targeting precise groups of patients with cancer using gene expression features. Its database includes 19,127 patient tissue samples covering more than 50 cancer types and expression profiles for 12,442 distinct compounds. The program is used to perform deep-learning-based reference tissue selection, disease gene expression signature creation, drug reversal potency scoring and in silico validation. OCTAD is available as a web portal and a standalone R package to allow experimental and computational scientists to easily navigate the tool.
+SN  - 1750-2799
+UR  - https://doi.org/10.1038/s41596-020-00430-z
+DO  - 10.1038/s41596-020-00430-z
+ID  - Zeng2021
+ER  - 

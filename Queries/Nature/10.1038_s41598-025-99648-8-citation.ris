@@ -1,0 +1,16 @@
+TY  - JOUR
+AU  - Xing, Yiming
+AU  - Lin, Xianhe
+PY  - 2025
+DA  - 2025/04/30
+TI  - Transcriptome associated with single-cell analysis reveal the role of S-palmitoylation in coronary artery disease
+JO  - Scientific Reports
+SP  - 15144
+VL  - 15
+IS  - 1
+AB  - Coronary artery disease (CAD), a widespread cardiovascular ailment, exhibits a strong association with palmitoylation. This research aimed to elucidate the role of S-palmitoylation in CAD through bioinformatics, providing novel perspectives on the mechanism underlying CAD. By intersecting differentially expressed genes with weighted gene co-expression network analysis (WGCNA) from the GSE113079 dataset, 534 differentially expressed palmitoylation-related genes (DE-PRGs) were identified. Protein-protein interaction (PPI) network analysis, in conjunction with machine learning algorithms and immune infiltration analysis utilizing CIBERSORT, identified CXCL12, KRTAP4-7, and PPP2R2B as pivotal hub genes in CAD progression with significant immune links. Enrichment analyses revealed their predominant roles in immune regulation. Nomogram and ROC curve analyses revealed robust diagnostic predictive capabilities grounded in the three hub genes. A regulatory network involving the transcription factor HDAC2 and miRNA hsa-mir-23a-3p was predicted. Single-cell sequencing (GSE121893) further highlighted endothelial cells, fibroblasts, and macrophages as central cellular interactors, with significant crosstalk among these populations. These findings positioned CXCL12, KRTAP4-7 and PPP2R2B as key palmitoylated hub genes in CAD, thereby offering dual potential as diagnostic markers and therapeutic targets.
+SN  - 2045-2322
+UR  - https://doi.org/10.1038/s41598-025-99648-8
+DO  - 10.1038/s41598-025-99648-8
+ID  - Xing2025
+ER  - 

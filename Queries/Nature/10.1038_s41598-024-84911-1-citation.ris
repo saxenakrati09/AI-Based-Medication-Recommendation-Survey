@@ -1,0 +1,19 @@
+TY  - JOUR
+AU  - Zhang, Minglin
+AU  - Liu, Tong
+AU  - Luo, Lijun
+AU  - Xie, Yuxin
+AU  - Wang, Fen
+PY  - 2025
+DA  - 2025/01/15
+TI  - Biological characteristics, immune infiltration and drug prediction of PANoptosis related genes and possible regulatory mechanisms in inflammatory bowel disease
+JO  - Scientific Reports
+SP  - 2033
+VL  - 15
+IS  - 1
+AB  - PANoptosis is one of several modes of programmed cell death (PCD) and plays an important role in many inflammatory and immune diseases. The role of PANoptosis in inflammatory bowel disease (IBD) is currently unknown. Differentially expressed PANoptosis-related genes (DE-PRGs) were identified, and pathway enrichment analyses were performed. LASSO regression model construction, a nomogram model, calibration curves, ROC and DCA curves were used to evaluate the predictive value of the model. Predicts transcription factors (TFs) and small-molecule drugs of DE-PRGs were analysed. Model genes and immuno-infiltration were analysed. The PANoptosis features of IBD include 12 genes: OGT, TLR2, GZMB, TLR4, PPIF, YBX3, CASP5, BCL2L1, CASP6, MEFV, GSDMB and BAX. The enrichment analysis suggested that these genes were related to TNF signalling, NF-κB, pyroptosis and necroptosis. Machine learning identified three model genes: OGT, GZMB and CASP5. The nomogram model, calibration curves, ROC and DCA curves have strong predictive value. Immuno-infiltration analysis revealed that immune cell infiltration was increased in patients with IBD, and the model genes were closely related to the infiltration of various immune cells. The TFs associated with DE-PRGs were RELA, NFKB1, HIF1A, TP53 and SP1. In addition, the Connectivity Map (CMap) database identified the top 10 small-molecule compounds, including buspirone, chloroquine, spectinomycin and chlortetracycline. This study indicate that DE-PRGs model genes have good predictive ability for IBD. Moreover, PANoptosis may mediate the process of IBD through TNF signalling, NF-κB, pyroptosis, necroptosis and immune mechanisms. These results present a new horizon for the research and treatment of IBD.
+SN  - 2045-2322
+UR  - https://doi.org/10.1038/s41598-024-84911-1
+DO  - 10.1038/s41598-024-84911-1
+ID  - Zhang2025
+ER  - 

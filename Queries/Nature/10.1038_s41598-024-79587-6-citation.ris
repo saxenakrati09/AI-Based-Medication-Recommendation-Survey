@@ -1,0 +1,21 @@
+TY  - JOUR
+AU  - Lv, Yanhua
+AU  - Yuan, Yuyang
+AU  - Zhong, Xiaoyun
+AU  - Yu, Qi
+AU  - Lu, Xuechun
+AU  - Qu, Baoqiang
+AU  - Zhao, Hongxia
+PY  - 2024
+DA  - 2024/11/28
+TI  - Exploration and practice of potential association prediction between diseases and drugs based on Swanson framework and bioinformatics
+JO  - Scientific Reports
+SP  - 29643
+VL  - 14
+IS  - 1
+AB  - Compared to traditional intermediate concepts, specific bioinformatics entities are more informative and higher directional. This study is based on the BITOLA system and combines bioinformatics methods to determine the intermediate concept which is key to improve efficiency of Literature-based Knowledge Discovery, proposes the concept of “Swanson framework + Bioinformatics”, and conducts practice of Literature-based Knowledge Discovery to improve the scientificity and efficiency of research and development. Firstly, detected the disease related genes (i.e. differentially expressed genes) according to the results of gene functional analysis as intermediate concepts to carry out Literature-based Knowledge Discovery. Taking the disease “Autism Spectrum Disorder (ASD)” as an example, the potential “disease-drug” association was predicted, and the predicted drugs were verified from the perspective of bioinformatics. Two drugs potentially associated with ASD were found: Fish oil and Forskolin, which were closely related to ASD in bioinformatics analysis results and literature verification. The two “disease-drug” association results showed better scientificity. The BIOINF-ABC+ model improves the accuracy of calculations by 76% compared to using the BITOLA system alone. In addition, it also shows high accuracy and credibility in literature verification. The BIOINF-ABC+ model based on the “Swanson framework + Bioinformatics” has good practicality, applicability, and accuracy in conducting “disease-drug” association prediction in the biomedical field, and can be used for mining “disease-drug” relationships.
+SN  - 2045-2322
+UR  - https://doi.org/10.1038/s41598-024-79587-6
+DO  - 10.1038/s41598-024-79587-6
+ID  - Lv2024
+ER  - 

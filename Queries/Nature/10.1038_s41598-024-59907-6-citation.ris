@@ -1,0 +1,19 @@
+TY  - JOUR
+AU  - Yang, Fan
+AU  - Shen, Junyi
+AU  - Zhao, Zhiming
+AU  - Shang, Wei
+AU  - Cai, Hui
+PY  - 2024
+DA  - 2024/04/22
+TI  - Unveiling the link between lactate metabolism and rheumatoid arthritis through integration of bioinformatics and machine learning
+JO  - Scientific Reports
+SP  - 9166
+VL  - 14
+IS  - 1
+AB  - Rheumatoid arthritis (RA) is a persistent autoimmune condition characterized by synovitis and joint damage. Recent findings suggest a potential link to abnormal lactate metabolism. This study aims to identify lactate metabolism-related genes (LMRGs) in RA and investigate their correlation with the molecular mechanisms of RA immunity. Data on the gene expression profiles of RA synovial tissue samples were acquired from the gene expression omnibus (GEO) database. The RA database was acquired by obtaining the common LMRDEGs, and selecting the gene collection through an SVM model. Conducting the functional enrichment analysis, followed by immuno-infiltration analysis and protein–protein interaction networks. The results revealed that as possible markers associated with lactate metabolism in RA, KCNN4 and SLC25A4 may be involved in regulating macrophage function in the immune response to RA, whereas GATA2 is involved in the immune mechanism of DC cells. In conclusion, this study utilized bioinformatics analysis and machine learning to identify biomarkers associated with lactate metabolism in RA and examined their relationship with immune cell infiltration. These findings offer novel perspectives on potential diagnostic and therapeutic targets for RA.
+SN  - 2045-2322
+UR  - https://doi.org/10.1038/s41598-024-59907-6
+DO  - 10.1038/s41598-024-59907-6
+ID  - Yang2024
+ER  - 

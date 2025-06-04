@@ -1,0 +1,22 @@
+TY  - JOUR
+AU  - Robert, Beaulah Mary
+AU  - Dakshinamoorthy, Muralidharan
+AU  - Ganapathyagraharam Ramamoorthy, Brindha
+AU  - Dhandapani, Muthu
+AU  - Thangaiyan, Radhiga
+AU  - Muthusamy, Ganesan
+AU  - Nirmal, R. Madhavan
+AU  - Prasad, Nagarajan Rajendra
+PY  - 2018
+DA  - 2018/10/19
+TI  - Predicting Tumor Sensitivity to Chemotherapeutic Drugs in Oral Squamous Cell Carcinoma Patients
+JO  - Scientific Reports
+SP  - 15545
+VL  - 8
+IS  - 1
+AB  - Oral Squamous Cell Carcinoma (OSCC) patients respond poorly to chemotherapy. We analyzed the expression of 11 drug response-related genes in 31 OSCC biopsies, collected prior to any treatment, using custom-designed PCR array. Further, we investigated the drug response pattern of selected anticancer drugs by BH3 (Bcl2 Homology-3) profiling in the primary cells isolated from OSCC tissues. Then, we correlated the results of drug-response gene expression pattern with apoptotic priming to predict tumor response to chemotherapy. The best performing drug (BPD) and response differences (RD) between the drugs were identified using statistical methods to select the best choice of drug in a personalized manner. Based on the correlation, we classified OSCC tumors as sensitive (13 tumors), moderately responsive (16 tumors) or resistant (2 tumors) to chemotherapy. We found that up-regulation of genes linked with drug resistance facilitates survival of tumor samples, which was revealed by the percentage of apoptotic priming. Moreover, we found that paclitaxel-induced 40–45% apoptotic priming compared to other drugs. Average response difference (RD) analysis showed that 80% of tumors responded well to paclitaxel as compared to other drugs studied. Therefore, gene expression analysis with BH3 profiling reveals drug sensitivity that could be translated for drug selection before treatment.
+SN  - 2045-2322
+UR  - https://doi.org/10.1038/s41598-018-33998-4
+DO  - 10.1038/s41598-018-33998-4
+ID  - Robert2018
+ER  - 

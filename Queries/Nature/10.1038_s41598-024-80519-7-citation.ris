@@ -1,0 +1,21 @@
+TY  - JOUR
+AU  - Debnath, Joy Prokash
+AU  - Hossen, Kabir
+AU  - Sayed, Sabrina Bintay
+AU  - Khandaker, Md. Sayeam
+AU  - Dev, Preonath Chondrow
+AU  - Sarker, Saifuddin
+AU  - Hossain, Tanvir
+PY  - 2025
+DA  - 2025/01/23
+TI  - Identification of potential biomarkers for 2022 Mpox virus infection: a transcriptomic network analysis and machine learning approach
+JO  - Scientific Reports
+SP  - 2922
+VL  - 15
+IS  - 1
+AB  - Monkeypox virus (MPXV), a zoonotic pathogen, re-emerged in 2022 with the Clade IIb variant, raising global health concerns due to its unprecedented spread in non-endemic regions. Recent studies have shown that Clade IIb (2022 MPXV) is marked by unique genomic mutations and epidemiological behaviors, suggesting variations in host-virus interactions. This study aimed to identify the differentially expressed genes (DEGs) induced by the 2022 MPXV infection through comprehensive bioinformatics analyses of microarray and RNA-Seq datasets from post-infected cell types with different MPXV clades. Subsequently, gene expression network analyses pinpoint the key DEGs, followed by their candidate drug assessment using the Drug SIGnatures DataBase (DSigDB) and validation by multiple machine learning algorithms. Comparative differential gene expression (DGE) analysis revealed 798 DEGs exclusive to the 2022 MPXV invasion in the skin cell types (keratinocytes). Intriguingly, 13 key DEGs were identified across hubs and clusters, highlighting their aberrant expressions in cell cycle regulation, immune responses, and cancer pathways. Biomarker screening via Random Forest (RF) model (selected with PyCaret from multiple models) and validation through t-distributed stochastic neighbor embedding (t-SNE) algorithm, principal component analysis (PCA), and ROC curve analysis employing Logistic Regression and Random Forest, identified 6 key DEGs (TXNRD1, CCNB1, BUB1, CDC20, BUB1B, and CCNA2) as promising biomarkers (AUC > 0.7) for clade IIb infection. This study anticipates that further investigation and clinical trials will catalyze novel detection and therapeutic options to combat 2022 MPXV infection in humans.
+SN  - 2045-2322
+UR  - https://doi.org/10.1038/s41598-024-80519-7
+DO  - 10.1038/s41598-024-80519-7
+ID  - Debnath2025
+ER  - 

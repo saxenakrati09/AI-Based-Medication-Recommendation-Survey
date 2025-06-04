@@ -1,0 +1,19 @@
+TY  - JOUR
+AU  - Tang, ShuMei
+AU  - Wang, XiuFen
+AU  - Deng, TianCi
+AU  - Ge, HuiPeng
+AU  - Xiao, XiangCheng
+PY  - 2020
+DA  - 2020/08/10
+TI  - Identification of C3 as a therapeutic target for diabetic nephropathy by bioinformatics analysis
+JO  - Scientific Reports
+SP  - 13468
+VL  - 10
+IS  - 1
+AB  - The pathogenesis of diabetic nephropathy is not completely understood, and the effects of existing treatments are not satisfactory. Various public platforms already contain extensive data for deeper bioinformatics analysis. From the GSE30529 dataset based on diabetic nephropathy tubular samples, we identified 345 genes through differential expression analysis and weighted gene coexpression correlation network analysis. GO annotations mainly included neutrophil activation, regulation of immune effector process, positive regulation of cytokine production and neutrophil-mediated immunity. KEGG pathways mostly included phagosome, complement and coagulation cascades, cell adhesion molecules and the AGE-RAGE signalling pathway in diabetic complications. Additional datasets were analysed to understand the mechanisms of differential gene expression from an epigenetic perspective. Differentially expressed miRNAs were obtained to construct a miRNA-mRNA network from the miRNA profiles in the GSE57674 dataset. The miR-1237-3p/SH2B3, miR-1238-5p/ZNF652 and miR-766-3p/TGFBI axes may be involved in diabetic nephropathy. The methylation levels of the 345 genes were also tested based on the gene methylation profiles of the GSE121820 dataset. The top 20 hub genes in the PPI network were discerned using the CytoHubba tool. Correlation analysis with GFR showed that SYK, CXCL1, LYN, VWF, ANXA1, C3, HLA-E, RHOA, SERPING1, EGF and KNG1 may be involved in diabetic nephropathy. Eight small molecule compounds were identified as potential therapeutic drugs using Connectivity Map.
+SN  - 2045-2322
+UR  - https://doi.org/10.1038/s41598-020-70540-x
+DO  - 10.1038/s41598-020-70540-x
+ID  - Tang2020
+ER  - 

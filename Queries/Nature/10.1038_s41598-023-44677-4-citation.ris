@@ -1,0 +1,18 @@
+TY  - JOUR
+AU  - Huang, Yue
+AU  - Deng, Song
+AU  - Jiang, Qiaoji
+AU  - Shi, Jinlong
+PY  - 2023
+DA  - 2023/10/13
+TI  - LncRNA RARA-AS1 could serve as a novel prognostic biomarker in pan-cancer and promote proliferation and migration in glioblastoma
+JO  - Scientific Reports
+SP  - 17376
+VL  - 13
+IS  - 1
+AB  - Long non-coding RNAs (lncRNAs) have emerged as crucial regulators of cancer progression and are potential biomarkers for diagnosis and treatment. This study investigates the role of RARA Antisense RNA 1 (RARA-AS1) in cancer and its implications for diagnosis and treatment. Various bioinformatics tools were conducted to analyze the expression patterns, immune-related functions, methylation, and gene expression correlations of RARA-AS1, mainly including the comparisons of different subgroups and correlation analyses between RARA-AS1 expression and other factors. Furthermore, we used short hairpin RNA to perform knockdown experiments, investigating the effects of RARA-AS1 on cell proliferation, invasion, and migration in glioblastoma. Our results revealed that RARA-AS1 has distinct expression patterns in different cancers and exhibits notable correlation with prognosis. Additionally, RARA-AS1 is highly correlated with certain immune checkpoints and mismatch repair genes, indicating its potential role in immune infiltration and related immunotherapy. Further analysis identified potential effective drugs for RARA-AS1 and demonstrated its potential RNA binding protein (RBP) mechanism in glioblastoma. Besides, a series of functional experiments indicated inhibiting RARA-AS1 could decrease cell proliferation, invasion, and migration of glioblastoma cell lines. Finally, RARA-AS1 could act as an independent prognostic factor for glioblastoma patients and may serve as a promising therapeutic target. All in all, Our study provides a comprehensive understanding of the functions and implications of RARA-AS1 in pan-cancer, highlighting it as a promising biomarker for survival. It is also an independent risk factor affecting prognosis in glioblastoma and an important factor affecting proliferation and migration in glioblastoma, setting the stage for further mechanistic investigations.
+SN  - 2045-2322
+UR  - https://doi.org/10.1038/s41598-023-44677-4
+DO  - 10.1038/s41598-023-44677-4
+ID  - Huang2023
+ER  - 

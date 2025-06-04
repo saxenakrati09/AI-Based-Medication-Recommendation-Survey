@@ -1,0 +1,19 @@
+TY  - JOUR
+AU  - Lenhof, Kerstin
+AU  - Eckhart, Lea
+AU  - Rolli, Lisa-Marie
+AU  - Volkamer, Andrea
+AU  - Lenhof, Hans-Peter
+PY  - 2024
+DA  - 2024/05/29
+TI  - Reliable anti-cancer drug sensitivity prediction and prioritization
+JO  - Scientific Reports
+SP  - 12303
+VL  - 14
+IS  - 1
+AB  - The application of machine learning (ML) to solve real-world problems does not only bear great potential but also high risk. One fundamental challenge in risk mitigation is to ensure the reliability of the ML predictions, i.e., the model error should be minimized, and the prediction uncertainty should be estimated. Especially for medical applications, the importance of reliable predictions can not be understated. Here, we address this challenge for anti-cancer drug sensitivity prediction and prioritization. To this end, we present a novel drug sensitivity prediction and prioritization approach guaranteeing user-specified certainty levels. The developed conformal prediction approach is applicable to classification, regression, and simultaneous regression and classification. Additionally, we propose a novel drug sensitivity measure that is based on clinically relevant drug concentrations and enables a straightforward prioritization of drugs for a given cancer sample.
+SN  - 2045-2322
+UR  - https://doi.org/10.1038/s41598-024-62956-6
+DO  - 10.1038/s41598-024-62956-6
+ID  - Lenhof2024
+ER  - 

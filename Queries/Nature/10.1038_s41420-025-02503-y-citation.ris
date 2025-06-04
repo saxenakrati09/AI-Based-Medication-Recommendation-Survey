@@ -1,0 +1,21 @@
+TY  - JOUR
+AU  - Xu, Da-Ming
+AU  - Chen, Ling-Xiao
+AU  - Xue, Ting
+AU  - Zhuang, Xiao-Yu
+AU  - Wei, Li-Chao
+AU  - Han, Hui
+AU  - Mo, Miao
+PY  - 2025
+DA  - 2025/05/20
+TI  - Decoding the impact of MMP1+ malignant subsets on tumor-immune interactions: insights from single-cell and spatial transcriptomics
+JO  - Cell Death Discovery
+SP  - 244
+VL  - 11
+IS  - 1
+AB  - Matrix metalloproteinase 1 plays a pivotal role in tumor biology and immune modulation through its enzymatic remodeling of the extracellular matrix, facilitating tumor progression. In this study, we utilized large-scale single-cell RNA sequencing and spatial transcriptomics to investigate MMP1 expression, its cellular localization, and its impact on tumor progression and immune modulation. Our findings reveal that MMP1 expression is elevated in various tumor types and is strongly correlated with metastatic potential. High MMP1 expression was associated with increased activity in epithelial–mesenchymal transition signaling and TNFα/NF-κB pathways, which are known to promote tumor progression. Furthermore, MMP1+ malignant cells exhibited significant interactions with immune cells, particularly macrophages and CD8+ T cells. MMP1 expression correlated with enhanced macrophage infiltration and impaired CD8+ T-cell function, contributing to an immunosuppressive tumor microenvironment. Notably, the CXCL16-CXCR6 and ANXA1-FPR3 signaling axes were identified as key mediators of these interactions. Inhibition of MMP1 in vitro demonstrated reduced cell invasion, stemness, and proliferation, while increasing reactive oxygen species levels and promoting apoptosis. Our findings position MMP1 as a key player in the “tumor-immune” vicious cycle and a promising therapeutic target to enhance anti-tumor responses and improve patient outcomes.
+SN  - 2058-7716
+UR  - https://doi.org/10.1038/s41420-025-02503-y
+DO  - 10.1038/s41420-025-02503-y
+ID  - Xu2025
+ER  - 

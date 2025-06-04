@@ -1,0 +1,21 @@
+TY  - JOUR
+AU  - Xu, Bin
+AU  - Zhang, Hai Long
+AU  - Shen, Bo
+AU  - Wu, Jia Mei
+AU  - Shi, Meng Ting
+AU  - Li, Xiao Duo
+AU  - Guo, Qiong
+PY  - 2025
+DA  - 2025/03/13
+TI  - Identification biomarkers and therapeutic targets of disulfidptosis-related in rheumatoid arthritis via bioinformatics, molecular dynamics simulation, and experimental validation
+JO  - Scientific Reports
+SP  - 8779
+VL  - 15
+IS  - 1
+AB  - The relationship between disulfidptosis and rheumatoid arthritis (RA) remains unclear. We aimed to identified biomarkers disulfidptosis-related in RA and revealed potential targeted drugs. Two microarray datasets (GSE93272, GSE45291) related to RA were downloaded from the Gene Expression Omnibus (GEO) database. Disulfidptosis-related genes(DRGs) were extracted from FerrDb database. GSE93272 was used to identify DRGs, and GSE45291 was used to verify results. Multivariate Cox regression analysis was used to identify candidate disulfidptosis-associated hub genes. The differentiated values of DRGs were determined by receiver operator characteristic (ROC) monofactor analysis to judge their potential quality as biomarkers. RT-qPCR were used to validate the expression of hub genes. Additionally, we analyzed the connection between the hub genes and the filtration of immune cells in RA. We made predictions about the miRNAs, TFs and possible drugs that regulate the hub genes. Subsequently, molecular docking was carried out to predict the combination of drugs with hub targets. Finally, molecular dynamics simulation was conducted to further verify the findings. Oxoacyl-ACP Synthase Mitochondrial(OXSM) was identified as a biomarker with high diagnostic value, and an RA diagnostic model based on OXSM for a single gene was constructed. The model showed high accuracy in distinguishing RA and healthy controls (AUC = 0.802) and was validated by external datasets, showing excellent diagnostic power (AUC = 0.982). Twelve potential drugs against RA were recognized by comparative toxicogenomics database (CTD). Molecular docking results showed that ICG 001 had the highest binding affinity to OXSM, and molecular dynamics simulations confirmed the stability of this complexes. Furthermore, CIBERSORT analysis showed a significant correlation between immune cell infiltration and OXSM, and a regulatory network of TFs-gene-miRNAs comprising 8 miRNAs and 34 TFs was identified. Finally, the RT-qPCR results showed that OXSM was significantly increased in the peripheral blood of RA patients compared with healthy controls, consistent with the bioinformatics analysis. These studies suggest that OXSM may be a potential biomarker and therapeutic target for diagnosing RA, and ICG 001 may be a potential drug for RA. These findings may provide new avenues for the effective diagnosis and treatment of RA.
+SN  - 2045-2322
+UR  - https://doi.org/10.1038/s41598-025-93656-4
+DO  - 10.1038/s41598-025-93656-4
+ID  - Xu2025
+ER  - 

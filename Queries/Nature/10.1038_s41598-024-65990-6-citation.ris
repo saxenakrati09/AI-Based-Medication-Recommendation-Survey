@@ -1,0 +1,21 @@
+TY  - JOUR
+AU  - Yi, Chen
+AU  - Yang, Jun
+AU  - Zhang, Ting
+AU  - Xie, Zilu
+AU  - Xiong, Qiliang
+AU  - Chen, Dongjuan
+AU  - Jiang, Shaofeng
+PY  - 2024
+DA  - 2024/07/29
+TI  - lncRNA signature mediates mitochondrial permeability transition-driven necrosis in regulating the tumor immune microenvironment of cervical cancer
+JO  - Scientific Reports
+SP  - 17406
+VL  - 14
+IS  - 1
+AB  - Mitochondrial permeability transition (MPT)-driven necrosis (MPTDN) was a regulated variant of cell death triggered by specific stimuli. It played a crucial role in the development of organisms and the pathogenesis of diseases, and may provide new strategies for treating various diseases. However, there was limited research on the mechanisms of MPTDN in cervical cancer (CESC) at present. In this study, Weighted Gene Co-expression Network Analysis (WGCNA) was performed on differentially expressed genes in CESC. The module MEyellow, which showed the highest correlation with the phenotype, was selected for in-depth analysis. It was found that the genes in the MEyellow module may be associated with the tumor immune microenvironment (TIME). Through COX univariate regression and LASSO regression analysis, 6 key genes were identified. These genes were further investigated from multiple perspectives, including their independent diagnostic value, prognostic value, specific regulatory mechanisms in the tumor immune microenvironment, drug sensitivity analysis, and somatic mutation analysis. This study provided a comprehensive exploration of the mechanisms of action of these 6 key genes in CESC patients. And qRT-PCR validation was also conducted. Through COX univariate regression and LASSO coefficient screening of the MEyellow module, 6 key genes were identified: CHRM3-AS2, AC096734.1, BISPR, LINC02446, LINC00944, and DGUOK-AS1. Evaluation of the independent diagnostic value of these 6 key genes revealed that they can serve as independent diagnostic biomarkers. Through correlation analysis among these 6 genes, a potential regulatory mechanism among them was identified. Therefore, a risk prognostic model was established based on the collective action of these 6 genes, and the model showed good performance in predicting the survival period of CESC patients. By studying the relationship between these 6 key genes and the tumor microenvironment of CESC patients from multiple angles, it was found that these 6 genes are key regulatory factors in the tumor immune microenvironment of CESC patients. Additionally, 16 drugs that are associated with these 6 key genes were identified, and 8 small molecule drugs were predicted based on the lncRNA-mRNA network. The 6 key genes can serve as independent biomarkers for diagnosis, and the Risk score of these genes when acting together can be used as an indicator for predicting the clinical survival period of CESC patients. Additionally, these 6 key genes were closely related to the tumor immune microenvironment of CESC patients and were the important regulatory factors in the tumor immune microenvironment of CESC patients.
+SN  - 2045-2322
+UR  - https://doi.org/10.1038/s41598-024-65990-6
+DO  - 10.1038/s41598-024-65990-6
+ID  - Yi2024
+ER  - 

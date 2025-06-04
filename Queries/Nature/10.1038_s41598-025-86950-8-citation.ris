@@ -1,0 +1,21 @@
+TY  - JOUR
+AU  - Li, Yongsheng
+AU  - Ding, Zhilong
+AU  - Cheng, Tingxin
+AU  - Hu, Yihuai
+AU  - Zhong, Fei
+AU  - Ren, Shiying
+AU  - Wang, Shiyan
+PY  - 2025
+DA  - 2025/02/02
+TI  - Single-cell transcriptomics analysis reveals dynamic changes and prognostic signature in tumor microenvironment of PDAC
+JO  - Scientific Reports
+SP  - 4025
+VL  - 15
+IS  - 1
+AB  - Pancreatic ductal adenocarcinoma (PDAC) is a highly lethal malignant tumor characterized by a complex tumor microenvironment (TME) with significant heterogeneity, posing immense challenges for devising effective therapeutic strategies. This study aims to elucidate the dynamic changes in the TME during PDAC progression and develop a prognostic model using single-cell RNA sequencing (scRNA-seq) data. We utilized a previously published comprehensive dataset comprising 31 samples (including 8 PDAC I, 9 PDAC II, 6 PDAC III, and 8 PDAC IV) to characterize the changes in TME composition with PDAC progression through advanced scRNA-seq analysis. We found that as cancer progresses, immune cells gradually become a predominant component in late-stage PDAC. We defined a novel Treg and exhausted T cell signature gene, TNFRSF4. Additionally, we identified a prognostic gene set (RPS10, MIF, MT-ATP6, CSTB, IFI30, NPC2, BTG1, CTSD, FCGR2A, SEC61G, IER3, HSPB1, HMOX1, and ZFP36L1) and differentiated high-risk from low-risk PDAC patients based on median risk score threshold. Based on these findings, we developed a novel prognostic model that identifies poorer prognosis in high-risk groups. Furthermore, our analysis revealed significant interactions between cells at different stages of PDAC and identified three promising therapeutic agents (XR-11576, Ixabepilone, and AMONAFIDE) based on correlated genes. Finally, molecular docking studies validated their potential by confirming stable binding with key protein targets. This study not only provides insights into the evolving TME of PDAC but also offers a new prognostic model and potential therapeutic strategies, contributing to improved management and treatment of this aggressive cancer.
+SN  - 2045-2322
+UR  - https://doi.org/10.1038/s41598-025-86950-8
+DO  - 10.1038/s41598-025-86950-8
+ID  - Li2025
+ER  - 

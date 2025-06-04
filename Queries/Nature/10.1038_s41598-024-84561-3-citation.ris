@@ -1,0 +1,22 @@
+TY  - JOUR
+AU  - Zhang, Shixuan
+AU  - Hu, Xiaoxi
+AU  - Sun, Mengzhen
+AU  - Chen, Xinrui
+AU  - Le, Shiguan
+AU  - Wang, Xilu
+AU  - Wang, Jiucun
+AU  - Hu, Zixin
+PY  - 2025
+DA  - 2025/04/15
+TI  - Potential role of hypobaric hypoxia environment in treating pan-cancer
+JO  - Scientific Reports
+SP  - 12942
+VL  - 15
+IS  - 1
+AB  - Cancer incidence and mortality are lower among high-altitude residents, suggesting that hypobaric hypoxia (HH) might protect against cancer. Our study aimed to develop a pan-cancer prognosis risk model using ADME genes, which are influenced by low oxygen, to explore HH’s impact on overall survival (OS) across various cancers. We constructed and validated the model with gene expression and survival data from 8628 samples, using three gene expression databases. AltitudeOmics confirmed HH’s significant effects. We employed single-gene prognostic analysis, weighted gene co-expression network analysis, and stepwise Cox regression to identify biomarkers and refine the model. Drugs interacting with the model were explored using LINCS L1000, AutoDockTools, and STITCH. Eight ADME genes significantly altered by HH were identified, revealing their prognostic value across cancers. The model showed lower risk scores linked to better prognosis in 25 cancers, with reduced overall gene expression and decreased tumor mortality risk. Higher T cell infiltration was observed in the low-risk group. Additionally, three potential drugs to modulate our model were identified. This study presents a novel pan-cancer survival prognosis model based on ADME genes influenced by HH, offering new insights into cancer prevention and treatment.
+SN  - 2045-2322
+UR  - https://doi.org/10.1038/s41598-024-84561-3
+DO  - 10.1038/s41598-024-84561-3
+ID  - Zhang2025
+ER  - 

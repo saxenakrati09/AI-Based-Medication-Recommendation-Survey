@@ -1,0 +1,24 @@
+TY  - JOUR
+AU  - Krentel, Friedemann
+AU  - Singer, Franziska
+AU  - Rosano-Gonzalez, María Lourdes
+AU  - Gibb, Ewan A.
+AU  - Liu, Yang
+AU  - Davicioni, Elai
+AU  - Keller, Nicola
+AU  - Stekhoven, Daniel J.
+AU  - Kruithof-de Julio, Marianna
+AU  - Seiler, Roland
+PY  - 2021
+DA  - 2021/03/12
+TI  - A showcase study on personalized in silico drug response prediction based on the genetic landscape of muscle invasive bladder cancer
+JO  - Scientific Reports
+SP  - 5849
+VL  - 11
+IS  - 1
+AB  - Improved and cheaper molecular diagnostics allow the shift from “one size fits all” therapies to personalised treatments targeting the individual tumor. However, the wealth of potential targets based on comprehensive sequencing remains a yet unsolved challenge that prevents its routine use in clinical practice. Thus, we designed a workflow that selects the most promising treatment targets based on multi-omics sequencing and in silico drug prediction. In this study we demonstrate the workflow with focus on bladder cancer (BLCA), as there are, to date, no reliable diagnostics available to predict the potential benefit of a therapeutic approach. Within the TCGA-BLCA cohort, our workflow identified a panel of 21 genes and 72 drugs that suggested personalized treatment for 95% of patients—including five genes not yet reported as prognostic markers for clinical testing in BLCA. The automated predictions were complemented by manually curated data, thus allowing for accurate sensitivity- or resistance-directed drug response predictions. We discuss potential improvements of drug-gene interaction databases on the basis of pitfalls that were identified during manual curation.
+SN  - 2045-2322
+UR  - https://doi.org/10.1038/s41598-021-85151-3
+DO  - 10.1038/s41598-021-85151-3
+ID  - Krentel2021
+ER  - 

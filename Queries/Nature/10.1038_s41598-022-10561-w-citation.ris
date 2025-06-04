@@ -1,0 +1,22 @@
+TY  - JOUR
+AU  - Song, Dingli
+AU  - Zhang, Dai
+AU  - Chen, Sisi
+AU  - Wu, Jie
+AU  - Hao, Qian
+AU  - Zhao, Lili
+AU  - Ren, Hong
+AU  - Du, Ning
+PY  - 2022
+DA  - 2022/04/28
+TI  - Identification and validation of prognosis-associated DNA repair gene signatures in colorectal cancer
+JO  - Scientific Reports
+SP  - 6946
+VL  - 12
+IS  - 1
+AB  - Colorectal cancer (CRC) is the third most common malignant tumor. DNA damage plays a crucial role in tumorigenesis, and abnormal DNA repair pathways affect the occurrence and progression of CRC. In the current study, we aimed to construct a DNA repair-related gene (DRG) signature to predict the overall survival (OS) of patients with CRC patients. The differentially expressed DRGs (DE-DRGs) were analyzed using The Cancer Genome Atlas (TCGA) and Gene Expression Omnibus (GEO) databases. The prognostic gene signature was identified by univariate Cox regression and least absolute shrinkage and selection operator (LASSO)-penalized Cox proportional hazards regression analysis. The predictive ability of the model was evaluated using the Kaplan–Meier curves and time-dependent receiver operating characteristic (ROC) curves. The gene set enrichment analysis (GSEA) was performed to explore the underlying biological processes and signaling pathways. ESTIMATE and CIBERSORT were implemented to estimate the tumor immune score and immune cell infiltration status between the different risk group. The half-maximal inhibitory concentration (IC50) was evaluated to representing the drug response of this signature. Nine DE-DRGs (ESCO2, AXIN2, PLK1, CDC25C, IGF1, TREX2, ALKBH2, ESR1 and MC1R) signatures was constructed to classify patients into high- and low-risk groups. The risk score was an independent prognostic indicator of OS (hazard ratio > 1, P < 0.001). The genetic alteration analysis indicated that the nine DE-DRGs in the signature were changed in 63 required samples (100%), and the major alteration was missense mutation. Function enrichment analysis revealed that the immune response and mtotic sister chromatid segregation were the main biological processes. The high-risk group had higher immune score than the low-risk group. What’s more, low-risk patients were more sensitive to selumetinib and dasatinib. The nine DE-DRGs signature was significantly associated with OS and provided a new insight for the diagnosis and treatment of CRC.
+SN  - 2045-2322
+UR  - https://doi.org/10.1038/s41598-022-10561-w
+DO  - 10.1038/s41598-022-10561-w
+ID  - Song2022
+ER  - 

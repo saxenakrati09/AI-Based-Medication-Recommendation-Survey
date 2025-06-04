@@ -1,0 +1,15 @@
+TY  - JOUR
+AU  - Ilin, Cornelia
+PY  - 2024
+DA  - 2024/07/04
+TI  - Early detection of pediatric health risks using maternal and child health data
+JO  - Scientific Reports
+SP  - 15350
+VL  - 14
+IS  - 1
+AB  - Machine learning (ML)-driven diagnosis systems are particularly relevant in pediatrics given the well-documented impact of early-life health conditions on later-life outcomes. Yet, early identification of diseases and their subsequent impact on length of hospital stay for this age group has so far remained uncharacterized, likely because access to relevant health data is severely limited. Thanks to a confidential data use agreement with the California Department of Health Care Access and Information, we introduce Ped-BERT: a state-of-the-art deep learning model that accurately predicts the likelihood of 100+ conditions and the length of stay in a pediatric patient’s next medical visit. We link mother-specific pre- and postnatal period health information to pediatric patient hospital discharge and emergency room visits. Our data set comprises 513.9K mother–baby pairs and contains medical diagnosis codes, length of stay, as well as temporal and spatial pediatric patient characteristics, such as age and residency zip code at the time of visit. Following the popular bidirectional encoder representations from the transformers (BERT) approach, we pre-train Ped-BERT via the masked language modeling objective to learn embedding features for the diagnosis codes contained in our data. We then continue to fine-tune our model to accurately predict primary diagnosis outcomes and length of stay for a pediatric patient’s next visit, given the history of previous visits and, optionally, the mother’s pre- and postnatal health information. We find that Ped-BERT generally outperforms contemporary and state-of-the-art classifiers when trained with minimum features. We also find that incorporating mother health attributes leads to significant improvements in model performance overall and across all patient subgroups in our data. Our most successful Ped-BERT model configuration achieves an area under the receiver operator curve (ROC AUC) of 0.927 and an average precision score (APS) of 0.408 for the diagnosis prediction task, and a ROC AUC of 0.855 and APS of 0.815 for the length of hospital stay task. Further, we examine Ped-BERT’s fairness by determining whether prediction errors are evenly distributed across various subgroups of mother–baby demographics and health characteristics, or if certain subgroups exhibit a higher susceptibility to prediction errors.
+SN  - 2045-2322
+UR  - https://doi.org/10.1038/s41598-024-65449-8
+DO  - 10.1038/s41598-024-65449-8
+ID  - Ilin2024
+ER  - 

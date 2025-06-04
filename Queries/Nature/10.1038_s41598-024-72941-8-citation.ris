@@ -1,0 +1,23 @@
+TY  - JOUR
+AU  - Wu, Tingyu
+AU  - Shi, Weipeng
+AU  - Zhou, Yinxue
+AU  - Guo, Sijia
+AU  - Tian, Hua
+AU  - Jiang, Yaping
+AU  - Li, Weiyan
+AU  - Wang, Yingzhen
+AU  - Li, Tao
+PY  - 2024
+DA  - 2024/09/16
+TI  - Identification and validation of endoplasmic reticulum stress-related genes in patients with steroid-induced osteonecrosis of the femoral head
+JO  - Scientific Reports
+SP  - 21634
+VL  - 14
+IS  - 1
+AB  - Steroid-induced osteonecrosis of the femoral head (SONFH) is a debilitating condition caused by long-term corticosteroid use, leading to impaired blood flow and bone cell death. The disruption of cellular processes and promotion of apoptosis by endoplasmic reticulum stress (ERS) is implicated in the pathogenesis of SONFH. We identified ERS-associated genes in SONFH and investigated their potential as therapeutic targets. We analysed the GSE123568 GEO dataset to identify differentially expressed genes (DEGs) related to ERS in SONFH. We conducted Gene Ontology (GO) and Kyoto Encyclopedia of Genes and Genomes (KEGG) pathway enrichment analyses, identified hub genes by protein-protein interaction (PPI) analyses, and evaluated their functions by gene set enrichment analysis (GSEA). We constructed mRNA–miRNA networks, identified potential therapeutics, and assessed immune cell infiltration. We performed cross-validation using the GEO dataset GSE74089, qRT-PCR on clinical samples from patients with SONFH and controls, and a receiver operating characteristic (ROC) curve analysis to assess the diagnostic performance of the hub genes. We identified 195 ERS-related genes in SONFH, which were primarily involved in oxidative stress, immune responses, and metabolic pathways. The PPI network suggested CXCL8, STAT3, IL1B, TLR4, PTGS2, TLR2, CASP1, CYBB, CAT, and HOMX1 to be key hub genes, which were shown by GSEA to be involved in biological pathways related to metabolism, immune modulation, and cellular integrity. We also identified 261 microRNAs (miRNAs) as well as drugs such as dibenziodolium and N-acetyl-L-cysteine that modulated inflammatory responses in SONFH. Twenty-two immune cell subtypes showed significant correlations, such as a positive correlation between activated mast cells and Tregs, and patients with SONFH had fewer dendritic cells than controls. The hub genes CYBB and TLR4 showed significant correlations with M1 macrophages and CD8 T cells, respectively. Cross-validation and qRT-PCR confirmed the upregulation of STAT3, IL1B, TLR2, and CASP1 in patients with SONFH, validating the bioinformatics findings. An ROC curve analysis confirmed the diagnostic potential of the hub genes. The top 10 hub genes show promise as ERS-related diagnostic biomarkers for SONFH. We discovered that 261 miRNAs, including hsa-miR-23, influence these genes and identified potential therapeutics such as dibenziodolium and simvastatin. Immune profiling indicated altered immune functions in SONFH, with significant correlations among immune cell types. Validation confirmed the upregulation of STAT3, IL1B, TLR2 and CASP1, which had diagnostic potential. The findings suggest potential diagnostic markers and therapeutic targets for SONFH.
+SN  - 2045-2322
+UR  - https://doi.org/10.1038/s41598-024-72941-8
+DO  - 10.1038/s41598-024-72941-8
+ID  - Wu2024
+ER  - 

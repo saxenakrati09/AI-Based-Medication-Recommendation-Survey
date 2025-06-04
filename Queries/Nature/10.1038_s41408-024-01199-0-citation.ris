@@ -1,0 +1,47 @@
+TY  - JOUR
+AU  - Zhu, Mengyan
+AU  - Li, Ning
+AU  - Fan, Lei
+AU  - Wu, Rongrong
+AU  - Cao, Lei
+AU  - Ren, Yimin
+AU  - Lu, Chuanyang
+AU  - Zhang, Lishen
+AU  - Cai, Yun
+AU  - Shi, Yuzhu
+AU  - Lin, Zihan
+AU  - Lu, Xueying
+AU  - Leng, Jiayan
+AU  - Zhong, Shiyang
+AU  - Hu, Xingfei
+AU  - Huang, Bin
+AU  - Huang, Runheng
+AU  - Zhou, Wanting
+AU  - Yao, Diru
+AU  - Wu, Lingxiang
+AU  - Wu, Wei
+AU  - Liu, Quanzhong
+AU  - Xia, Peng
+AU  - Chen, Ruize
+AU  - Shi, Wenyu
+AU  - Zhang, Ruohan
+AU  - Lv, Sali
+AU  - Wang, Chunling
+AU  - Yu, Liang
+AU  - Li, Jianyong
+AU  - Wang, Qianghu
+AU  - Li, Kening
+AU  - Jin, Hui
+PY  - 2024
+DA  - 2024/12/18
+TI  - Single-cell transcriptomic and spatial analysis reveal the immunosuppressive microenvironment in relapsed/refractory angioimmunoblastic T-cell lymphoma
+JO  - Blood Cancer Journal
+SP  - 218
+VL  - 14
+IS  - 1
+AB  - Angioimmunoblastic T-cell lymphoma (AITL) is a kind of aggressive T-cell lymphoma with significant enrichment of non-malignant tumor microenvironment (TME) cells. However, the complexity of TME in AITL progression is poorly understood. We performed single-cell RNA-Seq (scRNA-seq) and imaging mass cytometry (IMC) analysis to compare the cellular composition and spatial architecture between relapsed/refractory AITL (RR-AITL) and newly diagnosed AITL (ND-AITL). Our results showed that the malignant T follicular helper (Tfh) cells showed significantly increased proliferation driven by transcriptional activation of YY1 in RR-AITL, which is markedly associated with the poor prognosis of AITL patients. The CD8+ T cell proportion and cytotoxicity decreased in RR-AITL TME, resulting from elevated expression of the inhibitory checkpoints such as PD-1, TIGIT, and CTLA4. Notably, the transcriptional pattern of B cells in RR-AITL showed an intermediate state of malignant transformation to B-cell-lymphoma, and contributed to immune evasion by highly expressing CD47 and PD-L1. Besides, compared to ND-AITL samples, myeloid-cells-centered spatial communities were more prevalent but showed reduced phagocytic activity and impaired antigen processing and presentation in RR-AITL TME. Furthermore, specific inhibitory ligand-receptor interactions, such as CLEC2D-KLRB1, CTLA4-CD86, and MIF-CD74, were exclusively identified in the RR-AITL TME. Our study provides a high-resolution characterization of the immunosuppression ecosystem and reveals the potential therapeutic targets for RR-AITL patients.
+SN  - 2044-5385
+UR  - https://doi.org/10.1038/s41408-024-01199-0
+DO  - 10.1038/s41408-024-01199-0
+ID  - Zhu2024
+ER  - 

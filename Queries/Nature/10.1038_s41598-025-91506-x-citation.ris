@@ -1,0 +1,21 @@
+TY  - JOUR
+AU  - Li, Kaiyuan
+AU  - Han, Lingyu
+AU  - Wang, Xiaowen
+AU  - Zheng, Zhipeng
+AU  - Sha, Min
+AU  - Ye, Jun
+AU  - Zhu, Li
+PY  - 2025
+DA  - 2025/04/01
+TI  - BRD4 as the key lactylation related gene in heart failure identified through bioinformatics analysis
+JO  - Scientific Reports
+SP  - 11107
+VL  - 15
+IS  - 1
+AB  - Lactylation modification is postulated to influence the progression of heart failure (HF) through diverse pathways, albeit the underlying mechanisms remain elusive. Methods In this study, bioinformatics approaches were employed to analyze the HF dataset (GSE5406) retrieved from the Gene Expression Omnibus, with the objective of identifying lactylation-related genes (LRGs). Key LRGs implicated in HF were selected using the Least Absolute Shrinkage and Selection Operator (LASSO) and Weighted Gene Co-Expression Network Analysis (WGCNA). The diagnostic efficacy and biological significance of these genes were evaluated through receiver operating characteristic (ROC) curve analysis, Gene Set Enrichment Analysis, and immune cell infiltration analysis. Furthermore, the findings were validated using single-cell sequencing datasets (GSE161470) and in vitro cell models to ascertain the expression patterns and functional roles of the identified key LRGs. A total of 276 LRGs were identified from the HF dataset. Initial screening utilizing two bioinformatics analysis methods pinpointed BRD4 as a potential pivotal LRG influencing HF progression. ROC analysis revealed a high diagnostic accuracy for BRD4, with an Area Under the Curve score of 0.877. Immune cell infiltration and single-cell data analyses indicated that BRD4 exhibits a strong association with immune cells, including mast cells, T cells, and macrophages, and demonstrates significantly elevated expression in these immune cells as well as in cardiomyocytes. Both BRD4 mRNA and protein levels were found to be upregulated compared to control groups. This study represents the first to utilize multiple bioinformatics analysis methods to identify BRD4 as a key LRG in HF, thereby establishing a foundation for future investigations into acylation-related mechanisms in HF. 
+SN  - 2045-2322
+UR  - https://doi.org/10.1038/s41598-025-91506-x
+DO  - 10.1038/s41598-025-91506-x
+ID  - Li2025
+ER  - 

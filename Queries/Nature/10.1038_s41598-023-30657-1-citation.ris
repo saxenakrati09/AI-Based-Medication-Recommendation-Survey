@@ -1,0 +1,22 @@
+TY  - JOUR
+AU  - Antikainen, Emmi
+AU  - Linnosmaa, Joonas
+AU  - Umer, Adil
+AU  - Oksala, Niku
+AU  - Eskola, Markku
+AU  - van Gils, Mark
+AU  - Hernesniemi, Jussi
+AU  - Gabbouj, Moncef
+PY  - 2023
+DA  - 2023/03/02
+TI  - Transformers for cardiac patient mortality risk prediction from heterogeneous electronic health records
+JO  - Scientific Reports
+SP  - 3517
+VL  - 13
+IS  - 1
+AB  - With over 17 million annual deaths, cardiovascular diseases (CVDs) dominate the cause of death statistics. CVDs can deteriorate the quality of life drastically and even cause sudden death, all the while inducing massive healthcare costs. This work studied state-of-the-art deep learning techniques to predict increased risk of death in CVD patients, building on the electronic health records (EHR) of over 23,000 cardiac patients. Taking into account the usefulness of the prediction for chronic disease patients, a prediction period of six months was selected. Two major transformer models that rely on learning bidirectional dependencies in sequential data, BERT and XLNet, were trained and compared. To our knowledge, the presented work is the first to apply XLNet on EHR data to predict mortality. The patient histories were formulated as time series consisting of varying types of clinical events, thus enabling the model to learn increasingly complex temporal dependencies. BERT and XLNet achieved an average area under the receiver operating characteristic curve (AUC) of 75.5% and 76.0%, respectively. XLNet surpassed BERT in recall by 9.8%, suggesting that it captures more positive cases than BERT, which is the main focus of recent research on EHRs and transformers.
+SN  - 2045-2322
+UR  - https://doi.org/10.1038/s41598-023-30657-1
+DO  - 10.1038/s41598-023-30657-1
+ID  - Antikainen2023
+ER  - 

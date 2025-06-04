@@ -1,0 +1,24 @@
+TY  - JOUR
+AU  - Wu, Hanlin
+AU  - Yang, Zheming
+AU  - Wang, Jing
+AU  - Bu, Yuxin
+AU  - Wang, Yani
+AU  - Xu, Kai
+AU  - Li, Jing
+AU  - Yan, Chenghui
+AU  - Liu, Dan
+AU  - Han, Yaling
+PY  - 2024
+DA  - 2024/01/02
+TI  - Exploring shared therapeutic targets in diabetic cardiomyopathy and diabetic foot ulcers through bioinformatics analysis
+JO  - Scientific Reports
+SP  - 230
+VL  - 14
+IS  - 1
+AB  - Advanced diabetic cardiomyopathy (DCM) patients are often accompanied by severe peripheral artery disease. For patients with DCM combined with diabetic foot ulcer (DFU), there are currently no good therapeutic targets and drugs. Here, we investigated the underlying network of molecular actions associated with the occurrence of these two complications. The datasets were downloaded from the Gene Expression Omnibus (GEO) database. We performed enrichment and protein–protein interaction analyses, and screened for hub genes. Construct transcription factors (TFs) and microRNAs regulatory networks for validated hub genes. Finally, drug prediction and molecular docking verification were performed. We identified 299 common differentially expressed genes (DEGs), many of which were involved in inflammation and lipid metabolism. 6 DEGs were identified as hub genes (PPARG, JUN, SLC2A1, CD4, SCARB1 and SERPINE1). These 6 hub genes were associated with inflammation and immune response. We identified 31 common TFs and 2 key miRNAs closely related to hub genes. Interestingly, our study suggested that fenofibrate, a lipid-lowering medication, holds promise as a potential treatment for DCM combined with DFU due to its stable binding to the identified hub genes. Here, we revealed a network involves a common target for DCM and DFU. Understanding these networks and hub genes is pivotal for advancing our comprehension of the multifaceted complications of diabetes and facilitating the development of future therapeutic interventions.
+SN  - 2045-2322
+UR  - https://doi.org/10.1038/s41598-023-50954-z
+DO  - 10.1038/s41598-023-50954-z
+ID  - Wu2024
+ER  - 

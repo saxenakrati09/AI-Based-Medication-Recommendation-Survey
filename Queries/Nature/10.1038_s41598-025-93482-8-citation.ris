@@ -1,0 +1,22 @@
+TY  - JOUR
+AU  - Wei, Wenyuan
+AU  - Dang, Ying
+AU  - Chen, Gang
+AU  - Han, Chao
+AU  - Zhang, Siwei
+AU  - Zhu, Ziqiang
+AU  - Bie, Xiaohua
+AU  - Xue, Jungang
+PY  - 2025
+DA  - 2025/03/19
+TI  - Comprehensive analysis of senescence-related genes identifies prognostic clusters with distinct characteristics in glioma
+JO  - Scientific Reports
+SP  - 9540
+VL  - 15
+IS  - 1
+AB  - Cellular senescence, defined as a state of permanent arrest in cell growth, is regarded as a crucial tumor suppression mechanism. However, accumulating scientific evidence suggests that senescent cells play a detrimental role in the progression of cancer. Unfortunately, the current lack of reliable markers that specifically reflect the level of senescence in cancer greatly hinders our in-depth understanding of this important biological foundation. Therefore, the search for more specific and reliable markers to reveal the specific role of senescent cells in cancer progression is particularly urgent and important. To uncover the role of senescence in gliomas, we collected senescence-related genes for integrated analysis. Consensus clustering was used to subtype gliomas based on the senescence gene set, and we identified two robust prognostic clusters of gliomas with distinct survival outcomes, multi-omics landscapes, immune characteristics, and differential drug responses. Multiple external datasets were used to validate the stability of our subtypes. Various computational and experimental methods, including WGCNA (Weighted Gene Co-expression Network Analysis), ssGSEA (single-sample Gene Set Enrichment Analysis), and machine learning algorithms (lasso regression, support vector machines, random forests), were employed for analysis. We found that CEBPB and LMNA are associated with poor prognosis in gliomas and may mediate immunosuppression and tumor proliferation. Drug prediction indicated that dasatinib is a potential therapeutic agent. Our findings provide insights into the role of the senescence gene set in patient stratification and precision medicine.
+SN  - 2045-2322
+UR  - https://doi.org/10.1038/s41598-025-93482-8
+DO  - 10.1038/s41598-025-93482-8
+ID  - Wei2025
+ER  - 

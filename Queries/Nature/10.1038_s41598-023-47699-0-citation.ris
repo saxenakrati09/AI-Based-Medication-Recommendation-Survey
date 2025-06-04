@@ -1,0 +1,23 @@
+TY  - JOUR
+AU  - Feng, Shaodan
+AU  - Cai, Kexin
+AU  - Lin, Siming
+AU  - Chen, Xiaojun
+AU  - Luo, Yuqing
+AU  - Wang, Jing
+AU  - Lian, Guili
+AU  - Lin, Zhihong
+AU  - Xie, Liangdi
+PY  - 2023
+DA  - 2023/11/23
+TI  - Exploring potential therapeutic agents for lipopolysaccharide-induced septic cardiomyopathy based on transcriptomics using bioinformatics
+JO  - Scientific Reports
+SP  - 20589
+VL  - 13
+IS  - 1
+AB  - Septic cardiomyopathy (SCM) is a common and severe complication of sepsis, characterized by left ventricular dilation and reduced ejection fraction leading to heart failure. The pathogenesis of SCM remains unclear. Understanding the SCM pathogenesis is essential in the search for effective therapeutic agents for SCM. This study was to investigate the pathophysiology of SCM and explore new therapeutic drugs by bioinformatics. An SCM rat model was established by injection of 10 mg/kg lipopolysaccharide (LPS) for 24 h, and the myocardial tissues were collected for RNA sequencing. The differentially expressed genes (DEGs) between LPS rats and control (Ctrl) with the thresholds of |log2fold change|≥ 1 and P < 0.05. A protein–protein interaction (PPI) network was constructed based on the DEGs. The hub genes were identified using five algorithms of Cytoscape in the PPI networks and validated in the GSE185754 dataset and by RT-qPCR. The hub genes were analyzed by Gene ontology (GO) analysis and Kyoto Encyclopedia of Genes and Genomes (KEGG), as well as Gene set enrichment analyses (GSEA). In addition, the miRNAs of hub genes were predicted through miRWalk, and the candidate therapeutic drugs were identified using the Connectivity Map (CMAP) database. This study revealed the identified hub genes (Itgb1, Il1b, Rac2, Vegfa) and key miRNAs (rno-miR-541-5p, rno-miR-487b-3p, rno-miR-1224, rno-miR-378a-5p, rno-miR-6334, and rno-miR-466b-5p), which were potential biological targets and biomarkers of SCM. Anomalies in cytokine-cytokine receptor interactions, complement and coagulation cascades, chemokine signaling pathways, and MAPK signaling pathways also played vital roles in SCM pathogenesis. Two high-confidence candidate compounds (KU-0063794 and dasatinib) were identified from the CMAP database as new therapeutic drugs for SCM. In summary, these four identified hub genes and enrichment pathways may hold promise for diagnosing and treating SCM.
+SN  - 2045-2322
+UR  - https://doi.org/10.1038/s41598-023-47699-0
+DO  - 10.1038/s41598-023-47699-0
+ID  - Feng2023
+ER  - 

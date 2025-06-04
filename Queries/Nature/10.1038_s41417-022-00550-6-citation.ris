@@ -1,0 +1,36 @@
+TY  - JOUR
+AU  - Wang, Xuya
+AU  - Wang, Xisen
+AU  - Li, Jiabo
+AU  - Liang, Jianshen
+AU  - Ren, Xiao
+AU  - Yun, Debo
+AU  - Liu, Jie
+AU  - Fan, Jikang
+AU  - Zhang, Yiming
+AU  - Zhang, Jinhao
+AU  - Ren, Xiude
+AU  - Zhang, Hao
+AU  - Shang, Guanjie
+AU  - Sun, Jinzhang
+AU  - Chen, Lulu
+AU  - Chen, Lei
+AU  - Li, Tao
+AU  - Tong, Luqing
+AU  - Zhang, Chen
+AU  - Yu, Shengping
+AU  - Yang, Xuejun
+PY  - 2023
+DA  - 2023/02/01
+TI  - PDPN contributes to constructing immunosuppressive microenvironment in IDH wildtype glioma
+JO  - Cancer Gene Therapy
+SP  - 345
+EP  - 357
+VL  - 30
+IS  - 2
+AB  - The tumor immunosuppressive microenvironment (IME) significantly affects tumor occurrence, progression, and prognosis, but the underlying molecular mechanisms remain to make known. We investigated the prognostic significance of PDPN and its role in IME in glioma. Weighted gene co-expression network analysis (WGCNA) found PDPN closely related to IDH wildtype status and higher immune score. Correlation analysis suggested PDPN was highly positively relevant to immune checkpoints expression and immune checkpoints block responding status. Correlation analysis together with verification in vitro suggested PDPN highly positively relevant tumor-associated neutrophils (TANs) and tumor-associated macrophages (TAMs). Least absolute shrinkage and selection operator (LASSO) regression employed to develop the prediction model with TANs and TAMs markers showed that high risk scores predicted worse prognosis. We highlight that PDPN overexpression is an independent prognostic indicator, and promotes macrophage M2 polarization and neutrophil degranulation, ultimately devotes to the formation of an immunosuppressive tumor microenvironment. Our findings contribute to re-recognizing the role of PDPN in IDH wildtype gliomas and implicate promising target therapy combined with immunotherapy for this highly malignant tumor.
+SN  - 1476-5500
+UR  - https://doi.org/10.1038/s41417-022-00550-6
+DO  - 10.1038/s41417-022-00550-6
+ID  - Wang2023
+ER  - 

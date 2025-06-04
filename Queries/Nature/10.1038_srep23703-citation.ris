@@ -1,0 +1,17 @@
+TY  - JOUR
+AU  - Silberberg, Yael
+AU  - Kupiec, Martin
+AU  - Sharan, Roded
+PY  - 2016
+DA  - 2016/03/30
+TI  - Utilizing yeast chemogenomic profiles for the prediction of pharmacogenomic associations in humans
+JO  - Scientific Reports
+SP  - 23703
+VL  - 6
+IS  - 1
+AB  - Understanding the genetic basis underlying individual responses to drug treatment is a fundamental task with implications to drug development and administration. Pharmacogenomics is the study of the genes that affect drug response. The study of pharmacogenomic associations between a drug and a gene that influences the interindividual drug response, which is only beginning, holds much promise and potential. Although relatively few pharmacogenomic associations between drugs and specific genes were mapped in humans, large systematic screens have been carried out in the yeast Saccharomyces cerevisiae, motivating the constructing of a projection method. We devised a novel approach for the prediction of pharmacogenomic associations in humans using genome-scale chemogenomic data from yeast. We validated our method using both cross-validation and comparison to known drug-gene associations extracted from multiple data sources, attaining high AUC scores. We show that our method outperforms a previous technique, as well as a similar method based on known human associations. Last, we analyze the predictions and demonstrate their biological relevance to understanding drug response.
+SN  - 2045-2322
+UR  - https://doi.org/10.1038/srep23703
+DO  - 10.1038/srep23703
+ID  - Silberberg2016
+ER  - 

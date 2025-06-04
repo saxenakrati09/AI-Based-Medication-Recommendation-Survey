@@ -1,0 +1,21 @@
+TY  - JOUR
+AU  - Liu, Guoqing
+AU  - Liao, Wang
+AU  - Lv, Xiangwen
+AU  - Huang, Lifeng
+AU  - He, Min
+AU  - Li, Lang
+PY  - 2024
+DA  - 2024/12/01
+TI  - A potential coagulation-related diagnostic model associated with immune infiltration for acute myocardial infarction
+JO  - Genes & Immunity
+SP  - 471
+EP  - 482
+VL  - 25
+IS  - 6
+AB  - The production of pro-coagulation factors can affect the development and prognosis of acute myocardial infarction (AMI). The clinical value of coagulation-related genes (CRGs) was investigated to discover new targets for diagnosing and treating AMI. We screened 335 differentially expressed genes (DEGs) between AMI and healthy individuals based on the GSE66360 dataset. We took the intersection of the obtained DEGs with 139 CRGs. Finally, 10 differentially expressed CEGs were screened out. The random forest algorithm was constructed to identify 6 signature CRGs (THBS1, SERPINA1, THBD, MMP9, MAFF, and PLAU). Subsequently, the established predictive model was found to have good diagnostic accuracy (AUC = 0.9694 in the training cohort [GSE66360 dataset] and 0.9076 in the external validation cohort [GSE48060 dataset]). Consensus clustering identified the CRG clusters, and the accuracy of the grouping was verified. We found that AMI patients can be divided into two distinct subgroups based on the differentially expressed CRGs. Immune cell infiltration level was consistent with the expression levels of CRGs based on single sample gene set enrichment analysis. These findings reveal the potential role of CRGs in AMI. Characterizing the coagulation features of AMI patients can help in the risk stratification of patients and provide personalized treatment strategies.
+SN  - 1476-5470
+UR  - https://doi.org/10.1038/s41435-024-00298-z
+DO  - 10.1038/s41435-024-00298-z
+ID  - Liu2024
+ER  - 

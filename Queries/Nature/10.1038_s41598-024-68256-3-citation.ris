@@ -1,0 +1,22 @@
+TY  - JOUR
+AU  - Sun, Qihang
+AU  - Zheng, Shubin
+AU  - Tang, Wei
+AU  - Wang, Xiaoyu
+AU  - Wang, Qi
+AU  - Zhang, Ruijie
+AU  - Zhang, Ni
+AU  - Ping, Wei
+PY  - 2024
+DA  - 2024/08/06
+TI  - Prediction of lung adenocarcinoma prognosis and diagnosis with a novel model anchored in circadian clock-related genes
+JO  - Scientific Reports
+SP  - 18202
+VL  - 14
+IS  - 1
+AB  - Lung adenocarcinoma is the most common primary lung cancer seen in the world, and identifying genetic markers is essential for predicting the prognosis of lung adenocarcinoma and improving treatment outcomes. It is well known that alterations in circadian rhythms are associated with a higher risk of cancer. Moreover, circadian rhythms play a regulatory role in the human body. Therefore, studying the changes in circadian rhythms in cancer patients is crucial for optimizing treatment. The gene expression data and clinical data were sourced from TCGA database, and we identified the circadian clock-related genes. We used the obtained TCGA-LUAD data set to build the model, and the other 647 lung adenocarcinoma patients’ data were collected from two GEO data sets for external verification. A risk score model for circadian clock-related genes was constructed, based on the identification of 8 genetically significant genes. Based on ROC analyses, the risk model demonstrated a high level of accuracy in predicting the overall survival times of lung adenocarcinoma patients in training folds, as well as external data sets. This study has successfully constructed a risk model for lung adenocarcinoma prognosis, utilizing circadian rhythm as its foundation. This model demonstrates a dependable capacity to forecast the outcome of the disease, which can further guide the relevant mechanism of lung adenocarcinoma and combine behavioral therapy with treatment to optimize treatment decision-making.
+SN  - 2045-2322
+UR  - https://doi.org/10.1038/s41598-024-68256-3
+DO  - 10.1038/s41598-024-68256-3
+ID  - Sun2024
+ER  - 

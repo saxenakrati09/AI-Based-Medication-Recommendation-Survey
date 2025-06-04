@@ -1,0 +1,18 @@
+TY  - JOUR
+AU  - Timilsina, Mohan
+AU  - Tandan, Meera
+AU  - d’Aquin, Mathieu
+AU  - Yang, Haixuan
+PY  - 2019
+DA  - 2019/07/18
+TI  - Discovering Links Between Side Effects and Drugs Using a Diffusion Based Method
+JO  - Scientific Reports
+SP  - 10436
+VL  - 9
+IS  - 1
+AB  - Identifying the unintended effects of drugs (side effects) is a very important issue in pharmacological studies. The laboratory verification of associations between drugs and side effects requires costly, time-intensive research. Thus, an approach to predicting drug side effects based on known side effects, using a computational model, is highly desirable. To provide such a model, we used openly available data resources to model drugs and side effects as a bipartite graph. The drug-drug network is constructed using the word2vec model where the edges between drugs represent the semantic similarity between them. We integrated the bipartite graph and the semantic similarity graph using a matrix factorization method and a diffusion based model. Our results show the effectiveness of this integration by computing weighted (i.e., ranked) predictions of initially unknown links between side effects and drugs.
+SN  - 2045-2322
+UR  - https://doi.org/10.1038/s41598-019-46939-6
+DO  - 10.1038/s41598-019-46939-6
+ID  - Timilsina2019
+ER  - 

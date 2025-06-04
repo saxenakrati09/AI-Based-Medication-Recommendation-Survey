@@ -1,0 +1,19 @@
+TY  - JOUR
+AU  - Yang, Yang
+AU  - Luo, Tingjin
+AU  - Li, Zhoujun
+AU  - Zhang, Xiaoming
+AU  - Yu, Philip S.
+PY  - 2017
+DA  - 2017/07/12
+TI  - A Robust Method for Inferring Network Structures
+JO  - Scientific Reports
+SP  - 5221
+VL  - 7
+IS  - 1
+AB  - Inferring the network structure from limited observable data is significant in molecular biology, communication and many other areas. It is challenging, primarily because the observable data are sparse, finite and noisy. The development of machine learning and network structure study provides a great chance to solve the problem. In this paper, we propose an iterative smoothing algorithm with structure sparsity (ISSS) method. The elastic penalty in the model is introduced for the sparse solution, identifying group features and avoiding over-fitting, and the total variation (TV) penalty in the model can effectively utilize the structure information to identify the neighborhood of the vertices. Due to the non-smoothness of the elastic and structural TV penalties, an efficient algorithm with the Nesterov’s smoothing optimization technique is proposed to solve the non-smooth problem. The experimental results on both synthetic and real-world networks show that the proposed model is robust against insufficient data and high noise. In addition, we investigate many factors that play important roles in identifying the performance of ISSS.
+SN  - 2045-2322
+UR  - https://doi.org/10.1038/s41598-017-04725-2
+DO  - 10.1038/s41598-017-04725-2
+ID  - Yang2017
+ER  - 

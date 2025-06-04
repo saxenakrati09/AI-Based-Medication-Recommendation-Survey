@@ -1,0 +1,21 @@
+TY  - JOUR
+AU  - Xu, Liying
+AU  - Wang, Pingzhi
+AU  - Yang, Lei
+AU  - Liu, Yinlian
+AU  - Li, Xiangping
+AU  - Yin, Yajie
+AU  - Lan, Caiqin
+PY  - 2025
+DA  - 2025/04/07
+TI  - Neurotrophic factor biomarkers for ischemic stroke diagnosis and mechanistic insights
+JO  - Scientific Reports
+SP  - 11906
+VL  - 15
+IS  - 1
+AB  - Ischemic stroke (IS), a multifactorial disease resulting from the complex interplay of various environmental and genetic risk factors. Neurotrophic factors (NTFs) have a potential role in IS, but the exact mechanisms are unknown. The aim of this study was to identify biomarkers associated with the occurrence and development of NTFs and to analyze their potential mechanisms of action. In this study, we selected the intersection of neurotrophic factor genes, differentially expressed genes (DEGs) and key genes in the IS module based on IS-related datasets (GSE16561 and GSE58294). Machine learning screened out 5 biomarkers for IS diagnosis (MMP9, MARCKS, IGF2R, HECW2 and CYBRD1). GSEA results showed that different signaling pathways were activated in IS samples with high expression of different diagnostic genes. Furthermore, an immunological analysis was carried out, which demonstrated significant differences in the levels of activated B cells, neutrophils, and activated CD8 T cells between IS patients and normal samples. RT-qPCR results showed that there were significant differences in the expression of CYBRD1, MARCKS and MMP9 between IS and control patients. In conclusion, we identified 5 diagnostic markers that may be involved in the progression of IS, including MMP9, MARCKS, IGF2R, HECW2 and CYBRD1. Finally, differential expression of MMP9, MARCKS, and CYBRD1 was detected in peripheral blood samples from 15 IS and 5 normal cases. Our analysis could serve as a foundation for enhancing comprehension of the underlying molecular mechanisms governing the pathogenesis and progression of IS. The identified biomarkers might serve as targets for the development of novel diagnostic assays, enabling earlier detection of IS and potentially leading to more timely and effective treatment interventions.
+SN  - 2045-2322
+UR  - https://doi.org/10.1038/s41598-025-86935-7
+DO  - 10.1038/s41598-025-86935-7
+ID  - Xu2025
+ER  - 

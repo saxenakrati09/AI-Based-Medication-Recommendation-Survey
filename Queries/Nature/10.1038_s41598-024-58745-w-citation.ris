@@ -1,0 +1,21 @@
+TY  - JOUR
+AU  - Sun, Lihua
+AU  - Wang, Juan
+AU  - Lei, Jimin
+AU  - Zhang, Ying
+AU  - Zhang, Yue
+AU  - Zhang, Yaling
+AU  - Xing, Shifeng
+PY  - 2024
+DA  - 2024/04/10
+TI  - Differential gene expression and miRNA regulatory network in coronary slow flow
+JO  - Scientific Reports
+SP  - 8419
+VL  - 14
+IS  - 1
+AB  - Coronary slow flow (CSF) is characterized by slow progression of coronary angiography without epicardial stenosis. The aim of this study was to explore the potential biomarkers and regulatory mechanism for CSF. Peripheral blood mononuclear cells from 3 cases of CSF and 3 healthy controls were collected for high-throughput sequencing of mRNA and miRNA, respectively. The differentially expressed mRNAs (DE-mRNAs) and miRNAs (DE-miRNAs) was identified. A total of 117 DE-mRNAs and 32 DE-miRNAs were obtained and they were mainly enriched in immune and inflammatory responses. Twenty-six DE-mRNAs were the predicted target genes for miRNAs by RAID, and then the regulatory network of 15 miRNAs were constructed. In addition, through the PPI network, we identified the three genes (FPR1, FPR2 and CXCR4) with larger degrees as hub genes. Among them, FPR1 was regulated by hsa-miR-342-3p, hsa-let-7c-5p and hsa-miR-197-3p and participated in the immune response. Finally, we validated the differential expression of hub genes and key miRNAs between 20 CSF and 20 control. Moreover, we found that miR-342-3p has a targeted regulatory relationship with FPR1, and their expression is negatively correlated. Then we established a hypoxia/reoxygenation (H/R) HUVEC model and detected FPR1, cell proliferation and apoptosis. Transfection with miR-342-3p mimics can significantly promote the proliferation of HUVEC under H/R conditions. FPR1 were associated with CSF as a biomarker and may be regulated by miR-342-3p potential biomarkers.
+SN  - 2045-2322
+UR  - https://doi.org/10.1038/s41598-024-58745-w
+DO  - 10.1038/s41598-024-58745-w
+ID  - Sun2024
+ER  - 

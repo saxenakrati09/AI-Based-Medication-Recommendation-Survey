@@ -1,0 +1,22 @@
+TY  - JOUR
+AU  - Hou, Qingbin
+AU  - Jiang, Jinping
+AU  - Na, Kun
+AU  - Zhang, Xiaolin
+AU  - Liu, Dan
+AU  - Jing, Quanmin
+AU  - Yan, Chenghui
+AU  - Han, Yaling
+PY  - 2024
+DA  - 2024/04/23
+TI  - Potential therapeutic targets for COVID-19 complicated with pulmonary hypertension: a bioinformatics and early validation study
+JO  - Scientific Reports
+SP  - 9294
+VL  - 14
+IS  - 1
+AB  - Coronavirus disease (COVID-19) and pulmonary hypertension (PH) are closely correlated. However, the mechanism is still poorly understood. In this article, we analyzed the molecular action network driving the emergence of this event. Two datasets (GSE113439 and GSE147507) from the GEO database were used for the identification of differentially expressed genes (DEGs).Common DEGs were selected by VennDiagram and their enrichment in biological pathways was analyzed. Candidate gene biomarkers were selected using three different machine-learning algorithms (SVM-RFE, LASSO, RF).The diagnostic efficacy of these foundational genes was validated using independent datasets. Eventually, we validated molecular docking and medication prediction. We found 62 common DEGs, including several ones that could be enriched for Immune Response and Inflammation. Two DEGs (SELE and CCL20) could be identified by machine-learning algorithms. They performed well in diagnostic tests on independent datasets. In particular, we observed an upregulation of functions associated with the adaptive immune response, the leukocyte-lymphocyte-driven immunological response, and the proinflammatory response. Moreover, by ssGSEA, natural killer T cells, activated dendritic cells, activated CD4 T cells, neutrophils, and plasmacytoid dendritic cells were correlated with COVID-19 and PH, with SELE and CCL20 showing the strongest correlation with dendritic cells. Potential therapeutic compounds like FENRETI-NIDE, AFLATOXIN B1 and 1-nitropyrene were predicted. Further molecular docking and molecular dynamics simulations showed that 1-nitropyrene had the most stable binding with SELE and CCL20.The findings indicated that SELE and CCL20 were identified as novel diagnostic biomarkers for COVID-19 complicated with PH, and the target of these two key genes, FENRETI-NIDE and 1-nitropyrene, was predicted to be a potential therapeutic target, thus providing new insights into the prediction and treatment of COVID-19 complicated with PH in clinical practice.
+SN  - 2045-2322
+UR  - https://doi.org/10.1038/s41598-024-60113-7
+DO  - 10.1038/s41598-024-60113-7
+ID  - Hou2024
+ER  - 

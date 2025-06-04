@@ -1,0 +1,23 @@
+TY  - JOUR
+AU  - Sudhahar, Saatviga
+AU  - Ozer, Bugra
+AU  - Chang, Jiakang
+AU  - Chadwick, Wayne
+AU  - O’Donovan, Daniel
+AU  - Campbell, Aoife
+AU  - Tulip, Emma
+AU  - Thompson, Neil
+AU  - Roberts, Ian
+PY  - 2024
+DA  - 2024/07/08
+TI  - An experimentally validated approach to automated biological evidence generation in drug discovery using knowledge graphs
+JO  - Nature Communications
+SP  - 5703
+VL  - 15
+IS  - 1
+AB  - Explaining predictions for drug repositioning with biological knowledge graphs is a challenging problem. Graph completion methods using symbolic reasoning predict drug treatments and associated rules to generate evidence representing the therapeutic basis of the drug. Yet the vast amounts of generated paths that are biologically irrelevant or not mechanistically meaningful within the context of disease biology can limit utility. We use a reinforcement learning based knowledge graph completion model combined with an automatic filtering approach that produces the most relevant rules and biological paths explaining the predicted drug’s therapeutic connection to the disease. In this work we validate the approach against preclinical experimental data for Fragile X syndrome demonstrating strong correlation between automatically extracted paths and experimentally derived transcriptional changes of selected genes and pathways of drug predictions Sulindac and Ibudilast. Additionally, we show it reduces the number of generated paths in two case studies, 85% for Cystic fibrosis and 95% for Parkinson’s disease.
+SN  - 2041-1723
+UR  - https://doi.org/10.1038/s41467-024-50024-6
+DO  - 10.1038/s41467-024-50024-6
+ID  - Sudhahar2024
+ER  - 

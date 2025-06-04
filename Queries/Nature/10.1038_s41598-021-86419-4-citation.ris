@@ -1,0 +1,18 @@
+TY  - JOUR
+AU  - Oh, Sang-Ho
+AU  - Lee, Su Jin
+AU  - Noh, Juhwan
+AU  - Mo, Jeonghoon
+PY  - 2021
+DA  - 2021/03/25
+TI  - Optimal treatment recommendations for diabetes patients using the Markov decision process along with the South Korean electronic health records
+JO  - Scientific Reports
+SP  - 6920
+VL  - 11
+IS  - 1
+AB  - The extensive utilization of electronic health records (EHRs) and the growth of enormous open biomedical datasets has readied the area for applications of computational and machine learning techniques to reveal fundamental patterns. This study’s goal is to develop a medical treatment recommendation system using Korean EHRs along with the Markov decision process (MDP). The sharing of EHRs by the National Health Insurance Sharing Service (NHISS) of Korea has made it possible to analyze Koreans’ medical data which include treatments, prescriptions, and medical check-up. After considering the merits and effectiveness of such data, we analyzed patients’ medical information and recommended optimal pharmaceutical prescriptions for diabetes, which is known to be the most burdensome disease for Koreans. We also proposed an MDP-based treatment recommendation system for diabetic patients to help doctors when prescribing diabetes medications. To build the model, we used the 11-year Korean NHISS database. To overcome the challenge of designing an MDP model, we carefully designed the states, actions, reward functions, and transition probability matrices, which were chosen to balance the tradeoffs between reality and the curse of dimensionality issues.
+SN  - 2045-2322
+UR  - https://doi.org/10.1038/s41598-021-86419-4
+DO  - 10.1038/s41598-021-86419-4
+ID  - Oh2021
+ER  - 

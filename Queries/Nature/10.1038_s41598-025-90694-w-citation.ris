@@ -1,0 +1,33 @@
+TY  - JOUR
+AU  - Hao, Ting
+AU  - Pei, Zhiwei
+AU  - Hu, Sile
+AU  - Zhao, Zhenqun
+AU  - He, Wanxiong
+AU  - Wang, Jing
+AU  - Jiang, Liuchang
+AU  - Ariben, jirigala
+AU  - Wu, Lina
+AU  - Yang, Xiaolong
+AU  - Wang, Leipeng
+AU  - Wu, Yonggang
+AU  - Chen, Xiaofeng
+AU  - Li, Qiang
+AU  - Yang, Haobo
+AU  - Li, Siqin
+AU  - Wang, Xing
+AU  - Sun, Mingqi
+AU  - Zhang, Baoxin
+PY  - 2025
+DA  - 2025/04/11
+TI  - Identification of osteoarthritis-associated chondrocyte subpopulations and key gene-regulating drugs based on multi-omics analysis
+JO  - Scientific Reports
+SP  - 12448
+VL  - 15
+IS  - 1
+AB  - The mechanism by which chondrocytes respond to mechanical stress in joints significantly affects the balance and function of cartilage. This study aims to characterize osteoarthritis-associated chondrocyte subpopulations and key gene targets for regulatory drugs. To begin, single-cell and transcriptome datasets were obtained from the Gene Expression Omnibus (GEO) database. Cell communication and pseudo-temporal analysis, as well as High-dimensional Weighted Gene Co-expression Network Analysis (hdWGCNA), were conducted on the single-cell data to identify key chondrocyte subtypes and module genes. Subsequently, Consensus Cluster Plus analysis was utilized to identify distinct disease subgroups within the osteoarthritis (OA) training dataset based on the key module genes. Furthermore, differential gene expression analysis and GO/KEGG pathway enrichment analysis were performed on the identified subgroups. To screen for hub genes associated with OA, a combination of 10 machine learning algorithms and 113 algorithm compositions was integrated. Additionally, the immune and pathway scores of the training dataset samples were evaluated using the ESTIMATE, MCP-counter, and ssGSEA algorithms to establish the relationship between the hub genes and immune and pathways. Following this, a network depicting the interaction between the hub genes and transcription factors was constructed based on the Network Analyst database. Moreover, the hub genes were subjected to drug prediction and molecular docking using the RNAactDrug database and AutoDockTools. Finally, real-time fluorescence quantitative PCR (RT-qPCR) was employed to detect the expression of hub genes in the plasma samples collected from osteoarthritis patients and healthy adults. In the OA sample, there is a significant increase in the proportion of prehypertrophic chondrocytes (preHTC), particularly in subgroups 6, 7, and 9. We defined these subgroups as OA_PreHTC subgroups. The OA_PreHTC subgroup exhibits a higher communication intensity with proliferative-related pathways such as ANGPTL and TGF-β. Furthermore, two OA disease subgroups were identified in the training set samples. This led to the identification of 411 differentially expressed genes (DEGs) related to osteoarthritis, 2485 DEGs among subgroups, as well as 238 intersecting genes and 5 hub genes (MMP13, FAM26F, CHI3L1, TAC1, and CKS2). RT-qPCR results indicate significant differences in the expression levels of five hub genes and their related TFs in the clinical blood samples of OA patients compared to the healthy control group (NC). Moreover, these five hub genes are positively associated with inflammatory pathways such as TNF-α, JAK-STAT3, and inflammatory response, while being negatively associated with proliferation pathways like WNT and KRAS. Additionally, the five hub genes are positively associated with neutrophils, activated CD4 T cell, gamma delta T cell, and regulatory T cell, while being negatively associated with CD56dim natural killer cell and Type 17T helper cell. Molecular docking results reveal that CAY10603, Tenulin, T0901317, and Nonactin exhibit high binding activity to CHI3L1, suggesting their potential as therapeutic drugs for OA. The OA_PreHTC subgroups plays a crucial role in the occurrence and development of osteoarthritis (OA). Five hub genes may exert their effects on OA through interactions with PreHTC cells, other chondrocytes, and immune cells, playing a role in inhibiting cell proliferation and stimulating inflammation, thus having high diagnostic value for OA. Additionally, CAY10603, Tenulin, T0901317, and Nonactin have potential therapeutic effects for OA patients.
+SN  - 2045-2322
+UR  - https://doi.org/10.1038/s41598-025-90694-w
+DO  - 10.1038/s41598-025-90694-w
+ID  - Hao2025
+ER  - 

@@ -1,0 +1,22 @@
+TY  - JOUR
+AU  - Zeng, Shengjie
+AU  - Chen, Liuxun
+AU  - Tian, Jinyu
+AU  - Liu, Zhengxin
+AU  - Liu, Xudong
+AU  - Tang, Haibin
+AU  - Wu, Hao
+AU  - Liu, Chuan
+PY  - 2024
+DA  - 2024/09/15
+TI  - Integrative analysis of pan-cancer single-cell data reveals a tumor ecosystem subtype predicting immunotherapy response
+JO  - npj Precision Oncology
+SP  - 205
+VL  - 8
+IS  - 1
+AB  - Tumor ecosystem shapes cancer biology and potentially influence the response to immunotherapy, but there is a lack of direct clinical evidence. In this study, we utilized EcoTyper and publicly available scRNA-Seq cohorts from ICI-treated patients. We found a ecosystem subtype (ecotype) was linked to improved responses to immunotherapy. Then, a novel immunotherapy-responsive ecotype signature (IRE.Sig) was established and validated through the analysis of pan-cancer data. Utilizing IRE.Sig, machine learning models successfully predicted ICI responses in both validation and testing cohorts, achieving area under the curve (AUC) values of 0.72 and 0.71, respectively. Furthermore, using 5 CRISPR screening cohorts, we identified several potential drugs that may augment the efficacy of ICI. We also elucidated the candidate cellular biomarkers of response to the combined treatment of pembrolizumab plus eribulin in breast cancer. This signature has the potential to serve as a valuable tool for patients in selecting appropriate immunotherapy treatments.
+SN  - 2397-768X
+UR  - https://doi.org/10.1038/s41698-024-00703-w
+DO  - 10.1038/s41698-024-00703-w
+ID  - Zeng2024
+ER  - 

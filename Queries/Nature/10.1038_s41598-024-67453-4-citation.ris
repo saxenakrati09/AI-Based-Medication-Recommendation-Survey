@@ -1,0 +1,17 @@
+TY  - JOUR
+AU  - Wei, Wang
+AU  - Tongping, Shen
+AU  - Jiaming, Wang
+PY  - 2024
+DA  - 2024/07/16
+TI  - Construction of a clinical prediction model for complicated appendicitis based on machine learning techniques
+JO  - Scientific Reports
+SP  - 16473
+VL  - 14
+IS  - 1
+AB  - Acute appendicitis is a typical surgical emergency worldwide and one of the common causes of surgical acute abdomen in the elderly. Accurately diagnosing and differentiating acute appendicitis can assist clinicians in formulating a scientific and reasonable treatment plan and providing high-quality medical services for the elderly. In this study, we validated and analyzed the different performances of various machine learning models based on the analysis of clinical data, so as to construct a simple, fast, and accurate estimation method for the diagnosis of early acute appendicitis. The dataset of this paper was obtained from the medical data of elderly patients with acute appendicitis attending the First Affiliated Hospital of Anhui University of Chinese Medicine from January 2012 to January 2022, including 196 males (60.87%) and 126 females (39.13%), including 103 (31.99%) patients with complicated appendicitis and 219 (68.01%) patients with uncomplicated appendicitis. By comparing and analyzing the prediction results of the models implemented by nine different machine learning techniques (LR, CART, RF, SVM, Bayes, KNN, NN, FDA, and GBM), we found that the GBM algorithm gave the optimal results and that sensitivity, specificity, PPV, NPV, precision, recall, F1 and brier are 0.9167, 0.9739, 0.9429, 0.9613, 0.9429, 0.9167, 0.9296, and 0.05649, respectively. The GBM model prediction results are interpreted using the SHAP technology framework. Calibration and Decision curve analysis also show that the machine learning model proposed in this paper has some clinical and economic benefits. Finally, we developed the Shiny application for complicated appendicitis diagnosis to assist clinicians in quickly and effectively recognizing patients with complicated appendicitis (CA) and uncomplicated appendicitis (UA), and to formulate a more reasonable and scientific clinical plan for acute appendicitis patient population promptly.
+SN  - 2045-2322
+UR  - https://doi.org/10.1038/s41598-024-67453-4
+DO  - 10.1038/s41598-024-67453-4
+ID  - Wei2024
+ER  - 

@@ -1,0 +1,25 @@
+TY  - JOUR
+AU  - Jiang, Qi
+AU  - Xue, Shiyuan
+AU  - Pan, Xiaojing
+AU  - Yu, Tengbo
+AU  - Wei, Xinyi
+AU  - Li, Liping
+AU  - Qi, Chao
+AU  - Shi, Weipeng
+AU  - Ren, Zhongkai
+AU  - Hu, Die
+AU  - Fu, Haitao
+PY  - 2025
+DA  - 2025/04/21
+TI  - Differential changes in the microglial transcriptome between neonatal and adult mice after spinal cord injury
+JO  - Scientific Reports
+SP  - 13708
+VL  - 15
+IS  - 1
+AB  - Spinal cord injury (SCI) remains a significant therapeutic challenge, lacking effective treatment options. Related studies have found that neonatal microglia are more effective than adult microglia in promoting the recovery of SCI, but the reason why neonatal, not adult, microglia are more conducive to SCI recovery is not clear, the differences of gene expression and pathways between them are still worth exploring. Therefore, we examined changes in the microglial transcriptome after SCI in neonatal and adult mice. We identified hub genes or pathways that exhibited significant differential expression between the two groups. Four Gene sets were established for further analysis, named Gene set 1, Gene set 2, Gene set 3, Gene set 4, respectively. GO analysis revealed enrichment in categories critical for injury repair, including DNA metabolism, replication, recombination, meiotic cell cycle progression, regulation of cell-cell adhesion, megakaryocyte and endothelial development, modulation of the neuroinflammatory response, endocytosis, and regulation of cytokine production and cell migration. KEGG analysis revealed enrichment in pathways critical for various cellular processes, including the p53, TNF, PI3K-AKT, PPAR and B cell receptor signaling pathway, axon guidance, cytokine-cytokine receptor interaction. PPI and TF-hub gene-microRNA networks were constructed to elucidate the underlying gene regulatory mechanisms. Additionally, drug prediction was performed to identify potential therapeutic candidates. Finally, 11 hub genes (Chek1, RRM2, Lyve1, Mboat1, Clec4a3, Ccnd1, Cdk6, Zeb1, Igf1, Pparg, and Cd163) were selected from four Gene sets for further validation using qRT-PCR. We identified candidate genes and pathways involved in microglial transcriptome heterogeneity after SCI in neonatal and adult mice. These findings provide valuable insights into potential therapeutic targets for neonatal microglia in the treatment of SCI.
+SN  - 2045-2322
+UR  - https://doi.org/10.1038/s41598-025-98429-7
+DO  - 10.1038/s41598-025-98429-7
+ID  - Jiang2025
+ER  - 

@@ -1,0 +1,18 @@
+TY  - JOUR
+AU  - Zhang, Yi
+AU  - Shen, Youliang
+AU  - Kou, Dewei
+AU  - Yu, Tengbo
+PY  - 2025
+DA  - 2025/04/07
+TI  - Identification and experimental verification of biomarkers related to butyrate metabolism in osteoarthritis
+JO  - Scientific Reports
+SP  - 11884
+VL  - 15
+IS  - 1
+AB  - Butyrate plays a crucial role in osteoarthritis (OA) development. However, the relationship between butyrate metabolism-related genes (BMRGs) and OA remains unclear. This study investigates the potential correlation between BMRGs and OA using OA-related datasets (GSE55235, GSE12021 and GSE143514). Differential expression analysis identified 38 differentially expressed butyrate metabolism-related genes (DE-BMRGs) from the overlap of 782 OA-related differentially expressed genes (DEGs) and 385 BMRGs in GSE55235. Enrichment analysis indicated that these DE-BMRGs were tightly associated with cell proliferation, differentiation, and apoptosis, which are key processes in OA pathogenesis. Six candidate biomarkers (IL1B, IGF1, CXCL8, PTGS2, SERPINE1, MMP9) were identified through two machine-learning algorithms. IL1B, CXCL8, and PTGS2 were upregulated in controls, exhibiting consistent patterns across validation datasets. Gene set enrichment analysis (GSEA) revealed that dysregulated expression of these biomarkers lead to abnormal cell proliferation and differentiation, contributing to OA progression. Furthermore, significant differences in immune cell infiltration—particularly activated and resting mast cells—along with correlations to immune regulatory factors (CD86, CXCL12, TNFSF9, IL6), highlighted potential therapeutic targets. Quantitative RT-PCR further confirmed elevated expression of IL1B, CXCL8 and PTGS2 in control group. This study identifies IL1B, CXCL8 and PTGS2 as OA-related biomarkers linked to butyrate metabolism, offering a theoretical foundation and potential therapeutic strategies.
+SN  - 2045-2322
+UR  - https://doi.org/10.1038/s41598-025-97346-z
+DO  - 10.1038/s41598-025-97346-z
+ID  - Zhang2025
+ER  - 

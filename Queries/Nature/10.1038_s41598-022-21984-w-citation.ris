@@ -1,0 +1,26 @@
+TY  - JOUR
+AU  - Shen, Zhewei
+AU  - Halberg, Anna
+AU  - Fong, Jia Yi
+AU  - Guo, Jingyu
+AU  - Song, Gavin
+AU  - Louie, Brent
+AU  - Luedtke, Gregory R.
+AU  - Visuthikraisee, Viwat
+AU  - Protter, Andrew A.
+AU  - Koh, Xiaoying
+AU  - Baik, Taegon
+AU  - Lum, Pek Yee
+PY  - 2022
+DA  - 2022/11/05
+TI  - Elucidating host cell response pathways and repurposing therapeutics for SARS-CoV-2 and other coronaviruses
+JO  - Scientific Reports
+SP  - 18811
+VL  - 12
+IS  - 1
+AB  - COVID-19, first reported in late 2019, is an ongoing pandemic that has been causing devastation across the globe. Although there are multiple vaccines that can prevent severe symptoms, effective COVID-19 therapeutics are still of importance. Using our proprietary in silico engine, we screened more than 22,000 unique compounds represented by over half a million gene expression profiles to uncover compounds that can be repurposed for SARS-CoV-2 and other coronaviruses in a timely and cost-efficient manner. We then tested 13 compounds in vitro and found three with potency against SARS-CoV-2 with reasonable cytotoxicity. Bortezomib and homoharringtonine are some of the most promising hits with IC50 of 1.39 μM and 0.16 μM, respectively for SARS-CoV-2. Tanespimycin and homoharringtonine were effective against the common cold coronaviruses. In-depth analysis highlighted proteasome, ribosome, and heat shock pathways as key targets in modulating host responses during viral infection. Further studies of these pathways and compounds have provided novel and impactful insights into SARS-CoV-2 biology and host responses that could be further leveraged for COVID-19 therapeutics development.
+SN  - 2045-2322
+UR  - https://doi.org/10.1038/s41598-022-21984-w
+DO  - 10.1038/s41598-022-21984-w
+ID  - Shen2022
+ER  - 

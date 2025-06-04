@@ -1,0 +1,22 @@
+TY  - JOUR
+AU  - Zheng, Qirui
+AU  - Wu, Yupeng
+AU  - Zhang, Xiaojiao
+AU  - Zhang, Yuzhu
+AU  - Zhu, Zaihan
+AU  - Luan, Bo
+AU  - Zang, Peizhuo
+AU  - Sun, Dandan
+PY  - 2025
+DA  - 2025/04/10
+TI  - Analysis and validation of hub genes for atherosclerosis and AIDS and immune infiltration characteristics based on bioinformatics and machine learning
+JO  - Scientific Reports
+SP  - 12316
+VL  - 15
+IS  - 1
+AB  - Atherosclerosis is the major cause of cardiovascular diseases worldwide, and AIDS linked with chronic inflammation and immune activation, increases atherosclerosis risk. The application of bioinformatics and machine learning to identify hub genes for atherosclerosis and AIDS has yet to be reported. Thus, this study aims to identify the hub genes for atherosclerosis and AIDS. Gene expression profiles were downloaded from the Gene Expression Omnibus database. The Robust Multichip Average was performed for data preprocessing, and the limma package was used for screening differentially expressed genes. Enrichment analysis employed GO and KEGG, protein–protein interaction network was constructed. Hub genes were filtered using topological and machine learning algorithms and validated in external cohorts. Then immune infiltration and correlation analysis of hub genes were constructed. Nomogram, receiver operating curve, and single-sample gene set enrichment analysis were applied to evaluate hub genes. This study identified 48 intersecting genes. Enrichment analyses indicated that these genes are significantly enriched in viral response, inflammatory response, and cytokine signaling pathways. CCR5 and OAS1 were identified as common hub genes in atherosclerosis and AIDS for the first time, highlighting their roles in antiviral immunity, inflammation and immune infiltration. These findings contributed to understanding the shared pathogenesis of Atherosclerosis and AIDS and provided possible potential therapeutic targets for immunomodulatory therapy.
+SN  - 2045-2322
+UR  - https://doi.org/10.1038/s41598-025-96907-6
+DO  - 10.1038/s41598-025-96907-6
+ID  - Zheng2025
+ER  - 

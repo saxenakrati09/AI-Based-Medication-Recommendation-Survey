@@ -1,0 +1,18 @@
+TY  - JOUR
+AU  - Zhang, Qian
+AU  - Bai, Bing
+AU  - Ran, Lidan
+AU  - Zhang, Wei
+PY  - 2025
+DA  - 2025/05/03
+TI  - Identification of potential anti aging drugs and targets in chronic kidney disease
+JO  - Scientific Reports
+SP  - 15545
+VL  - 15
+IS  - 1
+AB  - Chronic kidney disease (CKD) is highly prevalent, incurable, and lacks effective treatments. Aging is closely linked to various kidney diseases. In this study, we combined CKD and aging using bioinformatics approaches to identify potential anti aging drugs and therapeutic targets for CKD. We analyzed datasets GSE37171 and GSE66494 from the GEO database, identifying 317 differentially expressed genes (DEGs). By intersecting these DEGs with aging related genes, we identified 23 aging associated differential genes (ARDEGs). A protein-protein interaction (PPI) network was constructed using the STRING database, and the top 10 hub ARDEGs were identified using Cytoscape software. Potential anti aging drugs, including Cinnamaldehyde, were identified through the ceRNA and transcription factor regulatory networks, as well as the DGldb database. Among the key regulatory genes identified in CKD patient samples were SOD2, FGF21, FOS, RELA, DDIT4, BMI1, DUSP6, LGALS3, CXCR2, and CEBPB. Cinnamaldehyde and other drugs were found to target aging associated pathways, suggesting their potential to delay CKD progression through modulating these pathways. Finally, we verified the low-expression of DDIT4 and DUSP6, the two targets of Cinnamaldehyde, in unilateral ureteral obstruction (UUO) animal model. Additionally, Cinnamaldehyde was shown to reduce the expression of fibrosis markers such as fibronectin (FN) and α-smooth muscle actin (α-SMA) in HK2 cells under TGF-β1 stimulation. This study provides a foundational understanding of aging related molecular targets in CKD and offers new directions for developing anti aging therapies to treat CKD.
+SN  - 2045-2322
+UR  - https://doi.org/10.1038/s41598-025-96985-6
+DO  - 10.1038/s41598-025-96985-6
+ID  - Zhang2025
+ER  - 

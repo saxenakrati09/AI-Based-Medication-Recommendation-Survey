@@ -1,0 +1,26 @@
+TY  - JOUR
+AU  - Pan, Xiazhi
+AU  - Che, Qin
+AU  - Liu, Duanshali
+AU  - Xie, Yingli
+AU  - Li, Beicheng
+AU  - Zhang, Shanshan
+AU  - Li, Tian
+AU  - Li, Gege
+AU  - Li, Xiaohan
+AU  - Zheng, Qiuchen
+AU  - Zhao, Kai
+AU  - Liu, Mingbo
+PY  - 2025
+DA  - 2025/04/11
+TI  - Development and validation of a novel endoplasmic reticulum stress-related lncRNA signature in laryngeal squamous cell carcinoma
+JO  - Scientific Reports
+SP  - 12497
+VL  - 15
+IS  - 1
+AB  - Endoplasmic reticulum stress (ERS) is an intracellular process in which improperly folded proteins lead to a cellular stress response. How endoplasmic reticulum stress contributes to the onset and progression of laryngeal squamous cell carcinoma remains unclear. Our research aimed to find an ERS signature to forecast the prognosis of laryngeal squamous cell carcinoma and to investigate its potential biological functions. LSCC sample data obtained from The Cancer Genome Atlas (TCGA) database were co-expressed with ERS- related genes, and then a prognostic signature on the basis of endoplasmic reticulum stress- related lncRNAs (ERS-related lncRNAs) was constructed by differential analysis and Cox regression analysis. Survival analysis, TMB, consensus cluster analysis, drug sensitivity analysis, immune analysis and clinical drug prediction were carried out on the model. Finally, the function of LHX1-DT was verified by in vitro experiments. From the TCGA-LSCC cohort, 35 significantly different ERS-related lncRNAs were identified. A prognostic signature consisting of three lncRNAs (AC110611.2, LHX1-DT, and AL157373.2) was identified. Kaplan–Meier analysis demonstrated the predictive ability of the model for overall survival. Calibration curves and receiver operating characteristic curves were validated and showed high predictive accuracy. Ultimately, the experimental results verified the expression of LHX1-DT in LSCC.
+SN  - 2045-2322
+UR  - https://doi.org/10.1038/s41598-025-96576-5
+DO  - 10.1038/s41598-025-96576-5
+ID  - Pan2025
+ER  - 

@@ -1,0 +1,18 @@
+TY  - JOUR
+AU  - Stefan, Sven Marcel
+AU  - Jansson, Patric Jan
+AU  - Pahnke, Jens
+AU  - Namasivayam, Vigneshwaran
+PY  - 2022
+DA  - 2022/07/26
+TI  - A curated binary pattern multitarget dataset of focused ATP-binding cassette transporter inhibitors
+JO  - Scientific Data
+SP  - 446
+VL  - 9
+IS  - 1
+AB  - Multitarget datasets that correlate bioactivity landscapes of small-molecules toward different related or unrelated pharmacological targets are crucial for novel drug design and discovery. ATP-binding cassette (ABC) transporters are critical membrane-bound transport proteins that impact drug and metabolite distribution in human disease as well as disease diagnosis and therapy. Molecular-structural patterns are of the highest importance for the drug discovery process as demonstrated by the novel drug discovery tool ‘computer-aided pattern analysis’ (‘C@PA’). Here, we report a multitarget dataset of 1,167 ABC transporter inhibitors analyzed for 604 molecular substructures in a statistical binary pattern distribution scheme. This binary pattern multitarget dataset (ABC_BPMDS) can be utilized for various areas. These areas include the intended design of (i) polypharmacological agents, (ii) highly potent and selective ABC transporter-targeting agents, but also (iii) agents that avoid clearance by the focused ABC transporters [e.g., at the blood-brain barrier (BBB)]. The information provided will not only facilitate novel drug prediction and discovery of ABC transporter-targeting agents, but also drug design in general in terms of pharmacokinetics and pharmacodynamics.
+SN  - 2052-4463
+UR  - https://doi.org/10.1038/s41597-022-01506-z
+DO  - 10.1038/s41597-022-01506-z
+ID  - Stefan2022
+ER  - 

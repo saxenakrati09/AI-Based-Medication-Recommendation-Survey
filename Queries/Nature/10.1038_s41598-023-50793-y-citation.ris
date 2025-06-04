@@ -1,0 +1,19 @@
+TY  - JOUR
+AU  - Liang, Mingmin
+AU  - Liu, Xianzhi
+AU  - Chen, Qijia
+AU  - Zeng, Bin
+AU  - Wang, Lei
+PY  - 2024
+DA  - 2024/01/05
+TI  - NMGMDA: a computational model for predicting potential microbe–drug associations based on minimize matrix nuclear norm and graph attention network
+JO  - Scientific Reports
+SP  - 650
+VL  - 14
+IS  - 1
+AB  - The prediction of potential microbe–drug associations is of great value for drug research and development, especially, methods, based on deep learning, have been achieved significant improvement in bio-medicine. In this manuscript, we proposed a novel computational model named NMGMDA based on the nuclear norm minimization and graph attention network to infer latent microbe–drug associations. Firstly, we created a heterogeneous microbe–drug network in NMGMDA by fusing the drug and microbe similarities with the established drug–microbe associations. After this, by using GAT and NNM to calculate the predict scores. Lastly, we created a fivefold cross validation framework to assess the new model NMGMDA's progressiveness. According to the simulation results, NMGMDA outperforms some of the most advanced methods, with a reliable AUC of 0.9946 on both MDAD and aBioflm databases. Furthermore, case studies on Ciprofloxacin, Moxifoxacin, HIV-1 and Mycobacterium tuberculosis were carried out in order to assess the effectiveness of NMGMDA even more. The experimental results demonstrated that, following the removal of known correlations from the database, 16 and 14 medications as well as 19 and 17 microbes in the top 20 predictions were validated by pertinent literature. This demonstrates the potential of our new model, NMGMDA, to reach acceptable prediction performance.
+SN  - 2045-2322
+UR  - https://doi.org/10.1038/s41598-023-50793-y
+DO  - 10.1038/s41598-023-50793-y
+ID  - Liang2024
+ER  - 

@@ -1,0 +1,20 @@
+TY  - JOUR
+AU  - Jia, Peilin
+AU  - Hu, Ruifeng
+AU  - Pei, Guangsheng
+AU  - Dai, Yulin
+AU  - Wang, Yin-Ying
+AU  - Zhao, Zhongming
+PY  - 2021
+DA  - 2021/03/19
+TI  - Deep generative neural network for accurate drug response imputation
+JO  - Nature Communications
+SP  - 1740
+VL  - 12
+IS  - 1
+AB  - Drug response differs substantially in cancer patients due to inter- and intra-tumor heterogeneity. Particularly, transcriptome context, especially tumor microenvironment, has been shown playing a significant role in shaping the actual treatment outcome. In this study, we develop a deep variational autoencoder (VAE) model to compress thousands of genes into latent vectors in a low-dimensional space. We then demonstrate that these encoded vectors could accurately impute drug response, outperform standard signature-gene based approaches, and appropriately control the overfitting problem. We apply rigorous quality assessment and validation, including assessing the impact of cell line lineage, cross-validation, cross-panel evaluation, and application in independent clinical data sets, to warrant the accuracy of the imputed drug response in both cell lines and cancer samples. Specifically, the expression-regulated component (EReX) of the observed drug response achieves high correlation across panels. Using the well-trained models, we impute drug response of The Cancer Genome Atlas data and investigate the features and signatures associated with the imputed drug response, including cell line origins, somatic mutations and tumor mutation burdens, tumor microenvironment, and confounding factors. In summary, our deep learning method and the results are useful for the study of signatures and markers of drug response.
+SN  - 2041-1723
+UR  - https://doi.org/10.1038/s41467-021-21997-5
+DO  - 10.1038/s41467-021-21997-5
+ID  - Jia2021
+ER  - 

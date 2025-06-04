@@ -1,0 +1,18 @@
+TY  - JOUR
+AU  - Mongia, Aanchal
+AU  - Saha, Sanjay Kr.
+AU  - Chouzenoux, Emilie
+AU  - Majumdar, Angshul
+PY  - 2021
+DA  - 2021/04/27
+TI  - A computational approach to aid clinicians in selecting anti-viral drugs for COVID-19 trials
+JO  - Scientific Reports
+SP  - 9047
+VL  - 11
+IS  - 1
+AB  - The year 2020 witnessed a heavy death toll due to COVID-19, calling for a global emergency. The continuous ongoing research and clinical trials paved the way for vaccines. But, the vaccine efficacy in the long run is still questionable due to the mutating coronavirus, which makes drug re-positioning a reasonable alternative. COVID-19 has hence fast-paced drug re-positioning for the treatment of COVID-19 and its symptoms. This work builds computational models using matrix completion techniques to predict drug-virus association for drug re-positioning. The aim is to assist clinicians with a tool for selecting prospective antiviral treatments. Since the virus is known to mutate fast, the tool is likely to help clinicians in selecting the right set of antivirals for the mutated isolate. The main contribution of this work is a manually curated database publicly shared, comprising of existing associations between viruses and their corresponding antivirals. The database gathers similarity information using the chemical structure of drugs and the genomic structure of viruses. Along with this database, we make available a set of state-of-the-art computational drug re-positioning tools based on matrix completion. The tools are first analysed on a standard set of experimental protocols for drug target interactions. The best performing ones are applied for the task of re-positioning antivirals for COVID-19. These tools select six drugs out of which four are currently under various stages of trial, namely Remdesivir (as a cure), Ribavarin (in combination with others for cure), Umifenovir (as a prophylactic and cure) and Sofosbuvir (as a cure). Another unanimous prediction is Tenofovir alafenamide, which is a novel Tenofovir prodrug developed in order to improve renal safety when compared to its original counterpart (older version) Tenofovir disoproxil. Both are under trail, the former as a cure and the latter as a prophylactic. These results establish that the computational methods are in sync with the state-of-practice. We also demonstrate how the drugs to be used against the virus would vary as SARS-Cov-2 mutates over time by predicting the drugs for the mutated strains, suggesting the importance of such a tool in drug prediction. We believe this work would open up possibilities for applying machine learning models to clinical research for drug-virus association prediction and other similar biological problems.
+SN  - 2045-2322
+UR  - https://doi.org/10.1038/s41598-021-88153-3
+DO  - 10.1038/s41598-021-88153-3
+ID  - Mongia2021
+ER  - 

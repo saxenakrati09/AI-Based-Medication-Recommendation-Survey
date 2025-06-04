@@ -1,0 +1,18 @@
+TY  - JOUR
+AU  - Geng, Ying
+AU  - Li, Yifang
+AU  - Liu, Ge
+AU  - Jiao, Jian
+PY  - 2024
+DA  - 2024/11/27
+TI  - Identification of biomarkers for the diagnosis in colorectal polyps and metabolic dysfunction-associated steatohepatitis (MASH) by bioinformatics analysis and machine learning
+JO  - Scientific Reports
+SP  - 29463
+VL  - 14
+IS  - 1
+AB  - Colorectal polyps are precursors of colorectal cancer. Metabolic dysfunction associated steatohepatitis (MASH) is one of metabolic dysfunction associated fatty liver disease (MAFLD) phenotypic manifestations. Much evidence has suggested an association between MASH and polyps. This study investigated the biomarkers of MASH and colorectal polyps, and the prediction of targeted drugs using an integrated bioinformatics analysis method. Differentially expressed genes (DEGs) analysis and weighted gene co-expression network analysis (WGCNA) were performed on GSE89632 and GSE41258 datasets, 49 shared genes revealed after intersection. The Gene Ontology (GO) and Kyoto Encyclopedia of Genes and Genomes (KEGG) enrichment analyses depicted they were mainly enriched in apoptosis, proliferation and infection pathways. Machine learning algorithms identified S100P, FOXO1, and LPAR1 were biomarkers for colorectal polyps and MASH, ROC curve and violin plot showed ideal AUC and stable expression patterns in both the discovery and validation sets. GSEA analysis showed significant enrichment of bile acid and fatty acid pathways when grouped by the expression levels of the three candidate biomarkers. Immune infiltration analysis showed a significant infiltration of M0 macrophages and Treg cells in the colorectal polyps group. A total of 9 small molecule compounds were considered as potential chemoprevention agents in MASH and colorectal polyps by using the CMap website. Using integrated bioinformatics analysis, the molecular mechanism between MASH and colorectal polyps has been further explored.
+SN  - 2045-2322
+UR  - https://doi.org/10.1038/s41598-024-81120-8
+DO  - 10.1038/s41598-024-81120-8
+ID  - Geng2024
+ER  - 

@@ -1,0 +1,20 @@
+TY  - JOUR
+AU  - Koras, Krzysztof
+AU  - Juraeva, Dilafruz
+AU  - Kreis, Julian
+AU  - Mazur, Johanna
+AU  - Staub, Eike
+AU  - Szczurek, Ewa
+PY  - 2020
+DA  - 2020/06/10
+TI  - Feature selection strategies for drug sensitivity prediction
+JO  - Scientific Reports
+SP  - 9377
+VL  - 10
+IS  - 1
+AB  - Drug sensitivity prediction constitutes one of the main challenges in personalized medicine. Critically, the sensitivity of cancer cells to treatment depends on an unknown subset of a large number of biological features. Here, we compare standard, data-driven feature selection approaches to feature selection driven by prior knowledge of drug targets, target pathways, and gene expression signatures. We asses these methodologies on Genomics of Drug Sensitivity in Cancer (GDSC) dataset, evaluating 2484 unique models. For 23 drugs, better predictive performance is achieved when the features are selected according to prior knowledge of drug targets and pathways. The best correlation of observed and predicted response using the test set is achieved for Linifanib (r = 0.75). Extending the drug-dependent features with gene expression signatures yields the most predictive models for 60 drugs, with the best performing example of Dabrafenib. For many compounds, even a very small subset of drug-related features is highly predictive of drug sensitivity. Small feature sets selected using prior knowledge are more predictive for drugs targeting specific genes and pathways, while models with wider feature sets perform better for drugs affecting general cellular mechanisms. Appropriate feature selection strategies facilitate the development of interpretable models that are indicative for therapy design.
+SN  - 2045-2322
+UR  - https://doi.org/10.1038/s41598-020-65927-9
+DO  - 10.1038/s41598-020-65927-9
+ID  - Koras2020
+ER  - 

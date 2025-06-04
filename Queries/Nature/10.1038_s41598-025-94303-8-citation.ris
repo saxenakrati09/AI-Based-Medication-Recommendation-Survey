@@ -1,0 +1,18 @@
+TY  - JOUR
+AU  - Yang, Wei
+AU  - Liu, chenglin
+AU  - Li, Zhenhua
+AU  - Cui, Miao
+PY  - 2025
+DA  - 2025/03/19
+TI  - Multi-omic biomarkers associated with multiple sclerosis: from Mendelian randomization to drug prediction
+JO  - Scientific Reports
+SP  - 9421
+VL  - 15
+IS  - 1
+AB  - Currently, the treatment and prevention of multiple sclerosis (MS) continue to encounter significant challenges. Mendelian randomization (MR) analysis has emerged as a crucial research method in the pursuit of new therapeutic strategies. Accordingly, we hypothesize that there exists a causal association between genetic variants of specific plasma proteins and MS through MR mechanisms, and that key therapeutic targets can be precisely identified by integrating multi-omics analytical approaches. In this study, we developed a comprehensive analytical framework aimed at identifying and validating potential therapeutic targets for MS. The framework commenced with a two-sample Mendelian randomization (MR) study utilizing two large plasma protein quantitative trait locus (pQTL) datasets. Building on this foundation, we performed Bayesian co-localization analysis of coding genes, followed by a full phenotype-wide association study (PheWAS) on the co-positive genes identified through both analytical methods. This approach allowed us to explore the functions of key genes and the mechanisms of co-morbidity associated with the disease. Subsequently, we integrated protein-protein interaction (PPI) network analysis, gene ontology (GO) analysis, and Kyoto Encyclopedia of Genes and Genomes (KEGG) pathway analysis to facilitate drug prediction and molecular docking studies. This study conducted a systematic analysis between two large plasma pQTLs datasets and MS. In the MR analysis, the MR analysis of Icelandic plasma pQTLs and MS identified 88 positive plasma proteins, while the MR analysis of the UK Biobank database pQTLs and MS identified 122 positive plasma proteins. By comparison, uroporphyrinogen III synthase (UROS) and glutathione S-transferase theta 2B (GSTT2B) were found to be the positive proteins shared by the two datasets. After false discovery rate (FDR) correction, signal transducer and activator of transcription 3 (STAT3) was a significantly positive protein in the analysis of Icelandic plasma pQTLs. In the analysis of the UK Biobank database pQTLs, advanced glycosylation end product-specific receptor (AGER), allograft inflammatory factor 1 (AIF1), butyrophilin subfamily 1 member A1 (BTN1A1), cluster of differentiation 58 (CD58), desmoglein 4 (DSG4), ecotropic viral integration site 5 (EVI5), tumor necrosis factor (TNF), and tumor necrosis factor receptor superfamily member 14 (TNFRSF14) were significantly positive proteins. After Bonferroni correction, AGER, CD58, EVI5, and TNF remained significantly positive proteins in the analysis of the UK Biobank database pQTLs. In the Bayesian colocalization analysis, EVI5 (PPH4 = 0.9800), O-GlcNAcase (OGA) (PPH4 = 0.8569), and TNFRSF14 (PPH4 = 0.8904) were the common positive genes in the two analysis methods. In conclusion, EVI5, OGA, and TNFRSF14 may be potential therapeutic targets for MS. Through the comprehensive application of MR analysis and Bayesian colocalization analysis, we have successfully identified that EVI5, OGA, and TNFRSF14 may be key therapeutic targets for MS. These findings may provide a scientific basis for the development of novel immunotherapies, combination treatment regimens, or targeted intervention strategies. 
+SN  - 2045-2322
+UR  - https://doi.org/10.1038/s41598-025-94303-8
+DO  - 10.1038/s41598-025-94303-8
+ID  - Yang2025
+ER  - 

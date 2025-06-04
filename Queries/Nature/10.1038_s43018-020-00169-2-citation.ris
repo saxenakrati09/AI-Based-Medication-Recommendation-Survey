@@ -1,0 +1,26 @@
+TY  - JOUR
+AU  - Ma, Jianzhu
+AU  - Fong, Samson H.
+AU  - Luo, Yunan
+AU  - Bakkenist, Christopher J.
+AU  - Shen, John Paul
+AU  - Mourragui, Soufiane
+AU  - Wessels, Lodewyk F. A.
+AU  - Hafner, Marc
+AU  - Sharan, Roded
+AU  - Peng, Jian
+AU  - Ideker, Trey
+PY  - 2021
+DA  - 2021/02/01
+TI  - Few-shot learning creates predictive models of drug response that translate from high-throughput screens to individual patients
+JO  - Nature Cancer
+SP  - 233
+EP  - 244
+VL  - 2
+IS  - 2
+AB  - Cell-line screens create expansive datasets for learning predictive markers of drug response, but these models do not readily translate to the clinic with its diverse contexts and limited data. In the present study, we apply a recently developed technique, few-shot machine learning, to train a versatile neural network model in cell lines that can be tuned to new contexts using few additional samples. The model quickly adapts when switching among different tissue types and in moving from cell-line models to clinical contexts, including patient-derived tumor cells and patient-derived xenografts. It can also be interpreted to identify the molecular features most important to a drug response, highlighting critical roles for RB1 and SMAD4 in the response to CDK inhibition and RNF8 and CHD4 in the response to ATM inhibition. The few-shot learning framework provides a bridge from the many samples surveyed in high-throughput screens (n-of-many) to the distinctive contexts of individual patients (n-of-one).
+SN  - 2662-1347
+UR  - https://doi.org/10.1038/s43018-020-00169-2
+DO  - 10.1038/s43018-020-00169-2
+ID  - Ma2021
+ER  - 

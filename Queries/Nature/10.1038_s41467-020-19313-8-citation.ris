@@ -1,0 +1,21 @@
+TY  - JOUR
+AU  - Kong, JungHo
+AU  - Lee, Heetak
+AU  - Kim, Donghyo
+AU  - Han, Seong Kyu
+AU  - Ha, Doyeon
+AU  - Shin, Kunyoo
+AU  - Kim, Sanguk
+PY  - 2020
+DA  - 2020/10/30
+TI  - Network-based machine learning in colorectal and bladder organoid models predicts anti-cancer drug efficacy in patients
+JO  - Nature Communications
+SP  - 5485
+VL  - 11
+IS  - 1
+AB  - Cancer patient classification using predictive biomarkers for anti-cancer drug responses is essential for improving therapeutic outcomes. However, current machine-learning-based predictions of drug response often fail to identify robust translational biomarkers from preclinical models. Here, we present a machine-learning framework to identify robust drug biomarkers by taking advantage of network-based analyses using pharmacogenomic data derived from three-dimensional organoid culture models. The biomarkers identified by our approach accurately predict the drug responses of 114 colorectal cancer patients treated with 5-fluorouracil and 77 bladder cancer patients treated with cisplatin. We further confirm our biomarkers using external transcriptomic datasets of drug-sensitive and -resistant isogenic cancer cell lines. Finally, concordance analysis between the transcriptomic biomarkers and independent somatic mutation-based biomarkers further validate our method. This work presents a method to predict cancer patient drug responses using pharmacogenomic data derived from organoid models by combining the application of gene modules and network-based approaches.
+SN  - 2041-1723
+UR  - https://doi.org/10.1038/s41467-020-19313-8
+DO  - 10.1038/s41467-020-19313-8
+ID  - Kong2020
+ER  - 

@@ -1,0 +1,16 @@
+TY  - JOUR
+AU  - Liu, Hengrui
+AU  - Tang, Tao
+PY  - 2023
+DA  - 2023/11/04
+TI  - MAPK signaling pathway-based glioma subtypes, machine-learning risk model, and key hub proteins identification
+JO  - Scientific Reports
+SP  - 19055
+VL  - 13
+IS  - 1
+AB  - An early diagnosis and precise prognosis are critical for the treatment of glioma. The mitogen‑activated protein kinase (MAPK) signaling pathway potentially affects glioma, but the exploration of the clinical values of the pathway remains lacking. We accessed data from TCGA, GTEx, CGGA, etc. Up-regulated MAPK signaling pathway genes in glioma were identified and used to cluster the glioma subtypes using consensus clustering. The subtype differences in survival, cancer stemness, and the immune microenvironment were analyzed. A prognostic model was trained with the identified genes using the LASSO method and was validated with three external cohorts. The correlations between the risk model and cancer-associated signatures in cancer were analyzed. Key hub genes of the gene set were identified by hub gene analysis and survival analysis. 47% of the MAPK signaling pathway genes were overexpressed in glioma. Subtypes based on these genes were distinguished in survival, cancer stemness, and the immune microenvironment. A risk model was calculated with high confidence in the prediction of overall survival and was correlated with multiple cancer-associated signatures. 12 hub genes were identified and 8 of them were associated with survival. The MAPK signaling pathway was overexpressed in glioma with prognostic value.
+SN  - 2045-2322
+UR  - https://doi.org/10.1038/s41598-023-45774-0
+DO  - 10.1038/s41598-023-45774-0
+ID  - Liu2023
+ER  - 

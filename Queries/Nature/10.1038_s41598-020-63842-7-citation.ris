@@ -1,0 +1,18 @@
+TY  - JOUR
+AU  - Kaushik, Aman Chandra
+AU  - Mehmood, Aamir
+AU  - Dai, Xiaofeng
+AU  - Wei, Dong-Qing
+PY  - 2020
+DA  - 2020/04/22
+TI  - A comparative chemogenic analysis for predicting Drug-Target Pair via Machine Learning Approaches
+JO  - Scientific Reports
+SP  - 6870
+VL  - 10
+IS  - 1
+AB  - A computational technique for predicting the DTIs has now turned out to be an indispensable job during the process of drug finding. It tapers the exploration room for interactions by propounding possible interaction contenders for authentication through experiments of wet-lab which are known for their expensiveness and time consumption. Chemogenomics, an emerging research area focused on the systematic examination of the biological impact of a broad series of minute molecular-weighting ligands on a broad raiment of macromolecular target spots. Additionally, with the advancement in time, the complexity of the algorithms is increasing which may result in the entry of big data technologies like Spark in this field soon. In the presented work, we intend to offer an inclusive idea and realistic evaluation of the computational Drug Target Interaction projection approaches, to perform as a guide and reference for researchers who are carrying out work in a similar direction. Precisely, we first explain the data utilized in computational Drug Target Interaction prediction attempts like this. We then sort and explain the best and most modern techniques for the prediction of DTIs. Then, a realistic assessment is executed to show the projection performance of several illustrative approaches in various situations. Ultimately, we underline possible opportunities for additional improvement of Drug Target Interaction projection enactment and also linked study objectives.
+SN  - 2045-2322
+UR  - https://doi.org/10.1038/s41598-020-63842-7
+DO  - 10.1038/s41598-020-63842-7
+ID  - Kaushik2020
+ER  - 

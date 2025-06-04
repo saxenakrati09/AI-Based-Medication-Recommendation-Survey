@@ -1,0 +1,23 @@
+TY  - JOUR
+AU  - Chen, Rongjin
+AU  - Yang, Chenhui
+AU  - Xiao, Hefang
+AU  - Yang, Ao
+AU  - Chen, Changshun
+AU  - Yang, Fei
+AU  - Peng, Bo
+AU  - Geng, Bin
+AU  - Xia, Yayi
+PY  - 2025
+DA  - 2025/02/08
+TI  - PRKD2 as a novel target for targeting the diabetes–osteoporosis nexus
+JO  - Scientific Reports
+SP  - 4703
+VL  - 15
+IS  - 1
+AB  - Diabetes mellitus (DM) and osteoporosis (OP) co-morbidity (DMOP) pose major health challenges owing to their complex pathophysiological interactions. The aim of this study was to identify and validate key genes implicated in the pathogenesis of both conditions. By employing the Mfuzz time-series gene clustering method combined with transcriptome sequencing of patient serum, we systematically delineated gene expression patterns during the transition from a healthy state through DM to DMOP. These findings were further validated using external datasets, and a series of functional enrichment analyses, gene set enrichment analyses, and immune cell infiltration studies were conducted. Our analyses revealed a distinct progression pattern from a normal state through DM to DMOP, characterized by dynamic gene expression changes. Notably, PRKD2 emerged as a significantly downregulated gene in DMOP, highlighting its crucial role in disease pathogenesis. Further analyses revealed the involvement of PRKD2 in key signaling pathways, especially the Wnt and IL-18 pathways, which are critical for bone and glucose metabolism. Validation in cellular and animal models confirmed the role of PRKD2 in apoptosis and bone metabolism, emphasizing its therapeutic potential. In conclusion, our findings establish PRKD2 as a pivotal molecule in DMOP, offering fresh insights into its mechanisms and affirming its value as a therapeutic target.
+SN  - 2045-2322
+UR  - https://doi.org/10.1038/s41598-025-89235-2
+DO  - 10.1038/s41598-025-89235-2
+ID  - Chen2025
+ER  - 

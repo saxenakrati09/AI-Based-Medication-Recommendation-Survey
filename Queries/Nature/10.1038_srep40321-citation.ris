@@ -1,0 +1,17 @@
+TY  - JOUR
+AU  - Stanfield, Zachary
+AU  - Coşkun, Mustafa
+AU  - Koyutürk, Mehmet
+PY  - 2017
+DA  - 2017/01/09
+TI  - Drug Response Prediction as a Link Prediction Problem
+JO  - Scientific Reports
+SP  - 40321
+VL  - 7
+IS  - 1
+AB  - Drug response prediction is a well-studied problem in which the molecular profile of a given sample is used to predict the effect of a given drug on that sample. Effective solutions to this problem hold the key for precision medicine. In cancer research, genomic data from cell lines are often utilized as features to develop machine learning models predictive of drug response. Molecular networks provide a functional context for the integration of genomic features, thereby resulting in robust and reproducible predictive models. However, inclusion of network data increases dimensionality and poses additional challenges for common machine learning tasks. To overcome these challenges, we here formulate drug response prediction as a link prediction problem. For this purpose, we represent drug response data for a large cohort of cell lines as a heterogeneous network. Using this network, we compute “network profiles” for cell lines and drugs. We then use the associations between these profiles to predict links between drugs and cell lines. Through leave-one-out cross validation and cross-classification on independent datasets, we show that this approach leads to accurate and reproducible classification of sensitive and resistant cell line-drug pairs, with 85% accuracy. We also examine the biological relevance of the network profiles.
+SN  - 2045-2322
+UR  - https://doi.org/10.1038/srep40321
+DO  - 10.1038/srep40321
+ID  - Stanfield2017
+ER  - 

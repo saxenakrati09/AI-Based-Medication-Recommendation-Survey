@@ -1,0 +1,21 @@
+TY  - JOUR
+AU  - Huang, Lei
+AU  - Li, Zhengtai
+AU  - Lv, Yitong
+AU  - Zhang, Xinyun
+AU  - Li, Yifan
+AU  - Li, Yingji
+AU  - Yu, Changyuan
+PY  - 2024
+DA  - 2024/08/30
+TI  - Unveiling disulfidptosis-related biomarkers and predicting drugs in Alzheimer’s disease
+JO  - Scientific Reports
+SP  - 20185
+VL  - 14
+IS  - 1
+AB  - Alzheimer's disease is the predominant form of dementia, and disulfidptosis is the latest reported mode of cell death that impacts various disease processes. This study used bioinformatics to analyze genes associated with disulfidptosis in Alzheimer's disease comprehensively. Based on the public datasets, the differentially expressed genes associated with disulfidptosis were identified, and immune cell infiltration was investigated through correlation analysis. Subsequently, hub genes were determined by a randomforest model. A prediction model was constructed using logistic regression. In addition, the drug-target affinity was predicted by a graph neural network model, and the results were validated by molecular docking. Five hub genes (PPEF1, NEUROD6, VIP, NUPR1, and GEM) were identified. The gene set showed significant enrichment for AD-related pathways. The logistic regression model demonstrated an AUC of 0.952, with AUC values of 0.916 and 0.864 in validated datasets. The immune infiltration analysis revealed significant heterogeneity between the Alzheimer's disease and control groups. High-affinity drugs for hub genes were identified. Through our study, a disease prediction model was constructed using potential biomarkers, and drugs targeting the genes were predicted. These results contribute to further understanding of the molecular mechanisms underlying Alzheimer's disease.
+SN  - 2045-2322
+UR  - https://doi.org/10.1038/s41598-024-70893-7
+DO  - 10.1038/s41598-024-70893-7
+ID  - Huang2024
+ER  - 

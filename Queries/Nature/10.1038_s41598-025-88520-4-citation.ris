@@ -1,0 +1,21 @@
+TY  - JOUR
+AU  - Luo, Simin
+AU  - Zhu, Yuhong
+AU  - Guo, Zhanli
+AU  - Zheng, Chuan
+AU  - Fu, Xi
+AU  - You, Fengming
+AU  - Li, Xueke
+PY  - 2025
+DA  - 2025/02/03
+TI  - Exploring biomarkers and molecular mechanisms of Type 2 diabetes mellitus promotes colorectal cancer progression based on transcriptomics
+JO  - Scientific Reports
+SP  - 4086
+VL  - 15
+IS  - 1
+AB  - Type 2 diabetes mellitus (T2DM) has been confirmed as an independent risk factor for colorectal cancer (CRC) in many studies. However, the mechanisms behind T2DM’s role in the progression of CRC remain unclear. This study aims to explore the potential biomarkers and molecular mechanisms involved in T2DM-promoted CRC progression. The limma package was used to identify differentially expressed genes in tumor tissue from CRC patients with or without T2DM. The key biological processes were screened by gene ontology and gene set enrichment analysis. A diagnostic model for co-morbidities was constructed by logistic regression model with least absolute shrinkage and selection operator (Lasso) regularization method. The diagnostic performance was assessed by supplementing external datasets to draw ROC curves on the diagnostic model. The diagnostic model was further screened for key genes by prognostic analysis. The relationship of key genes with immune cells and other cells was evaluated by immune infiltration algorithm and single-cell transcription analysis. Drug prediction was performed by cMAP and the obtained drugs were molecularly docked with the key genes. The differentially expressed genes of T2DM-promoted CRC progression were mainly enriched to O-linked glycosylation-related processes. The diagnostic model constructed based on Lasso logistic regression had good diagnostic performance (AUC > 0.8). COX11 was the key gene for co-morbidities: in tumor tissues, COX11 expression was significantly higher than that in normal colon tissues. However, COX11 gene expression was significantly lower in patients with comorbidities than in patients without T2DM in tumor tissue. External datasets confirmed from both mRNA and protein expression levels that low COX11 expression was significantly associated with poor CRC prognosis. Immune infiltration analysis suggested that its expression related to the proportion of M2 macrophages. Single-cell transcriptome analysis revealed a close association of COX11 expression with endothelial cells and macrophages. The top4 drugs predicted bound well to COX11. Our study revealed that the pathogenesis of T2DM-promoted CRC progression related to O-linked glycosylation. We constructed a diagnostic model for T2DM-CRC co-morbidity. Meanwhile, we identified COX11 as a potential immune-related molecular marker closely associated with T2DM-promoted CRC progression. These mechanisms and molecular markers may provide new ideas for further studies of T2DM-promoted CRC progression and contribute to drug discovery for the treatment of co-morbidities.
+SN  - 2045-2322
+UR  - https://doi.org/10.1038/s41598-025-88520-4
+DO  - 10.1038/s41598-025-88520-4
+ID  - Luo2025
+ER  - 

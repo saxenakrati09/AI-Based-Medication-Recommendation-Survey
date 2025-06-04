@@ -1,0 +1,22 @@
+TY  - JOUR
+AU  - Adikusuma, Wirawan
+AU  - Zakaria, Zainul Amiruddin
+AU  - Irham, Lalu Muhammad
+AU  - Nopitasari, Baiq Leny
+AU  - Pradiningsih, Anna
+AU  - Firdayani, Firdayani
+AU  - Septama, Abdi Wira
+AU  - Chong, Rockie
+PY  - 2023
+DA  - 2023/06/20
+TI  - Transcriptomics-driven drug repositioning for the treatment of diabetic foot ulcer
+JO  - Scientific Reports
+SP  - 10032
+VL  - 13
+IS  - 1
+AB  - Diabetic foot ulcers (DFUs) are a common complication of diabetes and can lead to severe disability and even amputation. Despite advances in treatment, there is currently no cure for DFUs and available drugs for treatment are limited. This study aimed to identify new candidate drugs and repurpose existing drugs to treat DFUs based on transcriptomics analysis. A total of 31 differentially expressed genes (DEGs) were identified and used to prioritize the biological risk genes for DFUs. Further investigation using the database DGIdb revealed 12 druggable target genes among 50 biological DFU risk genes, corresponding to 31 drugs. Interestingly, we highlighted that two drugs (urokinase and lidocaine) are under clinical investigation for DFU and 29 drugs are potential candidates to be repurposed for DFU therapy. The top 5 potential biomarkers for DFU from our findings are IL6ST, CXCL9, IL1R1, CXCR2, and IL10. This study highlights IL1R1 as a highly promising biomarker for DFU due to its high systemic score in functional annotations, that can be targeted with an existing drug, Anakinra. Our study proposed that the integration of transcriptomic and bioinformatic-based approaches has the potential to drive drug repurposing for DFUs. Further research will further examine the mechanisms by which targeting IL1R1 can be used to treat DFU.
+SN  - 2045-2322
+UR  - https://doi.org/10.1038/s41598-023-37120-1
+DO  - 10.1038/s41598-023-37120-1
+ID  - Adikusuma2023
+ER  - 

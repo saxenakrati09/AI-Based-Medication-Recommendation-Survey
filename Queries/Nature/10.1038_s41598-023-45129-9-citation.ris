@@ -1,0 +1,17 @@
+TY  - JOUR
+AU  - Yang, Xiaoting
+AU  - Wang, Jing
+AU  - Liu, Wei
+PY  - 2023
+DA  - 2023/10/18
+TI  - Molecular markers of type II alveolar epithelial cells in acute lung injury by bioinformatics analysis
+JO  - Scientific Reports
+SP  - 17797
+VL  - 13
+IS  - 1
+AB  - In this study, we aimed to identify molecular markers associated with type II alveolar epithelial cell injury in acute lung injury (ALI) models using bioinformatics methods. The objective was to provide new insights for the diagnosis and treatment of ALI/ARDS. We downloaded RNA SEQ datasets (GSE109913, GSE179418, and GSE119123) from the Gene Expression Omnibus (GEO) and used R language package to screen differentially expressed genes (DEGs). DEGs were annotated using Gene Ontology (GO), and their pathways were analyzed using Kyoto Encyclopedia of Genes and Genomes (KEGG). DEGs were imported into the STRING database and analyzed using Cytoscape software to determine the protein network of DEGs and calculate the top 10 nodes for the hub genes. Finally, potential therapeutic drugs for the hub genes were predicted using the DGIdb database. We identified 78 DEGs, including 70 up-regulated genes and 8 down-regulated genes. GO analysis revealed that the DEGs were mainly involved in biological processes such as granulocyte migration, response to bacterial-derived molecules, and cytokine-mediated signaling pathways. Additionally, they had cytokine activity, chemokine activity, and receptor ligand activity, and functioned in related receptor binding, CXCR chemokine receptor binding, G protein-coupled receptor binding, and other molecular functions. KEGG analysis indicated that the DEGs were mainly involved in TNF signaling pathway, IL-17 signaling pathway, NF-κB signal pathway, chemokine signal pathway, cytokine-cytokine receptor interaction signal pathway, and others. We identified eight hub genes, including IRF7, IFIT1, IFIT3, PSMB8, PSMB9, BST2, OASL2, and ZBP1, which were all up-regulated genes. We identified several hub genes of type II alveolar epithelial cells in ALI mouse models using bioinformatics analysis. These results provide new targets for understanding and treating of ALI.
+SN  - 2045-2322
+UR  - https://doi.org/10.1038/s41598-023-45129-9
+DO  - 10.1038/s41598-023-45129-9
+ID  - Yang2023
+ER  - 

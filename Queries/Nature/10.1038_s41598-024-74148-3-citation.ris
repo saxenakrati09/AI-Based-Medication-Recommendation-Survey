@@ -1,0 +1,23 @@
+TY  - JOUR
+AU  - Guo, Xin
+AU  - Tao, Meng-jun
+AU  - Ji, XinCan
+AU  - Han, MengQi
+AU  - Shen, Yue
+AU  - Hong, Cheng
+AU  - Guo, HaoYang
+AU  - Shi, Wei
+AU  - Yuan, Hui
+PY  - 2024
+DA  - 2024/10/13
+TI  - Validation of TYK2 and exploration of PRSS36 as drug targets for psoriasis using Mendelian randomization
+JO  - Scientific Reports
+SP  - 23902
+VL  - 14
+IS  - 1
+AB  - Psoriasis is a chronic inflammatory skin disorder with multiple causes, including genetic and environmental factors. Despite advances in treatment, there remains a need to identify novel therapeutic targets. A Mendelian randomization (MR) analysis was conducted to identify therapeutic targets for psoriasis. Data on cis-expression quantitative trait loci were obtained from the eQTLGen Consortium (n = 31,684). Summary statistics for psoriasis (outcome) were sourced from the GWAS Catalog with a sample size of 484,598, including 5,427 cases and 479,171 controls. Colocalization analysis was used to assess whether psoriasis risk and gene expression were driven by shared single nucleotide polymorphisms. Drug prediction and molecular docking were utilized to validate the pharmacological value of the drug targets. The MR analysis found that 81 drug targets were significantly associated, and two (TYK2 and PRSS36) were supported by colocalization analysis (PP.H4 > 0.80). Phenome-wide association studies did not show any associations with other traits at the gene level. Biologically, these genes were closely related to immune function. Molecular docking revealed strong binding with drugs and proteins, as supported by available structural data. This study validated TYK2 as a drug target for psoriasis, in line with its existing clinical use, including the development of decucravacitinib. PRSS36 is a potential novel target requiring further investigation.
+SN  - 2045-2322
+UR  - https://doi.org/10.1038/s41598-024-74148-3
+DO  - 10.1038/s41598-024-74148-3
+ID  - Guo2024
+ER  - 

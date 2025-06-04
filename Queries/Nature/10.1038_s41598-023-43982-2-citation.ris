@@ -1,0 +1,24 @@
+TY  - JOUR
+AU  - Peng, Jian
+AU  - Li, Pingping
+AU  - Li, Yuan
+AU  - Quan, Jichuan
+AU  - Yao, Yanwei
+AU  - Duan, Junfang
+AU  - Liu, Xuemei
+AU  - Li, Hao
+AU  - Yuan, Dajiang
+AU  - Wang, Xiaoru
+PY  - 2023
+DA  - 2023/10/13
+TI  - PFKP is a prospective prognostic, diagnostic, immunological and drug sensitivity predictor across pan-cancer
+JO  - Scientific Reports
+SP  - 17399
+VL  - 13
+IS  - 1
+AB  - Phosphofructokinase, platelet (PFKP) is a rate-limiting enzyme of glycolysis that plays a decisive role in various human physio-pathological processes. PFKP has been reported to have multiple functions in different cancer types, including lung cancer and breast cancer. However, no systematic pancancer analysis of PFKP has been performed; this type of analysis could elucidate the clinical value of PFKP in terms of diagnosis, prognosis, drug sensitivity, and immunological correlation. Systematic bioinformation analysis of PFKP was performed based on several public datasets, including The Cancer Genome Atlas (TCGA), Cancer Cell Line Encyclopedia (CCLE), Genotype-Tissue Expression Project (GTEx), and Human Protein Atlas (HPA). Prospective carcinogenesis of PFKP across cancers was estimated by expression analysis, effect on patient prognosis, diagnosis significance evaluation, and immunity regulation estimation. Then, pancancer functional enrichment of PFKP was also assessed through its effect on the signaling score and gene expression profile. Finally, upstream expression regulation of PFKP was explored by promoter DNA methylation and transcription factor (TF) prediction. Our analysis revealed that high expression of PFKP was found in most cancer types. Additionally, a high level of PFKP displayed a significant correlation with poor prognosis in patients across cancers. The diagnostic value of PFKP was performed based on its positive correlation with programmed cell death-ligand 1 (PD-L1). We also found an obvious immune-regulating effect of PFKP in most cancer types. PFKP also had a strong negative correlation with several cancer drugs. Finally, ectopic expression of PFKP may depend on DNA methylation and several predicated transcription factors, including the KLF (KLF transcription factor) and Sp (Sp transcription factor) families. This pancancer analysis revealed that a high expression level of PFKP might be a useful biomarker and predictor in most cancer types. Additionally, the performance of PFKP across cancers also suggested its meaningful role in cancer immunity regulation, even in immunotherapy and drug resistance. Overall, PFKP might be explored as an auxiliary monitor for pancancer early prognosis and diagnosis.
+SN  - 2045-2322
+UR  - https://doi.org/10.1038/s41598-023-43982-2
+DO  - 10.1038/s41598-023-43982-2
+ID  - Peng2023
+ER  - 

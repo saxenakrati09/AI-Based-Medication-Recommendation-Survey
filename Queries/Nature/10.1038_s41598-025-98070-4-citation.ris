@@ -1,0 +1,22 @@
+TY  - JOUR
+AU  - Lin, Longquan
+AU  - Li, Da
+AU  - Cai, Gangfeng
+AU  - Zheng, Gengyang
+AU  - Huang, Dianfeng
+AU  - Liu, Hua
+AU  - Lin, Shunxin
+AU  - Zhao, Feng
+PY  - 2025
+DA  - 2025/04/28
+TI  - Exploring the molecular mechanisms underlying intervertebral disc degeneration by analysing multiple datasets
+JO  - Scientific Reports
+SP  - 14748
+VL  - 15
+IS  - 1
+AB  - The purpose of this study was to explore the genetic characteristics and immune cell infiltration related to intervertebral disc degeneration through multidataset analysis, predict potential therapeutic drugs, and provide a theoretical basis for clinical treatment. The gene expression profile data of the GSE70362, GSE186542, and GSE245147 datasets were downloaded from the Gene Expression Omnibus (GEO) database, and the hub genes were identified through differentially expressed gene analysis, Gene Ontology (GO) and Kyoto Encyclopaedia of Genes and Genomes (KEGG) functional annotation and Mendelian randomization analysis were performed. Hub genes and immune cells were identified. Infiltration status was determined through GSEA and GSVA to clarify the specific signalling pathways associated with key genes and explore the potential molecular mechanisms by which key genes affect disease progression. The key genes were reversely predicted using miRNA grid construction and transcription factor regulation, and genes related to disease regulation were obtained from the GeneCards database. Finally, the differentially expressed genes were used for drug prediction through the Connectivity Map database to identify potential drugs for the treatment of intervertebral disc degeneration. The feasibility of the predicted drugs was tested by molecular docking technology. Real-time quantitative PCR was used to confirm the expression of key genes in the tissue samples.A total of 126 differentially expressed genes were identified in the GEO database, and 4 differentially expressed hub genes (COL6A2, DCXR, GLRX, and PDGFRB) were identified through bioinformatics methods. Immune infiltration analysis revealed that NK cells, macrophages, and eosinophils were activated during IVDD, whereas mast cells and T cells were suppressed. GO and KEGG analyses revealed that key genes are involved in the development of this disease through signalling pathways such as the glycolysis pathway, the oxidative phosphorylation pathway, the cholesterol regulatory pathway, and the haem metabolism pathway. Analysis of the constructed miRNA grid revealed that key genes are jointly regulated by multiple transcription factors, among which the most important motif is cisbp_M5578. Disease regulation-related genes were obtained through the GeneCards database, analysis of the correlation with key genes was performed, and the expression levels of the two mRNA and miRNA were significantly correlated. Finally, drug prediction performed through the Connectivity Map database revealed that drugs such as Abt-751, LY-2183240, podophyllotoxin, and vindesine can alleviate or even reverse the disease state. Finally, we collected 10 IVDD and 10 healthy disc tissue samples, and the RT‒qPCR results were consistent with the bioinformatics results. We identified COL6A2, DCXR, GLRX, and PDGFRB as key genes involved in IVDD. In addition, drugs such as Abt-751 are expected to control and reverse the progression of the disease. In the future, these key genes and predicted drugs may provide new directions for further mechanistic studies as well as new therapies for IVDD patients.
+SN  - 2045-2322
+UR  - https://doi.org/10.1038/s41598-025-98070-4
+DO  - 10.1038/s41598-025-98070-4
+ID  - Lin2025
+ER  - 

@@ -1,0 +1,18 @@
+TY  - JOUR
+AU  - He, Yi
+AU  - Zhou, Yuan
+AU  - Ma, Wei
+AU  - Wang, Juan
+PY  - 2019
+DA  - 2019/08/14
+TI  - An integrated transcriptomic analysis of autism spectrum disorder
+JO  - Scientific Reports
+SP  - 11818
+VL  - 9
+IS  - 1
+AB  - Autism spectrum disorder (ASD) is not a single disease but a set of disorders. To find clues of ASD pathogenesis in transcriptomic data, we performed an integrated transcriptomic analysis of ASD. After screening based on several standards in Gene Expression Omnibus (GEO) database, we obtained 11 series of transcriptomic data of different human tissues of ASD patients and healthy controls. Multidimensional scaling analysis revealed that datasets from the same tissue had bigger similarity than from different tissues. Functional enrichment analysis demonstrated that differential expressed genes were significantly enriched in inflammation/immune response, mitochondrion-related function and oxidative phosphorylation. Interestingly, genes enriched in inflammation/immune response were up-regulated in the brain tissues and down-regulated in the blood. In addition, drug prediction provided several compounds which might reverse gene expression profiles of ASD patients. And we also replicated the methods and criteria of transcriptomic analysis with datasets of ASD animal models and healthy controls, the results from animal models consolidated the results of transcriptomic analysis of ASD human tissues. In general, the results of our study may provide researchers a new sight of understanding the etiology of ASD and clinicians the possibilities of developing medical therapies.
+SN  - 2045-2322
+UR  - https://doi.org/10.1038/s41598-019-48160-x
+DO  - 10.1038/s41598-019-48160-x
+ID  - He2019
+ER  - 

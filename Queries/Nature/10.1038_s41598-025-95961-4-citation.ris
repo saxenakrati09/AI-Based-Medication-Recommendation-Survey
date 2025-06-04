@@ -1,0 +1,17 @@
+TY  - JOUR
+AU  - Chau, Hephaes Chuen
+AU  - Liu, Julia Yuen Hang
+AU  - Rudd, John Anthony
+PY  - 2025
+DA  - 2025/04/16
+TI  - An application of deep learning model InceptionTime to predict nausea, vomiting, diarrhoea, and constipation using the gastro-intestinal pacemaker activity drug database (GIPADD)
+JO  - Scientific Reports
+SP  - 13105
+VL  - 15
+IS  - 1
+AB  - The accurate preclinical prediction of adverse drug reactions (ADRs), such as nausea and vomiting, remains a challenge. The Gastro-Intestinal Pacemaker Activity Drug Database (GIPADD) (http://www.gutrhythm.com/public_database) is a new source of electrophysiological big data for drug research. Over the past 2 years, the database has doubled in size, and now contains the electrophysiological profiles of 172 drugs across 11,943 datasets. This study used a state-of-the-art deep-learning model with time-series classification to explore the feasibility of using raw electrophysiological recordings from tissues to predict ADRs. The GIPADD contains the recordings of the electrical activity of various gastrointestinal tissues (stomach, duodenum, ileum, and colon) exposed to a drug at three or more different concentrations, representing the effects of the drug on gastrointestinal pacemaker activity. Each drug in the database is associated with at least 60 recordings. The datasets are divided in a ratio of 8:2 for training and validation. A modified InceptionTime classifier (ICT) was used to predict whether a drug induces ADRs, using data from the SIDER database as the target. Concentrations and tissues were added as covariates and added to the input of the model during forward propagation. We also established a negative control with shuffled target labels, and external validation was conducted using time-shifted recording predictions. The best model for predicting nausea, vomiting, diarrhoea, and constipation achieved by-drug accuracies of 0.87, 0.89, 0.85, and 0.91, respectively; by-drug precision (class 1) of 0.88, 0.90, 0.99, and 0.89, respectively; and area under the receiver operating characteristic curve (AUROC) values of 0.84, 0.87, 0.94, and 0.96, respectively. The best model was an ensemble of five independent ICT classifiers trained on the same dataset. Models trained using shuffled labels (negative controls) exhibited significantly lower accuracy, precision, and AUROC values than models trained using correctly labelled datasets, indicating that ICT classifiers successfully identified latent features in the raw recordings associated with ADRs. The combined benefits of the GIPADD and deep learning may accelerate drug safety testing and drug development by enabling the reliable analysis of electrophysiological drug profiles during the preclinical stage.
+SN  - 2045-2322
+UR  - https://doi.org/10.1038/s41598-025-95961-4
+DO  - 10.1038/s41598-025-95961-4
+ID  - Chau2025
+ER  - 

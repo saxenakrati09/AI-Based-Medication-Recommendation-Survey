@@ -1,0 +1,19 @@
+TY  - JOUR
+AU  - Pachouly, Jalaj
+AU  - Ahirrao, Swati
+AU  - Kotecha, Ketan
+AU  - Kulkarni, Ambarish
+AU  - Alfarhood, Sultan
+PY  - 2025
+DA  - 2025/03/13
+TI  - Multilabel classification for defect prediction in software engineering
+JO  - Scientific Reports
+SP  - 8739
+VL  - 15
+IS  - 1
+AB  - With advancements in software development and artificial intelligence, defect prediction has gradually become an essential component of the software development lifecycle. Historically, defect prediction has been considered a multiclass classification problem because defect classes are mutually exclusive. However, software defects can belong to multiple categories simultaneously, making multilabel classification a more appropriate approach. A defect report typically contains the title, body, comments from developers and testers, and code snippets. We used these data items and performed data wrangling on these data to create a holistic summary of the defect report, which contains all the vital information that is useful for defect predictions. In this study, we investigated the multilabel dimension of the defect and performed multilabel classification using machine learning and deep learning techniques while considering the class imbalance and correlations between the labels. In the traditional classification methods, we used three classifiers: Multinomial Naive Bayes, Logistic Regression, and Random Forest. Multilayer Perceptron (MLP) and a Convolutional Neural Network (CNN) with Classifier Chains are used in deep learning. To check the dataset quality, appropriate feature selection, and data dimensionality reduction, we used the chi-square test. To handle the class imbalance, we used Non-Negative Least Squares (NNLS). Our experimental investigations showed significant improvements in the model performance across machine learning and deep learning once the dataset was balanced before training the models. Visual plots of evaluation metrics, such as Hamming loss, Recall, Precision, and F1-score, clearly demonstrated the analysis outcome.
+SN  - 2045-2322
+UR  - https://doi.org/10.1038/s41598-025-93242-8
+DO  - 10.1038/s41598-025-93242-8
+ID  - Pachouly2025
+ER  - 

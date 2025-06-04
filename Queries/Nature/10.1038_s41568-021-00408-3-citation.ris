@@ -1,0 +1,20 @@
+TY  - JOUR
+AU  - Boehm, Kevin M.
+AU  - Khosravi, Pegah
+AU  - Vanguri, Rami
+AU  - Gao, Jianjiong
+AU  - Shah, Sohrab P.
+PY  - 2022
+DA  - 2022/02/01
+TI  - Harnessing multimodal data integration to advance precision oncology
+JO  - Nature Reviews Cancer
+SP  - 114
+EP  - 126
+VL  - 22
+IS  - 2
+AB  - Advances in quantitative biomarker development have accelerated new forms of data-driven insights for patients with cancer. However, most approaches are limited to a single mode of data, leaving integrated approaches across modalities relatively underdeveloped. Multimodal integration of advanced molecular diagnostics, radiological and histological imaging, and codified clinical data presents opportunities to advance precision oncology beyond genomics and standard molecular techniques. However, most medical datasets are still too sparse to be useful for the training of modern machine learning techniques, and significant challenges remain before this is remedied. Combined efforts of data engineering, computational methods for analysis of heterogeneous data and instantiation of synergistic data models in biomedical research are required for success. In this Perspective, we offer our opinions on synthesizing complementary modalities of data with emerging multimodal artificial intelligence methods. Advancing along this direction will result in a reimagined class of multimodal biomarkers to propel the field of precision oncology in the coming decade.
+SN  - 1474-1768
+UR  - https://doi.org/10.1038/s41568-021-00408-3
+DO  - 10.1038/s41568-021-00408-3
+ID  - Boehm2022
+ER  - 

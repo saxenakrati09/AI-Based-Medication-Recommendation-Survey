@@ -1,0 +1,25 @@
+TY  - JOUR
+AU  - Qi, Xiaoning
+AU  - Zhao, Lianhe
+AU  - Tian, Chenyu
+AU  - Li, Yueyue
+AU  - Chen, Zhen-Lin
+AU  - Huo, Peipei
+AU  - Chen, Runsheng
+AU  - Liu, Xiaodong
+AU  - Wan, Baoping
+AU  - Yang, Shengyong
+AU  - Zhao, Yi
+PY  - 2024
+DA  - 2024/10/26
+TI  - Predicting transcriptional responses to novel chemical perturbations using deep generative model for drug discovery
+JO  - Nature Communications
+SP  - 9256
+VL  - 15
+IS  - 1
+AB  - Understanding transcriptional responses to chemical perturbations is central to drug discovery, but exhaustive experimental screening of disease-compound combinations is unfeasible. To overcome this limitation, here we introduce PRnet, a perturbation-conditioned deep generative model that predicts transcriptional responses to novel chemical perturbations that have never experimentally perturbed at bulk and single-cell levels. Evaluations indicate that PRnet outperforms alternative methods in predicting responses across novel compounds, pathways, and cell lines. PRnet enables gene-level response interpretation and in-silico drug screening for diseases based on gene signatures. PRnet further identifies and experimentally validates novel compound candidates against small cell lung cancer and colorectal cancer. Lastly, PRnet generates a large-scale integration atlas of perturbation profiles, covering 88 cell lines, 52 tissues, and various compound libraries. PRnet provides a robust and scalable candidate recommendation workflow and successfully recommends drug candidates for 233 diseases. Overall, PRnet is an effective and valuable tool for gene-based therapeutics screening.
+SN  - 2041-1723
+UR  - https://doi.org/10.1038/s41467-024-53457-1
+DO  - 10.1038/s41467-024-53457-1
+ID  - Qi2024
+ER  - 

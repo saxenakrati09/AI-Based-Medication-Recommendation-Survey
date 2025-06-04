@@ -1,0 +1,23 @@
+TY  - JOUR
+AU  - Zeng, Zehua
+AU  - Ma, Yuqing
+AU  - Hu, Lei
+AU  - Tan, Bowen
+AU  - Liu, Peng
+AU  - Wang, Yixuan
+AU  - Xing, Cencan
+AU  - Xiong, Yuanyan
+AU  - Du, Hongwu
+PY  - 2024
+DA  - 2024/07/16
+TI  - OmicVerse: a framework for bridging and deepening insights across bulk and single-cell sequencing
+JO  - Nature Communications
+SP  - 5983
+VL  - 15
+IS  - 1
+AB  - Single-cell sequencing is frequently affected by “omission” due to limitations in sequencing throughput, yet bulk RNA-seq may contain these ostensibly “omitted” cells. Here, we introduce the single cell trajectory blending from Bulk RNA-seq (BulkTrajBlend) algorithm, a component of the OmicVerse suite that leverages a Beta-Variational AutoEncoder for data deconvolution and graph neural networks for the discovery of overlapping communities. This approach effectively interpolates and restores the continuity of “omitted” cells within single-cell RNA sequencing datasets. Furthermore, OmicVerse provides an extensive toolkit for both bulk and single cell RNA-seq analysis, offering seamless access to diverse methodologies, streamlining computational processes, fostering exquisite data visualization, and facilitating the extraction of significant biological insights to advance scientific research.
+SN  - 2041-1723
+UR  - https://doi.org/10.1038/s41467-024-50194-3
+DO  - 10.1038/s41467-024-50194-3
+ID  - Zeng2024
+ER  - 

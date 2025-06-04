@@ -1,0 +1,26 @@
+TY  - JOUR
+AU  - Pan, Chuyu
+AU  - Qi, Xin
+AU  - Yang, Xuena
+AU  - Cheng, Bolun
+AU  - Cheng, Shiqiang
+AU  - Liu, Li
+AU  - Meng, Peilin
+AU  - He, Dan
+AU  - Wei, Wenming
+AU  - Hui, Jingni
+AU  - Zhao, Boyue
+AU  - Wen, Yan
+AU  - Jia, Yumeng
+AU  - Liu, Huan
+AU  - Zhang, Feng
+PY  - 2025
+DA  - 2025/03/19
+TI  - Large-scale plasma proteomics uncovers novel targets linking ambient air pollution and depression
+JO  - Molecular Psychiatry
+AB  - Despite the growing recognition of association between air pollution and increased risk of depression, the intricate biological mechanisms underlying it remains unclear. In this study, a total of 1463 plasma proteins were measured by the Olink Explore platform for 50,553 participants in a large prospective cohort. Four air pollutants were assessed using land-use regression models: particulate matter with aerodynamic diameter ≤ 2.5μm (PM2.5), particulate matter with aerodynamic diameter > 2.5μm and ≤ 10μm (PM2.5–10), nitrogen dioxide (NO2), and nitric oxide (NO). The air pollution index was calculated using principal components analysis to assess joint exposure to air pollution. Logistic regression and Cox proportional hazards regression analyses were respectively used to explore the impact of the interaction between air pollution exposure and plasma proteins on the prevalence and incidence of depression. Functional enrichment analysis and drug prediction analysis were conducted to explore the biological mechanisms and drugs associated with identified plasma proteins with interaction effects. Logistic regression analysis detected seven significant air pollutant and plasma protein interactions for the prevalence of depression, such as CDHR5 vs. PM2.5 (OR: 0.58; 95% CI: 0.48–0.71), TNFRSF13C vs. NO (OR :0.70, 95% CI: 0.58–0.84) and ICAM5 vs. air pollution index (OR: 1.38, 95% CI: 1.17–1.63). Two significant interactions were identified for the incidence of depression: CDHR5 vs. PM2.5 (HR: 0.62, 95% CI: 0.50–0.76) and HSD11B1 vs. PM2.5 (HR: 1.48, 95% CI: 1.22–1.81). The plasma proteins that interacted with air pollutants were enriched in various Gene Ontology terms and pathways involving immunity, endocrine, inflammation, neurological function and metabolism, such as neuroinflammatory response, neuron projection guidance, regulation of lymphocyte mediated immunity, steroid biosynthetic process and lipid digestion. We also found that these proteins interacted with multiple drugs, such as risperidone, olanzapine and progesterone. This study identified novel targets linking ambient air pollution and depression, providing the insights for biological mechanisms of air pollution affecting the risk of depression.
+SN  - 1476-5578
+UR  - https://doi.org/10.1038/s41380-025-02953-x
+DO  - 10.1038/s41380-025-02953-x
+ID  - Pan2025
+ER  - 

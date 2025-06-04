@@ -1,0 +1,20 @@
+TY  - JOUR
+AU  - Long, Xi
+AU  - Wu, Zixuan
+AU  - Jiang, Pengfei
+AU  - Tan, Kang
+AU  - Liu, Pei
+AU  - Peng, Qinghua
+PY  - 2024
+DA  - 2024/07/13
+TI  - The shared mechanism and potential diagnostic markers for premature ovarian failure and dry eye disease
+JO  - Scientific Reports
+SP  - 16178
+VL  - 14
+IS  - 1
+AB  - Premature ovarian failure (POF), which is often comorbid with dry eye disease (DED) is a key issue affecting female health. Here, we explored the mechanism underlying comorbid POF and DED to further elucidate disease mechanisms and improve treatment. Datasets related to POF (GSE39501) and DED (GSE44101) were identified from the Gene Expression Omnibus (GEO) database and subjected to weighted gene coexpression network (WGCNA) and differentially expressed genes (DEGs) analyses, respectively, with the intersection used to obtain 158 genes comorbid in POF and DED. Kyoto Encyclopedia of Genes and Genomes (KEGG) and Gene Ontology (GO) analyses of comorbid genes revealed that identified genes were primarily related to DNA replication and Cell cycle, respectively. Protein–Protein interaction (PPI) network analysis of comorbid genes obtained the 15 hub genes: CDC20, BIRC5, PLK1, TOP2A, MCM5, MCM6, MCM7, MCM2, CENPA, FOXM1, GINS1, TIPIN, MAD2L1, and CDCA3. To validate the analysis results, additional POF- and DED-related datasets (GSE48873 and GSE171043, respectively) were selected. miRNAs-lncRNAs-genes network and machine learning methods were used to further analysis comorbid genes. The DGIdb database identified valdecoxib, amorfrutin A, and kaempferitrin as potential drugs. Herein, the comorbid genes of POF and DED were identified from a bioinformatics perspective, providing a new strategy to explore the comorbidity mechanism, opening up a new direction for the diagnosis and treatment of comorbid POF and DED.
+SN  - 2045-2322
+UR  - https://doi.org/10.1038/s41598-024-67284-3
+DO  - 10.1038/s41598-024-67284-3
+ID  - Long2024
+ER  - 

@@ -1,0 +1,19 @@
+TY  - JOUR
+AU  - Miao, Rui
+AU  - Xia, Liang-Yong
+AU  - Chen, Hao-Heng
+AU  - Huang, Hai-Hui
+AU  - Liang, Yong
+PY  - 2019
+DA  - 2019/06/19
+TI  - Improved Classification of Blood-Brain-Barrier Drugs Using Deep Learning
+JO  - Scientific Reports
+SP  - 8802
+VL  - 9
+IS  - 1
+AB  - Blood-Brain-Barrier (BBB) is a strict permeability barrier for maintaining the Central Nervous System (CNS) homeostasis. One of the most important conditions to judge a CNS drug is to figure out whether it has BBB permeability or not. In the past 20 years, the existing prediction approaches are usually based on the data of the physical characteristics and chemical structure of drugs. However, these methods are usually only applicable to small molecule compounds based on passive diffusion through BBB. To deal this problem, one of the most famous methods is multi-core SVM method, which is based on clinical phenotypes about Drug Side Effects and Drug Indications to predict drug penetration of BBB. This paper proposed a Deep Learning method to predict the Blood-Brain-Barrier permeability based on the clinical phenotypes data. The validation result on three datasets proved that Deep Learning method achieves better performance than the other existing methods. The average accuracy of our method reaches 0.97, AUC reaches 0.98, and the F1 score is 0.92. The results proved that Deep Learning methods can significantly improve the prediction accuracy of drug BBB permeability and it can help researchers to reduce clinical trials and find new CNS drugs.
+SN  - 2045-2322
+UR  - https://doi.org/10.1038/s41598-019-44773-4
+DO  - 10.1038/s41598-019-44773-4
+ID  - Miao2019
+ER  - 

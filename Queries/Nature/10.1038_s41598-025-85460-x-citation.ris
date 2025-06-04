@@ -1,0 +1,25 @@
+TY  - JOUR
+AU  - Gao, Conghui
+AU  - Zhang, Chengqiang
+AU  - Wen, Lixing
+AU  - Zhang, Gailian
+AU  - Liu, Xiaoping
+AU  - Wang, Jie
+AU  - Cui, Luping
+AU  - Li, Rui
+AU  - Nie, Tingting
+AU  - Duan, Jiaoniu
+AU  - Guo, Yingying
+PY  - 2025
+DA  - 2025/01/16
+TI  - Regulation of reactive oxygen species and the role of mitochondrial apoptotic-related genes in rheumatoid arthritis
+JO  - Scientific Reports
+SP  - 2165
+VL  - 15
+IS  - 1
+AB  - Previous research suggests mitochondrial apoptosis alleviates rheumatoid arthritis (RA), but the role of mitochondrial apoptosis-related genes (MARGs) is unclear. Urgent exploration of RA-related mitochondrial apoptosis biomarkers is needed. Gene Expression Ontology (GEO)-derived RA datasets were used to identify differentially expressed genes (DEGs) compared to normal controls, intersected with MARGs to obtain differentially expressed mitochondrial apoptosis-related genes (DE-MARGs). Three ML algorithms screened diagnostic biomarkers. A nomogram was built and validated by receiver operating characteristic (ROC) analysis. Gene Set Enrichment Analysis (GSEA), regulatory network, and drug prediction explored biomarker mechanisms. Finally, key cells analysis included clustering, type annotation, pseudo-temporal study, and interaction, focusing on validated biomarker expression in those cells. A total of 147 DE-MARGs linked to energy & ROS metabolism were identified. Four validated biomarkers (MRPS10, EEF2, HSPA9, TUFM) formed a new RA diagnostic model. Moreover, GSEA linked them to oxidative phosphorylation. YY1 regulates EEF2, HSPA9, MRPS10; FOXO3 regulates EEF2, TUFM. Drugs like Nonoxynol-9, Nedocromil, Gadobutrol target these biomarkers. In addition, biomarkers are expressed in plasmablasts, with CD74 as a key receptor binding multiple ligands. RA biomarkers (MRPS10, EEF2, HSPA9, TUFM) linked to energy & ROS, progression tied to AMPK/mTOR, CD74-MIF crucial. Study advances RA pathogenesis knowledge, supporting clinical diagnosis.
+SN  - 2045-2322
+UR  - https://doi.org/10.1038/s41598-025-85460-x
+DO  - 10.1038/s41598-025-85460-x
+ID  - Gao2025
+ER  - 

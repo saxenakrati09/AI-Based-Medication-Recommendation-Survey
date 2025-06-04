@@ -1,0 +1,16 @@
+TY  - JOUR
+AU  - Ahmadi Moughari, Fatemeh
+AU  - Eslahchi, Changiz
+PY  - 2020
+DA  - 2020/08/28
+TI  - ADRML: anticancer drug response prediction using manifold learning
+JO  - Scientific Reports
+SP  - 14245
+VL  - 10
+IS  - 1
+AB  - One of the prominent challenges in precision medicine is to select the most appropriate treatment strategy for each patient based on the personalized information. The availability of massive data about drugs and cell lines facilitates the possibility of proposing efficient computational models for predicting anticancer drug response. In this study, we propose ADRML, a model for Anticancer Drug Response Prediction using Manifold Learning to systematically integrate the cell line information with the drug information to make accurate predictions about drug therapeutic. The proposed model maps the drug response matrix into the lower-rank spaces that lead to obtaining new perspectives about cell lines and drugs. The drug response for a new cell line-drug pair is computed using the low-rank features. The evaluation of ADRML performance on various types of cell lines and drug information, in addition to the comparisons with previously proposed methods, shows that ADRML provides accurate and robust predictions. Further investigations about the association between drug response and pathway activity scores reveal that the predicted drug responses can shed light on the underlying drug mechanism. Also, the case studies suggest that the predictions of ADRML about novel cell line-drug pairs are validated by reliable pieces of evidence from the literature. Consequently, the evaluations verify that ADRML can be used in accurately predicting and imputing the anticancer drug response.
+SN  - 2045-2322
+UR  - https://doi.org/10.1038/s41598-020-71257-7
+DO  - 10.1038/s41598-020-71257-7
+ID  - Ahmadi Moughari2020
+ER  - 

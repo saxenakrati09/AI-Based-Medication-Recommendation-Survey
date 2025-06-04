@@ -1,0 +1,24 @@
+TY  - JOUR
+AU  - Chen, Bohong
+AU  - Wang, Lihui
+AU  - Pu, Shengyu
+AU  - Guo, Li
+AU  - Chai, Na
+AU  - Sun, Xinyue
+AU  - Tang, Xiaojiang
+AU  - Ren, Yu
+AU  - He, Jianjun
+AU  - Hao, Na
+PY  - 2024
+DA  - 2024/03/18
+TI  - Unveiling potential drug targets for hyperparathyroidism through genetic insights via Mendelian randomization and colocalization analyses
+JO  - Scientific Reports
+SP  - 6435
+VL  - 14
+IS  - 1
+AB  - Hyperparathyroidism (HPT) manifests as a complex condition with a substantial disease burden. While advances have been made in surgical interventions and non-surgical pharmacotherapy for the management of hyperparathyroidism, radical options to halt underlying disease progression remain lacking. Identifying putative genetic drivers and exploring novel drug targets that can impede HPT progression remain critical unmet needs. A Mendelian randomization (MR) analysis was performed to uncover putative therapeutic targets implicated in hyperparathyroidism pathology. Cis-expression quantitative trait loci (cis-eQTL) data serving as genetic instrumental variables were obtained from the eQTLGen Consortium and Genotype-Tissue Expression (GTEx) portal. Hyperparathyroidism summary statistics for single nucleotide polymorphism (SNP) associations were sourced from the FinnGen study (5590 cases; 361,988 controls). Colocalization analysis was performed to determine the probability of shared causal variants underlying SNP-hyperparathyroidism and SNP-eQTL links. Five drug targets (CMKLR1, FSTL1, IGSF11, PIK3C3 and SLC40A1) showed significant causation with hyperparathyroidism in both eQTLGen and GTEx cohorts by MR analysis. Specifically, phosphatidylinositol 3-kinase catalytic subunit type 3 (PIK3C3) and solute carrier family 40 member 1 (SLC40A1) showed strong evidence of colocalization with HPT. Multivariable MR and Phenome-Wide Association Study analyses indicated these two targets were not associated with other traits. Additionally, drug prediction analysis implies the potential of these two targets for future clinical applications. This study identifies PIK3C3 and SLC40A1 as potential genetically proxied druggable genes and promising therapeutic targets for hyperparathyroidism. Targeting PIK3C3 and SLC40A1 may offer effective novel pharmacotherapies for impeding hyperparathyroidism progression and reducing disease risk. These findings provide preliminary genetic insight into underlying drivers amenable to therapeutic manipulation, though further investigation is imperative to validate translational potential from preclinical models through clinical applications.
+SN  - 2045-2322
+UR  - https://doi.org/10.1038/s41598-024-57100-3
+DO  - 10.1038/s41598-024-57100-3
+ID  - Chen2024
+ER  - 

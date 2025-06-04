@@ -1,0 +1,17 @@
+TY  - JOUR
+AU  - Jiang, Xiwei
+AU  - Zhang, Jinqing
+AU  - Liu, Xiaoming
+PY  - 2025
+DA  - 2025/05/29
+TI  - Construction and validation of antibody dependent cell phagocytosis related risk model in breast cancer
+JO  - Scientific Reports
+SP  - 18916
+VL  - 15
+IS  - 1
+AB  - Antibody-dependent cellular phagocytosis (ADCP) has potential in breast cancer (BRCA) treatment, but the prognostic significance of ADCP-associated regulators (PRs) in BRCA remains unclear, necessitating this study. Firstly, candidate genes were identified by crossing differentially expressed genes (DEGs) with PRs, and prognostic genes were selected from these. A risk model based on SIAH2 and PIGR was constructed and validated in the GSE42568 cohort. We also assessed the relationship between expression of prognostic genes and clinical characteristics. From these, independent prognostic factors were selected and a nomogram was constructed to predict survival in BRCA patients. Immune microenvironment analysis revealed that PIGR had the strongest positive correlation with naive B cells, while SIAH2 showed the strongest negative correlation with activated memory CD4 T cells. Moreover, drug sensitivity analysis revealed that 109 drugs differed between high- and low-risk groups. Meanwhile, single-cell analysis identified epithelial cells (EPCs) as key cells, with PIGR highly expressed in the middle stage and SIAH2 in the early stage of cell differentiation. Finally, reverse transcription quantitative polymerase chain reaction (RT-qPCR) confirmed the up-regulation of SIAH2 and down-regulation of PIGR in BRCA. These findings suggest that SIAH2 and PIGR are potential prognostic genes and novel therapeutic targets for BRCA management.
+SN  - 2045-2322
+UR  - https://doi.org/10.1038/s41598-025-03825-8
+DO  - 10.1038/s41598-025-03825-8
+ID  - Jiang2025
+ER  - 

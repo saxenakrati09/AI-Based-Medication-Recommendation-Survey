@@ -1,0 +1,18 @@
+TY  - JOUR
+AU  - Hardan, Shahad
+AU  - Shaaban, Mai A.
+AU  - Abdalla, Jehad
+AU  - Yaqub, Mohammad
+PY  - 2024
+DA  - 2024/07/16
+TI  - Affordable and real-time antimicrobial resistance prediction from multimodal electronic health records
+JO  - Scientific Reports
+SP  - 16464
+VL  - 14
+IS  - 1
+AB  - The spread of antimicrobial resistance (AMR) leads to challenging complications and losses of human lives plus medical resources, with a high expectancy of deterioration in the future if the problem is not controlled. From a machine learning perspective, data-driven models could aid clinicians and microbiologists by anticipating the resistance beforehand. Our study serves as the first attempt to harness deep learning (DL) techniques and the multimodal data available in electronic health records (EHR) for predicting AMR. In this work, we utilize and preprocess the MIMIC-IV database extensively to produce separate structured input sources for time-invariant and time-series data customized to the AMR task. Then, a multimodality fusion approach merges the two modalities with clinical notes to determine resistance based on an antibiotic or a pathogen. To efficiently predict AMR, our approach builds the foundation for deploying multimodal DL techniques in clinical practice, leveraging the existing patient data.
+SN  - 2045-2322
+UR  - https://doi.org/10.1038/s41598-024-66812-5
+DO  - 10.1038/s41598-024-66812-5
+ID  - Hardan2024
+ER  - 

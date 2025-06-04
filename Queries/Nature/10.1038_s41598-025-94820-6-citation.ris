@@ -1,0 +1,25 @@
+TY  - JOUR
+AU  - Li, Xingda
+AU  - He, Xueqi
+AU  - Zhang, Yu
+AU  - Hao, Xinyuan
+AU  - Xiong, Anqi
+AU  - Huang, Jiayu
+AU  - Jiang, Biying
+AU  - Tong, Zaiyu
+AU  - Huang, Haiyan
+AU  - Yi, Lian
+AU  - Chen, Wenjia
+PY  - 2025
+DA  - 2025/03/26
+TI  - Uncovering Hippo pathway-related biomarkers in acute myocardial infarction via scRNA-seq binding transcriptomics
+JO  - Scientific Reports
+SP  - 10368
+VL  - 15
+IS  - 1
+AB  - This study investigated Hippo signaling pathway-related biomarkers in acute myocardial infarction (AMI). First, differentially expressed genes (DEGs) between AMI patients and controls were identified. Consensus clustering then classified AMI subtypes, followed by subtype-specific DEG screening. Candidate genes were derived from intersecting initial DEGs with subtype-associated DEGs. Three machine-learning algorithms prioritized five biomarkers (NAMPT, CXCL1, CREM, GIMAP6, and GIMAP7), validated through multi-dataset analyses and cellular expression profiling. qRT-PCR and Western blot confirmed differential expression patterns between AMI and controls across experimental models. Notably, NAMPT, CXCL1, and GIMAP6 exhibited cell-type-specific expression in endothelial cells and macrophages. We further predicted 179 potential therapeutic agents targeting these biomarkers. Niclosamide and eugenol were observed to mitigate hypoxia-induced injury in neonatal mouse ventricular cardiomyocytes. In vivo experiments demonstrated upregulated NAMPT/CXCL1 and downregulated GIMAP6/GIMAP7 in AMI myocardial tissues, with significant NAMPT protein elevation. These biomarkers show clinical diagnostic potential and provide mechanistic insights into AMI pathogenesis.
+SN  - 2045-2322
+UR  - https://doi.org/10.1038/s41598-025-94820-6
+DO  - 10.1038/s41598-025-94820-6
+ID  - Li2025
+ER  - 

@@ -1,0 +1,25 @@
+TY  - JOUR
+AU  - Wang, Jiajia
+AU  - Lu, Yiming
+AU  - Sun, Guangyu
+AU  - Fang, Zhihao
+AU  - Xing, Zhiyong
+AU  - Nong, Weihua
+AU  - Wei, Yunbao
+AU  - Wang, Shan
+AU  - Shi, Guiling
+AU  - Dong, Mingyou
+AU  - Wang, Junli
+PY  - 2023
+DA  - 2023/12/07
+TI  - Machine learning algorithms for a novel cuproptosis-related gene signature of diagnostic and immune infiltration in endometriosis
+JO  - Scientific Reports
+SP  - 21603
+VL  - 13
+IS  - 1
+AB  - Endometriosis (EMT) is an aggressive disease of the reproductive system, also called “benign cancer”. However, effective treatments for EMT are still lacking in clinical practice. Interestingly, immune infiltration is significantly involved in EMT pathogenesis. Currently, no studies have shown the involvement of cuproptosis-related genes (CRGs) in regulating immune infiltration in EMT. This study identified three CRGs such as GLS, NFE2L2, and PDHA1, associated with EMT using machine learning algorithms. These three CRGs were upregulated in the endometrium of patients with moderate/severe EMT and downregulated in patients with infertility. Single sample genomic enrichment analysis (ssGSEA) revealed that these CRGs were closely correlated with autoimmune diseases such as systemic lupus erythematosus. Furthermore, these CRGs were correlated with immune cells such as eosinophils, natural killer cells, and macrophages. Therefore, profiling patients based on these genes aid in a more accurate diagnosis of EMT progression. The mRNA and protein expression levels of GLS, NFE2L2 and PDHA1 were validated by qRT-PCR and WB studies in EMT samples. These findings provide a new idea for the pathology and treatment of endometriosis, suggesting that CRGs such as GLS, NFE2L2 and PDHA1 may play a key role in the occurrence and development of endometriosis.
+SN  - 2045-2322
+UR  - https://doi.org/10.1038/s41598-023-48990-w
+DO  - 10.1038/s41598-023-48990-w
+ID  - Wang2023
+ER  - 

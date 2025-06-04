@@ -1,0 +1,28 @@
+TY  - JOUR
+AU  - Ji, Jiajia
+AU  - Wu, Shaobo
+AU  - Bao, Xueyuan
+AU  - Liu, Shixuan
+AU  - Ye, Yuxing
+AU  - Liu, Jiayuan
+AU  - Guo, Jinniu
+AU  - Liu, Jiateng
+AU  - Wang, Xi
+AU  - Xia, Zhihao
+AU  - Wei, Liangliang
+AU  - Zhang, Yan
+AU  - Hao, Dingjun
+AU  - Huang, Dageng
+PY  - 2023
+DA  - 2023/11/10
+TI  - Mediating oxidative stress through the Palbociclib/miR-141-3p/STAT4 axis in osteoporosis: a bioinformatics and experimental validation study
+JO  - Scientific Reports
+SP  - 19560
+VL  - 13
+IS  - 1
+AB  - Osteoporosis is a common bone disease characterized by loss of bone mass, reduced bone strength, and deterioration of bone microstructure. ROS-induced oxidative stress plays an important role in osteoporosis. However, the biomarkers and molecular mechanisms of oxidative stress are still unclear. We obtained the datasets from the Gene Expression Omnibus (GEO) database, and performed differential analysis, Venn analysis, and weighted correlation network analysis (WGCNA) analysis out the hub genes. Then, the correlation between inflammatory factors and hub genes was analyzed, and a Mendelian randomization (MR) analysis was performed on cytokines and osteoporosis outcomes. In addition, “CIBERSORT” was used to analyze the infiltration of immune cells and single-cell RNA-seq data was used to analyze the expression distribution of hub genes and cell–cell communications. Finally, we collected human blood samples for RT-qPCR and Elisa experiments, the miRNA-mRNA network was constructed using the miRBase database, the 3D structure was predicted using the RNAfold, Vfold3D database, and the drug sensitivity analysis was performed using the RNAactDrug database. We obtained three differentially expressed genes associated with oxidative stress: DBH, TAF15, and STAT4 by differential, WGCNA clustering, and Venn screening analyses, and further analyzed the correlation of these 3 genes with inflammatory factors and immune cell infiltration and found that STAT4 was significantly and positively correlated with IL-2. Single-cell data analysis showed that the STAT4 gene was highly expressed mainly in dendritic cells and monocytes. In addition, the results of RT-qPCR and Elisa experiments verified that the expression of STAT4 was consistent with the previous analysis, and a significant causal relationship between IL-2 and STAT4 SNPs and osteoporosis was found by Mendelian randomization. Finally, through miRNA-mRNA network and drug sensitivity analysis, we analyzed to get Palbociclib/miR-141-3p/STAT4 axis, which can be used for the prevention and treatment of osteoporosis. In this study, we proposed the Palbociclib/miR-141-3p/STAT4 axis for the first time and provided new insights into the mechanism of oxidative stress in osteoporosis.
+SN  - 2045-2322
+UR  - https://doi.org/10.1038/s41598-023-46813-6
+DO  - 10.1038/s41598-023-46813-6
+ID  - Ji2023
+ER  - 

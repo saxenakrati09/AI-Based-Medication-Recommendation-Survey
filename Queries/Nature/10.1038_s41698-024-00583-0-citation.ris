@@ -1,0 +1,19 @@
+TY  - JOUR
+AU  - Ovchinnikova, Katja
+AU  - Born, Jannis
+AU  - Chouvardas, Panagiotis
+AU  - Rapsomaniki, Marianna
+AU  - Kruithof-de Julio, Marianna
+PY  - 2024
+DA  - 2024/04/24
+TI  - Overcoming limitations in current measures of drug response may enable AI-driven precision oncology
+JO  - npj Precision Oncology
+SP  - 95
+VL  - 8
+IS  - 1
+AB  - Machine learning (ML) models of drug sensitivity prediction are becoming increasingly popular in precision oncology. Here, we identify a fundamental limitation in standard measures of drug sensitivity that hinders the development of personalized prediction models – they focus on absolute effects but do not capture relative differences between cancer subtypes. Our work suggests that using z-scored drug response measures mitigates these limitations and leads to meaningful predictions, opening the door for sophisticated ML precision oncology models.
+SN  - 2397-768X
+UR  - https://doi.org/10.1038/s41698-024-00583-0
+DO  - 10.1038/s41698-024-00583-0
+ID  - Ovchinnikova2024
+ER  - 

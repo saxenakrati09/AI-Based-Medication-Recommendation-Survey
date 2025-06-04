@@ -1,0 +1,17 @@
+TY  - JOUR
+AU  - Sun, Qi
+AU  - Li, Yi-Jun
+AU  - Ning, Shou-Bin
+PY  - 2024
+DA  - 2024/07/24
+TI  - Investigating the molecular mechanisms underlying the co-occurrence of Parkinson’s disease and inflammatory bowel disease through the integration of multiple datasets
+JO  - Scientific Reports
+SP  - 17028
+VL  - 14
+IS  - 1
+AB  - Parkinson’s disease (PD) and inflammatory bowel disease (IBD) are chronic diseases affecting the central nervous system and gastrointestinal tract, respectively. Recent research suggests a bidirectional relationship between neurodegeneration in PD and intestinal inflammation in IBD. PD patients may experience gastrointestinal dysfunction over a decade before motor symptom onset, and IBD may increase the risk of developing PD. Despite the “gut-brain axis” concept, the underlying pathophysiological mechanisms of this potential association remain unclear. This study aimed to investigate the biological mechanisms of differentially expressed genes in PD and IBD using bioinformatics tools, providing novel insights into the co-diagnosis and treatment of these diseases. We constructed a gene marker for disease diagnosis and identified five important genes (BTK, NCF2, CRH, FCGR3A and SERPINA3). Through nomogram and decision tree analyses, we found that both the IBD and PD required only the expression levels of BTK and NCF2 for accurate discrimination. Additionally, small molecule drugs RO-90-7501 and MST-312 may be useful for the treatment of both IBD and PD. These findings offer new perspectives on the co-diagnosis and treatment of PD and IBD, and suggest that targeting BTK may be a promising therapeutic strategy for both diseases.
+SN  - 2045-2322
+UR  - https://doi.org/10.1038/s41598-024-67890-1
+DO  - 10.1038/s41598-024-67890-1
+ID  - Sun2024
+ER  - 

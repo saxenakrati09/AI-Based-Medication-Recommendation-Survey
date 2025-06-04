@@ -1,0 +1,20 @@
+TY  - JOUR
+AU  - Zou, Yuesong
+AU  - Pesaranghader, Ahmad
+AU  - Song, Ziyang
+AU  - Verma, Aman
+AU  - Buckeridge, David L.
+AU  - Li, Yue
+PY  - 2022
+DA  - 2022/10/25
+TI  - Modeling electronic health record data using an end-to-end knowledge-graph-informed topic model
+JO  - Scientific Reports
+SP  - 17868
+VL  - 12
+IS  - 1
+AB  - The rapid growth of electronic health record (EHR) datasets opens up promising opportunities to understand human diseases in a systematic way. However, effective extraction of clinical knowledge from EHR data has been hindered by the sparse and noisy information. We present Graph ATtention-Embedded Topic Model (GAT-ETM), an end-to-end taxonomy-knowledge-graph-based multimodal embedded topic model. GAT-ETM distills latent disease topics from EHR data by learning the embedding from a constructed medical knowledge graph. We applied GAT-ETM to a large-scale EHR dataset consisting of over 1 million patients. We evaluated its performance based on topic quality, drug imputation, and disease diagnosis prediction. GAT-ETM demonstrated superior performance over the alternative methods on all tasks. Moreover, GAT-ETM learned clinically meaningful graph-informed embedding of the EHR codes and discovered interpretable and accurate patient representations for patient stratification and drug recommendations. GAT-ETM code is available at https://github.com/li-lab-mcgill/GAT-ETM.
+SN  - 2045-2322
+UR  - https://doi.org/10.1038/s41598-022-22956-w
+DO  - 10.1038/s41598-022-22956-w
+ID  - Zou2022
+ER  - 

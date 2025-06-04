@@ -1,0 +1,21 @@
+TY  - JOUR
+AU  - Yan, Kun
+AU  - Tao, Yifang
+AU  - Chen, Bohong
+AU  - Zhang, Dong
+AU  - Li, Zihao
+AU  - Li, Caogang
+AU  - Zhang, Peng
+PY  - 2025
+DA  - 2025/05/30
+TI  - Identifying causal genes for prostatitis through drug-targeted Mendelian randomization
+JO  - Scientific Reports
+SP  - 19069
+VL  - 15
+IS  - 1
+AB  - Prostatitis is a common condition in andrology and urology that significantly impacts the quality of life of affected individuals. Current treatments often fail to provide lasting benefits. To identify novel therapeutic targets, we conducted a drug-targeted Mendelian randomization (MR) study. Using cis-expression quantitative trait loci (cis-eQTL) data from the eQTLGen Consortium combined with Genome-Wide Association Studies (GWAS) data on prostatitis from FinnGen, we performed a two-sample MR analysis. This analysis identified nine potential causal genes: ANXA1, CRY2, DSTYK, FKBP1A, LAMA5, NENF, PTGIR, STK39, and TGFA. Following heterogeneity testing, horizontal pleiotropy assessment, and bidirectional MR, CRY2 and PTGIR were validated in the Genotype-Tissue Expression (GTEx) portal replication phase. Bayesian colocalization analysis and genetic correlation analysis investigations provided strong evidence of shared causal variants with prostatitis and negative genetic correlations for these genes. PheWAS indicated negligible horizontal pleiotropy, and drug prediction analysis identified potential targeting agents for CRY2 and PTGIR. This study highlights CRY2 and PTGIR as promising therapeutic targets for prostatitis, providing new insights into its genetic underpinnings and offering potential pathways for developing effective treatments.
+SN  - 2045-2322
+UR  - https://doi.org/10.1038/s41598-025-03510-w
+DO  - 10.1038/s41598-025-03510-w
+ID  - Yan2025
+ER  - 

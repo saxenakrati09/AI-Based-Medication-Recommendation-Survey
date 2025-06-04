@@ -1,0 +1,20 @@
+TY  - JOUR
+AU  - Zhang, Miao
+AU  - Yang, Lushan
+AU  - Wang, Yizhi
+AU  - Zuo, Yuzhi
+AU  - Chen, Dengdeng
+AU  - Guo, Xing
+PY  - 2023
+DA  - 2023/05/05
+TI  - Comprehensive prediction of immune microenvironment and hot and cold tumor differentiation in cutaneous melanoma based on necroptosis-related lncRNA
+JO  - Scientific Reports
+SP  - 7299
+VL  - 13
+IS  - 1
+AB  - As per research, causing cancer cells to necroptosis might be used as a therapy to combat cancer drug susceptibility. Long non-coding RNA (lncRNA) modulates the necroptosis process in Skin Cutaneous Melanoma (SKCM), even though the precise mechanism by which it does so has yet been unknown. RNA sequencing and clinical evidence of SKCM patients were accessed from The Cancer Genome Atlas database, and normal skin tissue sequencing data was available from the Genotype-Tissue Expression database. Person correlation analysis, differential screening, and univariate Cox regression were successively utilized to identify necroptosis-related hub lncRNAs. Following this, we adopt the least absolute shrinkage and selection operator regression analysis to construct a risk model. The model was evaluated on various clinical characteristics using many integrated approaches to ensure it generated accurate predictions. Through risk score comparisons and consistent cluster analysis, SKCM patients were sorted either high-risk or low-risk subgroups as well as distinct clusters. Finally, the effect of immune microenvironment, m7G methylation, and viable anti-cancer drugs in risk groups and potential clusters was evaluated in further detail. Included USP30-AS1, LINC01711, LINC00520, NRIR, BASP1-AS1, and LINC02178, the 6 necroptosis-related hub lncRNAs were utilized to construct a novel prediction model with excellent accuracy and sensitivity, which was not influenced by confounding clinical factors. Immune-related, necroptosis, and apoptosis pathways were enhanced in the model structure, as shown by Gene Set Enrichment Analysis findings. TME score, immune factors, immune checkpoint-related genes, m7G methylation-related genes, and anti-cancer drug sensitivity differed significantly between the high-risk and low-risk groups. Cluster 2 was identified as a hot tumor with a better immune response and therapeutic effect. Our study may provide potential biomarkers for predicting prognosis in SKCM and provide personalized clinical therapy for patients based on hot and cold tumor classification.
+SN  - 2045-2322
+UR  - https://doi.org/10.1038/s41598-023-34238-0
+DO  - 10.1038/s41598-023-34238-0
+ID  - Zhang2023
+ER  - 

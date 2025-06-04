@@ -1,0 +1,20 @@
+TY  - JOUR
+AU  - Tao, Mengjun
+AU  - Ye, Wufei
+AU  - Wu, Yang
+AU  - Chang, Weiwei
+AU  - Liu, Fei
+AU  - Zhu, Yu
+PY  - 2025
+DA  - 2025/04/09
+TI  - Identification and validation of five novel protein targets for type 2 diabetes mellitus
+JO  - Scientific Reports
+SP  - 12127
+VL  - 15
+IS  - 1
+AB  - Despite advances in type 2 diabetes mellitus (T2DM) therapy, challenges remain due to the lack of novel therapeutic targets. We used Mendelian randomization to integrate cis-expression quantitative trait loci data for circulating proteins from the eQTLGen Consortium (31,684 individuals) with T2DM summary statistics from the Integrative Epidemiology Unit Open Genome-Wide Association Studies Project (61,714 cases, 593,952 controls). 42 genes were significantly associated with T2DM. Colocalization analysis revealed that six genes (CLSTN1, KCNJ11, MLX, DLD, RELA, and ULK1) shared common causal variants with T2DM. Among them, CLSTN1 (OR = 0.80, 95% CI: 0.70–0.90), KCNJ11 (OR = 0.66, 95% CI: 0.60–0.73), and MLX (OR = 0.73, 95% CI: 0.65–0.82) were negatively associated with T2DM, while DLD (OR = 1.38, 95% CI: 1.15–1.65), RELA (OR = 1.90, 95% CI: 1.41–2.55), and ULK1 (OR = 1.42, 95% CI: 1.17–1.71) were positively associated with T2DM. A matched case-control study further validated these associations, except for DLD, showing significant downregulation of CLSTN1, KCNJ11, and MLX (P < 0.05) alongside upregulation of RELA and ULK1 (P < 0.05) in T2DM patients. These findings underscore the potential of these proteins as drug targets, warranting further clinical investigation to confirm their therapeutic relevance.
+SN  - 2045-2322
+UR  - https://doi.org/10.1038/s41598-025-97416-2
+DO  - 10.1038/s41598-025-97416-2
+ID  - Tao2025
+ER  - 

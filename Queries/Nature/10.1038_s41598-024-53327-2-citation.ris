@@ -1,0 +1,19 @@
+TY  - JOUR
+AU  - Wang, Yufeng
+AU  - Xu, Xinjuan
+AU  - Shui, Xinjun
+AU  - Ren, Ruilin
+AU  - Liu, Yu
+PY  - 2024
+DA  - 2024/04/23
+TI  - Molecular subtype identification of cerebral ischemic stroke based on ferroptosis-related genes
+JO  - Scientific Reports
+SP  - 9350
+VL  - 14
+IS  - 1
+AB  - Cerebral ischemic stroke (CIS) has the characteristics of a high incidence, disability, and mortality rate. Here, we aimed to explore the potential pathogenic mechanisms of ferroptosis-related genes (FRGs) in CIS. Three microarray datasets from the Gene Expression Omnibus (GEO) database were utilized to analyze differentially expressed genes (DEGs) between CIS and normal controls. FRGs were obtained from a literature report and the FerrDb database. Weighted gene co-expression network analysis (WGCNA) and protein–protein interaction (PPI) network were used to screen hub genes. The receiver operating characteristic (ROC) curve was adopted to evaluate the diagnostic value of key genes in CIS, followed by analysis of immune microenvironment, transcription factor (TF) regulatory network, drug prediction, and molecular docking. In total, 128 CIS samples were divided into 2 subgroups after clustering analysis. Compared with cluster A, 1560 DEGs were identified in cluster B. After the construction of the WGCNA and PPI network, 5 hub genes, including MAPK3, WAS, DNAJC5, PRKCD, and GRB2, were identified for CIS. Interestingly, MAPK3 was a FRG that differentially expressed between cluster A and cluster B. The expression levels of 5 hub genes were all specifically highly in cluster A subtype. It is noted that neutrophils were the most positively correlated with all 5 real hub genes. PRKCD was one of the target genes of FASUDIL. In conclusion, five real hub genes were identified as potential diagnostic markers, which can distinguish the two subtypes well.
+SN  - 2045-2322
+UR  - https://doi.org/10.1038/s41598-024-53327-2
+DO  - 10.1038/s41598-024-53327-2
+ID  - Wang2024
+ER  - 

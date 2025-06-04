@@ -1,0 +1,20 @@
+TY  - JOUR
+AU  - Zhang, Kai
+AU  - Shi, Xiaoyang
+AU  - Bian, Rongrong
+AU  - Shi, Wei
+AU  - Yang, Li
+AU  - Ren, Chenchen
+PY  - 2025
+DA  - 2025/03/07
+TI  - Identification and validation of palmitoylation-related biomarkers in gestational diabetes mellitus
+JO  - Scientific Reports
+SP  - 8019
+VL  - 15
+IS  - 1
+AB  - Palmitoylation plays a crucial role in the pathophysiology of diabetes, and an increase in palmitoylation may inhibit the function of insulin receptors, thereby affecting the progression of gestational diabetes mellitus (GDM). However, its involvement in gestational diabetes mellitus (GDM) remains underexplored. This study analyzed GDM-related datasets and 30 palmitoylation-related genes (PRGs), identifying MNDA, FCGR3B, and AQP9 as significantly upregulated biomarkers in GDM samples. Consistent with the dataset analysis, reverse transcription-polymerase chain reaction (RT-qPCR) confirmed elevated AQP9 expression. Comprehensive analyses, including nomogram construction, enrichment analysis, immune infiltration assessment, molecular regulatory network generation, drug prediction, and molecular docking, were conducted. The biomarker-based nomogram demonstrated excellent predictive performance for GDM risk. MNDA, FCGR3B, and AQP9 were significantly enriched in pathways such as “Myc-targets-v1” and “TNFA signaling via NFkB.” Additionally, eosinophil infiltration showed a strong positive correlation with these biomarkers. Regulatory networks involving SH3BP5-AS1-hsa-miR-182-5p-AQP9 and hsa-miR-182-5p-AQP9-ELF5 were identified, and stable binding energies were observed between the biomarkers and corresponding drugs. These findings provide promising avenues for early GDM screening and diagnosis.
+SN  - 2045-2322
+UR  - https://doi.org/10.1038/s41598-025-93046-w
+DO  - 10.1038/s41598-025-93046-w
+ID  - Zhang2025
+ER  - 

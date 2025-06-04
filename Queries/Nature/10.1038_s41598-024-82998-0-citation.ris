@@ -1,0 +1,19 @@
+TY  - JOUR
+AU  - Liang, Fanqi
+AU  - Zheng, Man
+AU  - Lu, Jingjiu
+AU  - Liu, Peng
+AU  - Chen, Xinyu
+PY  - 2025
+DA  - 2025/01/02
+TI  - Utilizing integrated bioinformatics and machine learning approaches to elucidate biomarkers linking sepsis to purine metabolism-associated genes
+JO  - Scientific Reports
+SP  - 353
+VL  - 15
+IS  - 1
+AB  - Sepsis, characterized as a systemic inflammatory response triggered by pathogen invasion, represents a continuum that may progress from mild systemic infection to severe sepsis, potentially culminating in septic shock and multiple organ dysfunction syndrome. A pivotal element in the pathogenesis and progression of sepsis involves the significant disruption of oncological metabolic networks, where cells within the pathological milieu exhibit metabolic functions that diverge from their healthy counterparts. Among these, purine metabolism plays a crucial role in nucleic acid synthesis. However, the contribution of Purine Metabolism Genes (PMGs) to the defense mechanisms against sepsis remains inadequately explored. Leveraging bioinformatics, this study aimed to identify and substantiate potential PMGs implicated in sepsis. The approach encompassed a differential expression analysis across a pool of 75 candidate PMGs. Gene Set Enrichment Analysis (GSEA) and Gene Set Variation Analysis (GSVA) were employed to assess the biological significance and pathways associated with these genes. Additionally, Lasso regression and Support Vector Machine-Recursive Feature Elimination (SVM-RFE) methodologies were implemented to identify key hub genes and evaluate the diagnostic potential of nine selected PMGs in sepsis identification. The study also examined the correlation between these hub PMGs and related genes, with validation conducted through expression level analysis using the GSE13904 and GSE65682 datasets. The study identified twelve PMGs correlated with sepsis, namely AK9, ENTPD3, NUDT16, GMPR2, PKM, RRM2B, POLR2J, POLE3, ADCY3, ADCY4, ADSSL1, and AMPD1. Functional analysis revealed their involvement in critical processes such as purine nucleotide and ribose phosphate metabolism. The diagnostic capability of these PMGs to effectively differentiate sepsis cases underscored their potential as biomarkers. This research elucidates twelve PMGs associated with sepsis, providing valuable insights into novel biomarkers for this condition and facilitating the monitoring of its progression. These findings highlight the significance of purine metabolism in sepsis pathogenesis and open avenues for further investigation into therapeutic targets.
+SN  - 2045-2322
+UR  - https://doi.org/10.1038/s41598-024-82998-0
+DO  - 10.1038/s41598-024-82998-0
+ID  - Liang2025
+ER  - 

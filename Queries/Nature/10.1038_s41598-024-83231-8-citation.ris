@@ -1,0 +1,17 @@
+TY  - JOUR
+AU  - Yang, Xingyao
+AU  - Du, Zhangzhen
+AU  - Xing, Shuxing
+PY  - 2025
+DA  - 2025/01/02
+TI  - CHST3, PGBD5, and SLIT2 can be identified as potential genes for the diagnosis and treatment of osteoporosis and sarcopenia
+JO  - Scientific Reports
+SP  - 374
+VL  - 15
+IS  - 1
+AB  - Osteoporosis and sarcopenia are common diseases in the older. This study aims to use transcriptomics and explore common diagnostic genes of osteoporosis and sarcopenia and predict potentially effective treatment drugs. Three datasets for osteoporosis and sarcopenia were downloaded from the GEO database, and transcriptome sequencing was performed on clinical samples. A total of 23 differentially expressed genes (DEGs) were selected using the LIMMA, WGCNA, and the DEseq2 package. Three machine learning methods were employed to determine the final common diagnostic genes for the diseases. Receiver operating characteristic (ROC) curves were used to evaluate the predictive performance of genes. Single-gene enrichment analysis (GSEA), immune infiltration abundance calculation, and related metabolic analysis were used to study the pathogenesis of the two diseases. Finally, the CMap database was used to predict potential therapeutic drugs for the diseases, and further validation was conducted through RT-PCR and WB. Three genes for the diseases CHST3, PGBD5, and SLIT2 were identified, showing good predictive performance in both internal and external validations. GSEA analysis revealed that genes were enriched primarily in pathways related to cell cycle regulation, fatty acid metabolism, DNA replication, and carbohydrate synthesis. CHST3 and SLIT2 were involved in the immune response, but PGBD5 seemed unrelated to the immune response. Potential therapeutic drugs were predicted, and the RT-PCR, WB results further validated our hypotheses. CHST3, PGBD5, and SLIT2 can serve as potential genes for the diagnosis and treatment of osteoporosis and sarcopenia; furthermore, these results provide new clues for further experimental research and treatment.
+SN  - 2045-2322
+UR  - https://doi.org/10.1038/s41598-024-83231-8
+DO  - 10.1038/s41598-024-83231-8
+ID  - Yang2025
+ER  - 

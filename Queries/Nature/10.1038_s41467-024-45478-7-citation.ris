@@ -1,0 +1,34 @@
+TY  - JOUR
+AU  - Dai, Jun
+AU  - Zheng, Shuyu
+AU  - Falco, Matías M.
+AU  - Bao, Jie
+AU  - Eriksson, Johanna
+AU  - Pikkusaari, Sanna
+AU  - Forstén, Sofia
+AU  - Jiang, Jing
+AU  - Wang, Wenyu
+AU  - Gao, Luping
+AU  - Perez-Villatoro, Fernando
+AU  - Dufva, Olli
+AU  - Saeed, Khalid
+AU  - Wang, Yinyin
+AU  - Amiryousefi, Ali
+AU  - Färkkilä, Anniina
+AU  - Mustjoki, Satu
+AU  - Kauppi, Liisa
+AU  - Tang, Jing
+AU  - Vähärautio, Anna
+PY  - 2024
+DA  - 2024/02/07
+TI  - Tracing back primed resistance in cancer via sister cells
+JO  - Nature Communications
+SP  - 1158
+VL  - 15
+IS  - 1
+AB  - Exploring non-genetic evolution of cell states during cancer treatments has become attainable by recent advances in lineage-tracing methods. However, transcriptional changes that drive cells into resistant fates may be subtle, necessitating high resolution analysis. Here, we present ReSisTrace that uses shared transcriptomic features of sister cells to predict the states priming treatment resistance. Applying ReSisTrace in ovarian cancer cells perturbed with olaparib, carboplatin or natural killer (NK) cells reveals pre-resistant phenotypes defined by proteostatic and mRNA surveillance features, reflecting traits enriched in the upcoming subclonal selection. Furthermore, we show that DNA repair deficiency renders cells susceptible to both DNA damaging agents and NK killing in a context-dependent manner. Finally, we leverage the obtained pre-resistance profiles to predict and validate small molecules driving cells to sensitive states prior to treatment. In summary, ReSisTrace resolves pre-existing transcriptional features of treatment vulnerability, facilitating both molecular patient stratification and discovery of synergistic pre-sensitizing therapies.
+SN  - 2041-1723
+UR  - https://doi.org/10.1038/s41467-024-45478-7
+DO  - 10.1038/s41467-024-45478-7
+ID  - Dai2024
+ER  - 

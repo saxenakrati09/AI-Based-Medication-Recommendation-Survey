@@ -1,0 +1,20 @@
+TY  - JOUR
+AU  - Anglada-Girotto, Miquel
+AU  - Ciampi, Ludovica
+AU  - Bonnal, Sophie
+AU  - Head, Sarah A.
+AU  - Miravet-Verde, Samuel
+AU  - Serrano, Luis
+PY  - 2024
+DA  - 2024/08/15
+TI  - In silico RNA isoform screening to identify potential cancer driver exons with therapeutic applications
+JO  - Nature Communications
+SP  - 7039
+VL  - 15
+IS  - 1
+AB  - Alternative splicing is crucial for cancer progression and can be targeted pharmacologically, yet identifying driver exons genome-wide remains challenging. We propose identifying such exons by associating statistically gene-level cancer dependencies from knockdown viability screens with splicing profiles and gene expression. Our models predict the effects of splicing perturbations on cell proliferation from transcriptomic data, enabling in silico RNA screening and prioritizing targets for splicing-based therapies. We identified 1,073 exons impacting cell proliferation, many from genes not previously linked to cancer. Experimental validation confirms their influence on proliferation, especially in highly proliferative cancer cell lines. Integrating pharmacological screens with splicing dependencies highlights the potential driver exons affecting drug sensitivity. Our models also allow predicting treatment outcomes from tumor transcriptomes, suggesting applications in precision oncology. This study presents an approach to identifying cancer driver exon and their therapeutic potential, emphasizing alternative splicing as a cancer target.
+SN  - 2041-1723
+UR  - https://doi.org/10.1038/s41467-024-51380-z
+DO  - 10.1038/s41467-024-51380-z
+ID  - Anglada-Girotto2024
+ER  - 

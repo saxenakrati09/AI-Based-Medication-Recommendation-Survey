@@ -1,0 +1,17 @@
+TY  - JOUR
+AU  - Tan, Yuqiu
+AU  - Ma, Zengwen
+AU  - Qian, Weiwei
+PY  - 2024
+DA  - 2024/11/22
+TI  - Utilizing integrated bioinformatics and machine learning approaches to elucidate biomarkers linking sepsis to fatty acid metabolism-associated genes
+JO  - Scientific Reports
+SP  - 28972
+VL  - 14
+IS  - 1
+AB  - Sepsis, characterized as a systemic inflammatory response triggered by the invasion of pathogens, represents a continuum that may escalate from mild systemic infection to severe sepsis, potentially resulting in septic shock and multiple organ dysfunction syndrome. Advancements in lipidomics and metabolomics have unveiled the complex role of fatty acid metabolism (FAM) in both healthy and pathological states. Leveraging bioinformatics, this investigation aimed to identify and substantiate potential FAM-related genes (FAMGs) implicated in sepsis. The approach encompassed a differential expression analysis across a pool of 36 candidate FAMGs. GSEA and GSVA were employed to assess the biological significance and pathways associated with these genes. Furthermore, Lasso regression and SVM-RFE methodologies were implemented to determine key hub genes and assess the diagnostic prowess of nine selected FAMGs in sepsis identification. The study also investigated the correlation between these hub FAMGs. Validation was conducted through expression-level analysis using the GSE13904 and GSE65682 datasets. The study identified 13 sepsis-associated FAMGs, including ABCD2, ACSL3, ACSM1, ACSS1, ACSS2, ACOX1, ALDH9A1, ACACA, ACACB, FASN, OLAH, PPT1, and ELOVL4. As demonstrated by functional enrichment analysis results, these genes played key roles in several critical biological pathways, such as the Peroxisome, PPAR signaling pathway, and Insulin signaling pathway, all of which are intricately linked to metabolic regulation and inflammatory responses. The diagnostic potential of these FAMGs was further highlighted. In short, the expression patterns of these FAMGs c effectively distinguished sepsis cases from non-septic controls, which suggested that they may be promising biomarkers for early sepsis detection. This discovery not only enhanced our understanding of the molecular mechanisms underpinning sepsis but also paved the way for developing novel diagnostic tools and therapeutic strategies targeting metabolic dysregulation in septic patients. This research sheds light on 13 FAMGs associated with sepsis, providing valuable insights into novel biomarkers for this condition and facilitating the monitoring of its progression. These findings underscore the significance of purine metabolism in sepsis pathogenesis and open avenues for further investigation into therapeutic targets.
+SN  - 2045-2322
+UR  - https://doi.org/10.1038/s41598-024-80550-8
+DO  - 10.1038/s41598-024-80550-8
+ID  - Tan2024
+ER  - 

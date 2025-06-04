@@ -1,0 +1,22 @@
+TY  - JOUR
+AU  - Hou, Qingbin
+AU  - Jiang, Jinping
+AU  - Na, Kun
+AU  - Zhang, Xiaolin
+AU  - Liu, Dan
+AU  - Jing, Quanmin
+AU  - Yan, Chenghui
+AU  - Han, Yaling
+PY  - 2023
+DA  - 2023/11/06
+TI  - Bioinformatics analyses of potentially common pathogenic networks for primary Sjögren’s syndrome complicated with acute myocardial infarction
+JO  - Scientific Reports
+SP  - 19276
+VL  - 13
+IS  - 1
+AB  - Both primary Sjögren’s syndrome (pSS) and acute myocardial infarction (AMI) are intricately linked. However, their common mechanism is not fully understood. Herein, we examined the underlying network of molecular action associated with developing this complication. Datasets were downloaded from the GEO database. We performed enrichment and protein–protein interaction analyses and screened key genes. We used external datasets to confirm the diagnostic performance for these hub genes. Transcription factor and microRNA regulatory networks were constructed for the validated hub genes. Finally, drug prediction and molecular docking validation were performed. We identified 62 common DEGs, many of which were enriched regarding inflammation and immune response. 5 DEGs were found as key hub genes (IGSF6, MMP9, S100A8, MNDA, and NCF2). They had high diagnostic performance in external datasets. Functional enrichment of these five hub genes showed that they were associated with the adaptive immune response. The Type 1T helper cell showed the most association among all cell types related to AMI and pSS. We identified 36 common TFs and 49 identical TF-miRNAs. The drugs, including Benzo, dexamethasone, and NADP, were predicted as potential therapeutic agents. Herein, we revealed common networks involving pSS and AMI etiologies. Knowledge of these networks and hub genes can enhance research into their associated mechanism and the development of future robust therapy.
+SN  - 2045-2322
+UR  - https://doi.org/10.1038/s41598-023-45896-5
+DO  - 10.1038/s41598-023-45896-5
+ID  - Hou2023
+ER  - 

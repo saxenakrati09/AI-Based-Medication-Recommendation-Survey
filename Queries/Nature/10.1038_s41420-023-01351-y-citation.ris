@@ -1,0 +1,20 @@
+TY  - JOUR
+AU  - Yu, Liang
+AU  - Yang, Kai
+AU  - He, Xiaoyan
+AU  - Li, Min
+AU  - Gao, Lin
+AU  - Zha, Yunhong
+PY  - 2023
+DA  - 2023/02/10
+TI  - Repositioning linifanib as a potent anti-necroptosis agent for sepsis
+JO  - Cell Death Discovery
+SP  - 57
+VL  - 9
+IS  - 1
+AB  - Sepsis is a systemic inflammatory syndrome (SIRS) caused by acute microbial infection, and it has an extremely high mortality rate. Tumor necrosis factor-α (TNF-α)-induced necroptosis contributes to the pathophysiology of sepsis, so inhibiting necroptosis might be expected to improve clinical outcomes in septic patients. Here we predicted candidate drugs for treating sepsis in silico by combining genes differentially expressed in septic patients and controls combined with interrogation of the Library of Integrated Network-based Cellular Signatures (LINCS) L1000 perturbation database. Sixteen candidate drugs were screened out through bioinformatics analysis, and the top candidate linifanib was validated in cellular and mouse models of TNF-α-induced necroptosis. Cell viability was measured using a luminescent ATP assay, while the effects of linifanib on necroptosis were investigated by western blotting, immunoprecipitation, and RIPK1 kinase assays. Linifanib effectively protected cells from necroptosis and rescued SIRS mice from TNF-α-induced shock and death. In vitro, linifanib directly suppressed RIPK1 kinase activity. In vivo, linifanib effectively reduced overexpressed IL-6, a marker of sepsis severity, in the lungs of SIRS mice. Our preclinical evidence using an integrated in silico and experimental drug repositioning approach supports the potential clinical utility of linifanib in septic patients. Further clinical validation is now warranted.
+SN  - 2058-7716
+UR  - https://doi.org/10.1038/s41420-023-01351-y
+DO  - 10.1038/s41420-023-01351-y
+ID  - Yu2023
+ER  - 

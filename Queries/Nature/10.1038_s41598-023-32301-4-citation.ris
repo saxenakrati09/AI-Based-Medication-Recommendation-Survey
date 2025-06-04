@@ -1,0 +1,22 @@
+TY  - JOUR
+AU  - Ren, Xueting
+AU  - Jia, Liye
+AU  - Zhao, Zijuan
+AU  - Qiang, Yan
+AU  - Wu, Wei
+AU  - Han, Peng
+AU  - Zhao, Juanjuan
+AU  - Sun, Jingyu
+PY  - 2023
+DA  - 2023/03/30
+TI  - Weakly supervised label propagation algorithm classifies lung cancer imaging subtypes
+JO  - Scientific Reports
+SP  - 5167
+VL  - 13
+IS  - 1
+AB  - Aiming at the problems of long time, high cost, invasive sampling damage, and easy emergence of drug resistance in lung cancer gene detection, a reliable and non-invasive prognostic method is proposed. Under the guidance of weakly supervised learning, deep metric learning and graph clustering methods are used to learn higher-level abstract features in CT imaging features. The unlabeled data is dynamically updated through the k-nearest label update strategy, and the unlabeled data is transformed into weak label data and continue to update the process of strong label data to optimize the clustering results and establish a classification model for predicting new subtypes of lung cancer imaging. Five imaging subtypes are confirmed on the lung cancer dataset containing CT, clinical and genetic information downloaded from the TCIA lung cancer database. The successful establishment of the new model has a significant accuracy rate for subtype classification (ACC = 0.9793), and the use of CT sequence images, gene expression, DNA methylation and gene mutation data from the cooperative hospital in Shanxi Province proves the biomedical value of this method. The proposed method also can comprehensively evaluate intratumoral heterogeneity based on the correlation between the final lung CT imaging features and specific molecular subtypes.
+SN  - 2045-2322
+UR  - https://doi.org/10.1038/s41598-023-32301-4
+DO  - 10.1038/s41598-023-32301-4
+ID  - Ren2023
+ER  - 

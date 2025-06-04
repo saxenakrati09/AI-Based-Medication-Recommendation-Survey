@@ -1,0 +1,19 @@
+TY  - JOUR
+AU  - Li, Guansheng
+AU  - Tian, Xiaoxing
+AU  - Wei, Enyao
+AU  - Zhang, Feng
+AU  - Liu, Huang
+PY  - 2025
+DA  - 2025/05/27
+TI  - Immunogenic cell death biomarkers for sepsis diagnosis and mechanism via integrated bioinformatics
+JO  - Scientific Reports
+SP  - 18575
+VL  - 15
+IS  - 1
+AB  - Immunogenic cell death (ICD) has been implicated in sepsis, a condition with high mortality, through mechanisms involving endoplasmic reticulum stress and other pathophysiological pathways. This study aimed to identify and validate ICD-related biomarkers for sepsis diagnosis and to elucidate their underlying mechanisms. Publicly available datasets (GSE65682, GSE95233 and GSE69528) and 57 ICD-related genes (ICDRGs) were collected for analysis. Candidate genes were selected using differential expression analysis and weighted gene co-expression network analysis (WGCNA). By integrating machine learning models, receiver operating characteristic (ROC) curves, and gene expression analysis, biomarkers for sepsis diagnosis were identified. Gene set enrichment analysis (GSEA) and gene set variation analysis (GSVA) were conducted to explore the potential mechanisms by which the biomarkers influence sepsis. Additionally, immune infiltration analysis, subcellular localization, and disease association analysis were carried out. Finally, reverse transcription quantitative polymerase chain reaction (RT-qPCR) was used to validate the expression of the biomarkers in clinical sepsis blood samples. The biomarkers BCL2, PRF1, CXCR3, and EIF2AK3 demonstrated robust diagnostic potential for sepsis, each exhibiting an area under the curve (AUC) exceeding 0.8 in both the GSE65682 and GSE95233 datasets. These biomarkers were significantly downregulated in sepsis and were predominantly enriched in the ribosome. GSVA identified the top three activated pathways as β-alanine metabolism, citrate cycle/TCA cycle, and glyoxylate and dicarboxylate metabolism, while the most inhibited pathways included glycosphingolipid biosynthesis (lacto and neolacto series), α-linolenic acid metabolism, and linoleic acid metabolism. Immune infiltration analysis revealed reduced infiltration in sepsis, with CD8 + T cells showing the highest positive correlation with activated NK cells and PRF1. Subcellular localization analysis indicated that all four biomarkers were situated on the organelle membrane. Disease association analysis revealed correlations between these biomarkers and conditions such as hypertension and asthma. RT-qPCR analysis confirmed that the expression patterns of the biomarkers were consistent with the dataset findings, reinforcing the reliability and validity of the bioinformatic analyses. This study identified four ICD-related biomarkers (BCL2, PRF1, CXCR3, and EIF2AK3) that may help recognize early signs of sepsis, facilitate monitoring of disease progression, and have significant potential for clinical diagnosis and therapeutic strategies in sepsis.
+SN  - 2045-2322
+UR  - https://doi.org/10.1038/s41598-025-03282-3
+DO  - 10.1038/s41598-025-03282-3
+ID  - Li2025
+ER  - 

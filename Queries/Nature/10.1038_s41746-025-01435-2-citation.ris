@@ -1,0 +1,22 @@
+TY  - JOUR
+AU  - Chen, Jinghong
+AU  - Lin, Anqi
+AU  - Jiang, Aimin
+AU  - Qi, Chang
+AU  - Liu, Zaoqu
+AU  - Cheng, Quan
+AU  - Yuan, Shuofeng
+AU  - Luo, Peng
+PY  - 2025
+DA  - 2025/01/19
+TI  - Computational frameworks transform antagonism to synergy in optimizing combination therapies
+JO  - npj Digital Medicine
+SP  - 44
+VL  - 8
+IS  - 1
+AB  - While drug combinations are increasingly important in disease treatment, predicting their therapeutic interactions remains challenging. This review systematically analyzes computational methods for predicting drug combination effects through multi-omics data integration. We comprehensively assess key algorithms including DrugComboRanker and AuDNNsynergy, and evaluate integration approaches encompassing kernel regression and graph networks. The review elucidates artificial intelligence applications in predicting drug synergistic and antagonistic effects.
+SN  - 2398-6352
+UR  - https://doi.org/10.1038/s41746-025-01435-2
+DO  - 10.1038/s41746-025-01435-2
+ID  - Chen2025
+ER  - 

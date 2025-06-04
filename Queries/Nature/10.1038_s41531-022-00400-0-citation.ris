@@ -1,0 +1,25 @@
+TY  - JOUR
+AU  - van den Hurk, Mark
+AU  - Lau, Shong
+AU  - Marchetto, Maria C.
+AU  - Mertens, Jerome
+AU  - Stern, Shani
+AU  - Corti, Olga
+AU  - Brice, Alexis
+AU  - Winner, Beate
+AU  - Winkler, Jürgen
+AU  - Gage, Fred H.
+AU  - Bardy, Cedric
+PY  - 2022
+DA  - 2022/10/18
+TI  - Druggable transcriptomic pathways revealed in Parkinson’s patient-derived midbrain neurons
+JO  - npj Parkinson's Disease
+SP  - 134
+VL  - 8
+IS  - 1
+AB  - Complex genetic predispositions accelerate the chronic degeneration of midbrain substantia nigra neurons in Parkinson’s disease (PD). Deciphering the human molecular makeup of PD pathophysiology can guide the discovery of therapeutics to slow the disease progression. However, insights from human postmortem brain studies only portray the latter stages of PD, and there is a lack of data surrounding molecular events preceding the neuronal loss in patients. We address this gap by identifying the gene dysregulation of live midbrain neurons reprogrammed in vitro from the skin cells of 42 individuals, including sporadic and familial PD patients and matched healthy controls. To minimize bias resulting from neuronal reprogramming and RNA-seq methods, we developed an analysis pipeline integrating PD transcriptomes from different RNA-seq datasets (unsorted and sorted bulk vs. single-cell and Patch-seq) and reprogramming strategies (induced pluripotency vs. direct conversion). This PD cohort’s transcriptome is enriched for human genes associated with known clinical phenotypes of PD, regulation of locomotion, bradykinesia and rigidity. Dysregulated gene expression emerges strongest in pathways underlying synaptic transmission, metabolism, intracellular trafficking, neural morphogenesis and cellular stress/immune responses. We confirmed a synaptic impairment with patch-clamping and identified pesticides and endoplasmic reticulum stressors as the most significant gene-chemical interactions in PD. Subsequently, we associated the PD transcriptomic profile with candidate pharmaceuticals in a large database and a registry of current clinical trials. This study highlights human transcriptomic pathways that can be targeted therapeutically before the irreversible neuronal loss. Furthermore, it demonstrates the preclinical relevance of unbiased large transcriptomic assays of reprogrammed patient neurons.
+SN  - 2373-8057
+UR  - https://doi.org/10.1038/s41531-022-00400-0
+DO  - 10.1038/s41531-022-00400-0
+ID  - van den Hurk2022
+ER  - 

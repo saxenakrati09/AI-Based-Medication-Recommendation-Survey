@@ -1,0 +1,18 @@
+TY  - JOUR
+AU  - Teng, Xue
+AU  - Wang, Qi
+AU  - Ma, Jinling
+AU  - Li, Dongmei
+PY  - 2025
+DA  - 2025/04/24
+TI  - Integrating bioinformatics and machine learning to discover sumoylation associated signatures in sepsis
+JO  - Scientific Reports
+SP  - 14398
+VL  - 15
+IS  - 1
+AB  - Small Ubiquitin-like MOdifier-mediated modification (SUMOylation) is associated with sepsis; however, its molecular mechanism remains unclear. Herein, hub genes and regulatory mechanisms in sepsis was investigated. The GSE65682 and GSE95233 datasets were extracted from public databases. Differential analysis and Weighted Gene Co-expression Network Analysis (WGCNA) were conducted in GSE65682 to identify differentially expressed genes (DEGs) and key module genes. Candidate genes were derived by intersecting with SUMOylation-related genes (SUMO-RGs). The Least Absolute Shrinkage and Selection Operator (LASSO) and Support Vector Machine-Recursive Feature Elimination (SVM-RFE) were utilized to identify significant feature genes. The convergence of those genes was utilized for diagnostic assessment and expression validation. Hub genes were defined as those exhibiting an area under the curve (AUC) greater than 0.7, significant gene expression, and a consistent trend. Localization and functional analyses of hub genes were conducted to enhance the understanding of these genes. Immune analysis, regulatory network construction, and drug prediction were performed. Six hub genes were identified: RORA, L3MBTL2, PHC1, RPA1, CHD3, and RANGAP1. These genes possessed considerable diagnostic significance for sepsis and were also markedly downregulated in the condition. Hub genes were predominantly enriched in the ribosome pathway and exhibited a strong correlation with differential immune cells. Activated CD8 + T cells exhibited a positive correlation with RORA. Based on the predicted and established regulatory network, AC004687.1 was observed to modulate PHC1 expression via hsa-miR- 142 - 5p. A total of six hub genes (RORA, L3MBTL2, PHC1, RPA1, CHD3, and RANGAP1) associated with SUMOylation was identified in sepsis in the current study. The findings are likely to aid in the differentiation between control and disease states, offering substantiation for the diagnosis of sepsis.
+SN  - 2045-2322
+UR  - https://doi.org/10.1038/s41598-025-96956-x
+DO  - 10.1038/s41598-025-96956-x
+ID  - Teng2025
+ER  - 

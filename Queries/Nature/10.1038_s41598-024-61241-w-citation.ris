@@ -1,0 +1,22 @@
+TY  - JOUR
+AU  - Zhou, Zhenyu
+AU  - Wang, Yanru
+AU  - Zhang, Junze
+AU  - Liu, Ziqi
+AU  - Hao, Xiaokuan
+AU  - Wang, Xilong
+AU  - He, Shihao
+AU  - Wang, Rong
+PY  - 2024
+DA  - 2024/05/04
+TI  - Characterization of PANoptosis-related genes and the immune landscape in moyamoya disease
+JO  - Scientific Reports
+SP  - 10278
+VL  - 14
+IS  - 1
+AB  - Moyamoya disease (MMD) is a cerebrovascular narrowing and occlusive condition characterized by progressive stenosis of the terminal portion of the internal carotid artery and the formation of an abnormal network of dilated, fragile perforators at the base of the brain. However, the role of PANoptosis, an apoptotic mechanism associated with vascular disease, has not been elucidated in MMD. In our study, a total of 40 patients’ genetic data were included, and a total of 815 MMD-related differential genes were screened, including 215 upregulated genes and 600 downregulated genes. Among them, DNAJA3, ESR1, H19, KRT18 and STK3 were five key genes. These five key genes were associated with a variety of immune cells and immune factors. Moreover, GSEA (gene set enrichment analysis) and GSVA (gene set variation analysis) showed that the different expression levels of the five key genes affected multiple signaling pathways associated with MMD. In addition, they were associated with the expression of MMD-related genes. Then, based on the five key genes, a transcription factor regulatory network was constructed. In addition, targeted therapeutic drugs against MMD-related genes were obtained by the Cmap drug prediction method: MST-312, bisacodyl, indirubin, and tropanyl-3,5-dimethylbenzoate. These results suggest that the PANoptosis-related genes may contribute to the pathogenesis of MMD through multiple mechanisms.
+SN  - 2045-2322
+UR  - https://doi.org/10.1038/s41598-024-61241-w
+DO  - 10.1038/s41598-024-61241-w
+ID  - Zhou2024
+ER  - 

@@ -1,0 +1,18 @@
+TY  - JOUR
+AU  - Sharma, Alok
+AU  - Lysenko, Artem
+AU  - Boroevich, Keith A.
+AU  - Tsunoda, Tatsuhiko
+PY  - 2023
+DA  - 2023/02/11
+TI  - DeepInsight-3D architecture for anti-cancer drug response prediction with deep-learning on multi-omics
+JO  - Scientific Reports
+SP  - 2483
+VL  - 13
+IS  - 1
+AB  - Modern oncology offers a wide range of treatments and therefore choosing the best option for particular patient is very important for optimal outcome. Multi-omics profiling in combination with AI-based predictive models have great potential for streamlining these treatment decisions. However, these encouraging developments continue to be hampered by very high dimensionality of the datasets in combination with insufficiently large numbers of annotated samples. Here we proposed a novel deep learning-based method to predict patient-specific anticancer drug response from three types of multi-omics data. The proposed DeepInsight-3D approach relies on structured data-to-image conversion that then allows use of convolutional neural networks, which are particularly robust to high dimensionality of the inputs while retaining capabilities to model highly complex relationships between variables. Of particular note, we demonstrate that in this formalism additional channels of an image can be effectively used to accommodate data from different omics layers while implicitly encoding the connection between them. DeepInsight-3D was able to outperform other state-of-the-art methods applied to this task. The proposed improvements can facilitate the development of better personalized treatment strategies for different cancers in the future.
+SN  - 2045-2322
+UR  - https://doi.org/10.1038/s41598-023-29644-3
+DO  - 10.1038/s41598-023-29644-3
+ID  - Sharma2023
+ER  - 

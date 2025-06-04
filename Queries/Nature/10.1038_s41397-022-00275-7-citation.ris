@@ -1,0 +1,23 @@
+TY  - JOUR
+AU  - Jiang, Shangqing
+AU  - Mathias, Patrick C.
+AU  - Hendrix, Nathaniel
+AU  - Shirts, Brian H.
+AU  - Tarczy-Hornoch, Peter
+AU  - Veenstra, David
+AU  - Malone, Daniel
+AU  - Devine, Beth
+PY  - 2022
+DA  - 2022/05/01
+TI  - Implementation of pharmacogenomic clinical decision support for health systems: a cost-utility analysis
+JO  - The Pharmacogenomics Journal
+SP  - 188
+EP  - 197
+VL  - 22
+IS  - 3
+AB  - We constructed a cost-effectiveness model to assess the clinical and economic value of a CDS alert program that provides pharmacogenomic (PGx) testing results, compared to no alert program in acute coronary syndrome (ACS) and atrial fibrillation (AF), from a health system perspective. We defaulted that 20% of 500,000 health-system members between the ages of 55 and 65 received PGx testing for CYP2C19 (ACS-clopidogrel) and CYP2C9, CYP4F2 and VKORC1 (AF-warfarin) annually. Clinical events, costs, and quality-adjusted life years (QALYs) were calculated over 20 years with an annual discount rate of 3%. In total, 3169 alerts would be fired. The CDS alert program would help avoid 16 major clinical events and 6 deaths for ACS; and 2 clinical events and 0.9 deaths for AF. The incremental cost-effectiveness ratio was $39,477/QALY. A PGx-CDS alert program was cost-effective, under a willingness-to-pay threshold of $100,000/QALY gained, compared to no alert program.
+SN  - 1473-1150
+UR  - https://doi.org/10.1038/s41397-022-00275-7
+DO  - 10.1038/s41397-022-00275-7
+ID  - Jiang2022
+ER  - 

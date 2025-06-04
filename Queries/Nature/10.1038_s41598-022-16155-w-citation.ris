@@ -1,0 +1,19 @@
+TY  - JOUR
+AU  - Dai, Lei
+AU  - Mugaanyi, Joseph
+AU  - Cai, Xingchen
+AU  - Lu, Caide
+AU  - Lu, Changjiang
+PY  - 2022
+DA  - 2022/07/13
+TI  - Pancreatic adenocarcinoma associated immune-gene signature as a novo risk factor for clinical prognosis prediction in hepatocellular carcinoma
+JO  - Scientific Reports
+SP  - 11944
+VL  - 12
+IS  - 1
+AB  - Pancreatic adenocarcinoma (PAAD) has high mortality and a very poor prognosis. Both surgery and chemotherapy have a suboptimal therapeutic effect, and this caused a need to find new approaches such as immunotherapy. Therefore, it is essential to develop a new model to predict patient prognosis and facilitate early intervention. Our study screened out and validated the target molecules based on the TCGA-PAAD dataset. We established the risk signature using univariate and multivariate Cox regression analysis and used GSE62452 and GSE28735 to verify the accuracy and reliability of the model. Expanded application of PAAD-immune-related genes signature (-IRGS) on other datasets was conducted, and the corresponding nomograms were constructed. We also analyzed the correlation between immune-related cells/genes and potential treatments. Our research demonstrated that a high riskscore of PAAD-IRGS in patients with PAAD was correlated with poor overall survival, disease-specific survival and progression free interval. The same results were observed in patients with LIHC. The models constructed were confirmed to be accurate and reliable. We found various correlations between PAAD-IRGS and immune-related cells/genes, and the potential therapeutic agents. These findings indicate that PAAD-IRGS may be a promising indicator for prognosis and of the tumor-immune microenvironment status in PAAD.
+SN  - 2045-2322
+UR  - https://doi.org/10.1038/s41598-022-16155-w
+DO  - 10.1038/s41598-022-16155-w
+ID  - Dai2022
+ER  - 

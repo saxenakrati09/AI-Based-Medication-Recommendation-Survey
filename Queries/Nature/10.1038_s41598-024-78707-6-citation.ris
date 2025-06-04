@@ -1,0 +1,18 @@
+TY  - JOUR
+AU  - Lan, Yujian
+AU  - Peng, Qingping
+AU  - Shen, Jianlin
+AU  - Liu, Huan
+PY  - 2024
+DA  - 2024/11/13
+TI  - Elucidating common biomarkers and pathways of osteoporosis and aortic valve calcification: insights into new therapeutic targets
+JO  - Scientific Reports
+SP  - 27827
+VL  - 14
+IS  - 1
+AB  - Background: Osteoporosis and aortic valve calcification, prevalent in the elderly, have unclear common mechanisms. This study aims to uncover them through bioinformatics analysis. Methods: Microarray data from GEO was analyzed for osteoporosis and aortic valve calcification. Differential expression analysis identified co-expressed genes. SVM-RFE and random forest selected key genes. GO and KEGG enrichment analyses were performed. Immunoinfiltration and GSEA analyses were subsequently performed. NetworkAnalyst analyzed microRNAs/TFs. HERB predicted drugs, and molecular docking assessed targeting potential. Results: Thirteen genes linked to osteoporosis and aortic valve calcification were identified. TNFSF11, KYNU, and HLA-DMB emerged as key genes. miRNAs, TFs, and drug predictions offered therapeutic insights. Molecular docking suggested 17-beta-estradiol and vitamin D3 as potential treatments. Conclusion: The study clarifies shared mechanisms of osteoporosis and aortic valve calcification, identifies biomarkers, and highlights TNFSF11, KYNU, and HLA-DMB. It also suggests 17-beta-estradiol and vitamin D3 as potential effective treatments.
+SN  - 2045-2322
+UR  - https://doi.org/10.1038/s41598-024-78707-6
+DO  - 10.1038/s41598-024-78707-6
+ID  - Lan2024
+ER  - 

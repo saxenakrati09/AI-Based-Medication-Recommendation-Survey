@@ -1,0 +1,21 @@
+TY  - JOUR
+AU  - Zhang, Miao
+AU  - Zuo, Yuzhi
+AU  - Guo, Jian
+AU  - Yang, Lushan
+AU  - Wang, Yizhi
+AU  - Tan, Meiyun
+AU  - Guo, Xing
+PY  - 2023
+DA  - 2023/09/28
+TI  - A novel signature for predicting prognosis and immune landscape in cutaneous melanoma based on anoikis-related long non-coding RNAs
+JO  - Scientific Reports
+SP  - 16332
+VL  - 13
+IS  - 1
+AB  - Anoikis is a unique form of apoptosis associated with vascularization and distant metastasis in cancer. Eliminating anoikis resistance in tumor cells could be a promising target for improving the prognosis of terminal cancer patients. However, current studies have not elaborated on the prognosis effect of anoikis-related long non-coding RNAs (lncRNAs) in cutaneous melanoma. Pre-processed data, including RNA sequences and clinical information, were retrieved from TCGA and GTEx databases. After a series of statistical analyses, anoikis-related lncRNAs with prognostic significance were identified, and a unique risk signature was constructed. Risk scores were further analyzed in relation to the tumor microenvironment, tumor immune dysfunction and exclusion, immune checkpoint genes, and RNA methylation genes. The indicators were also used to predict the potentially sensitive anti-cancer drugs. An anoikis-related lncRNAs risk signature consisting of LINC01711, POLH-AS1, MIR205HG, and LINC02416 was successfully established in cutaneous melanoma. Overall survival and progression-free survival of patients were strongly linked with the risk score, independently of other clinical factors. The low-risk group exhibited a more beneficial immunological profile, was less affected by RNA methylation, and was more sensitive to the majority of anti-cancer drugs, all of which indicated a better prognostic outcome. The 4 hub lncRNAs may be fundamental to studying the mechanism of anoikis in cutaneous melanoma and provide personalized therapy for salvaging drug resistance.
+SN  - 2045-2322
+UR  - https://doi.org/10.1038/s41598-023-39837-5
+DO  - 10.1038/s41598-023-39837-5
+ID  - Zhang2023
+ER  - 

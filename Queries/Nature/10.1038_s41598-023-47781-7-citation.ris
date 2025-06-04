@@ -1,0 +1,24 @@
+TY  - JOUR
+AU  - Ma, Hongyu
+AU  - Zhang, Jing
+AU  - Shi, Yan
+AU  - Wang, Ziqiang
+AU  - Nie, Wenhu
+AU  - Cai, Jingjing
+AU  - Huang, Yinglong
+AU  - Liu, Bin
+AU  - Wang, Xiaojing
+AU  - Lian, Chaoqun
+PY  - 2023
+DA  - 2023/11/22
+TI  - PBK correlates with prognosis, immune escape and drug response in LUAD
+JO  - Scientific Reports
+SP  - 20452
+VL  - 13
+IS  - 1
+AB  - PBK (PDZ-binding kinase) is a protein-coding gene that encodes a serine/threonine protein kinase associated with the dual-specific mitogen-activated protein kinase (MAPKK) family. Overexpression of this gene is closely linked to tumor development. In this study, we aimed to investigate the role of PBK in lung adenocarcinoma (LUAD) progression, prognosis, and immune evasion. We conducted a pan-cancer analysis of PBK to examine its expression and prognostic value. In the LUAD cohort, we analyzed PBK expression, prognosis, mutational features, and immune infiltration in groups with different PBK expression levels. We constructed a PBK-associated genomic model, integrated it into a nomogram, and compared high and low-risk subgroups. In our pan-cancer analysis, PBK was significantly upregulated, particularly in LUAD patients, and displayed poor prognosis. The high PBK expression group had many deletion mutations but still showed gene upregulation. Immune infiltration analysis indicated that PBK-triggered immune escape in the high expression group might relate to antigen presentation, dendritic cell, and CD8+ T cell infiltration. We constructed a 5-gene prognostic model and a nomogram to quantify individual survival probabilities. The PBK-associated gene prognostic model reliably predicted patient prognosis and drug response. Our findings offer new insights into PBK-induced immune escape and targeted therapy during LUAD development, providing valuable suggestions for clinical treatment approaches.
+SN  - 2045-2322
+UR  - https://doi.org/10.1038/s41598-023-47781-7
+DO  - 10.1038/s41598-023-47781-7
+ID  - Ma2023
+ER  - 

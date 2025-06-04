@@ -1,0 +1,22 @@
+TY  - JOUR
+AU  - Shi, Meng-Jie
+AU  - Yan, Yan
+AU  - Liu, Fei
+AU  - zhao, Jin-Xing
+AU  - Hou, Feng
+AU  - He, Shi-Cai
+AU  - Zhang, Rui-Peng
+AU  - Wang, Hui
+PY  - 2024
+DA  - 2024/09/28
+TI  - Identification of biological significance of different stages of varicose vein development based on mRNA sequencing
+JO  - Scientific Reports
+SP  - 22536
+VL  - 14
+IS  - 1
+AB  - Normal veins could develop to varicose vein (VV) by some risk factors, and might further progress to shallow vein thrombosis (SVT). However, the molecular mechanism of key genes associated with the progression and regression of VV are still not thorough enough. In this study, the healthy control (HC), VV, and SVT vascular samples were collected for transcriptome sequencing. The differentially expressed genes (DEGs) were screened by “DESeq2”, including DEGs1 (HC vs. VV), DEGs2 (HC vs. SVT) and DEGs3 (VV vs. SVT). And their functional enrichment analyses were conducted by “ClusterProfiler”. The receiver operating characteristic (ROC) curve was used to obtain the key genes (KGs) of the pathogenesis of VV and SVT. The qRT-PCR assay was performed to validate the expressions of KGs. Immune cell infiltration analyses were conducted based on ssGSEA method. The competitive endogenous RNAs (ceRNAs) regulatory network was constructed. The target drugs of KGs were predicted using DrugBank database. The biofunctions of DACT3 were further investigated through a series of experiments in vitro. All of these DEGs were associated with inflammation and immunity related functions. Immune cell infiltration was significantly different between VV and SVT. Six key genes including PLP2, DACT3, LRRC25, PILRA, MSX1 and APOD that were associated with the progression and regression of VV were screened. The expression of LRRC25 and PILRA was significantly negatively associated with central memory T cell, and significantly positively associated with B cell. Besides, XIST was the critical regulator of multiple KGs. Cimetidine was potential drug for VV and SVT therapy. Overexpression of DACT3 significantly inhibited the proliferation and migration of vascular smooth muscle cells (VSMCs), and affected their cell cycle and phenotypic transition. This study identified six key genes associated with the progression and regression of VV. Among them, DACT3 was proved to hinder VV progression. These findings may help to deepen understanding its underlying mechanisms.
+SN  - 2045-2322
+UR  - https://doi.org/10.1038/s41598-024-73691-3
+DO  - 10.1038/s41598-024-73691-3
+ID  - Shi2024
+ER  - 

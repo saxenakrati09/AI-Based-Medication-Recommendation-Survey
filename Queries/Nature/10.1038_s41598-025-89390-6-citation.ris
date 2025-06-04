@@ -1,0 +1,23 @@
+TY  - JOUR
+AU  - Shi, Dai
+AU  - Li, Jingxuan
+AU  - Niu, Zhenpeng
+AU  - Wang, Likun
+AU  - Ren, Siying
+AU  - Gu, Wen
+AU  - Yang, Hui
+AU  - Xue, Hong
+AU  - Wu, Guofeng
+PY  - 2025
+DA  - 2025/02/10
+TI  - Identification and validation of diagnostic biomarkers for temporal lobe epilepsy related to ferroptosis and potential therapeutic targets
+JO  - Scientific Reports
+SP  - 4908
+VL  - 15
+IS  - 1
+AB  - Ferroptosis pathway activation is potentially correlated with temporal lobe epilepsy (TLE). However, the diagnostic significance and mechanism of ferroptosis-related genes (FRGs) in TLE require further investigation. A comprehensive analysis of the GSE134697 dataset from the Gene Expression Omnibus (GEO) database using Weighted gene co-expression network analysis (WGCNA) identified 3,212 differentially expressed genes (DEGs) between temporal lobe epilepsy (TLE) and control groups, with a critical focus on the turquoise module. Through intersection of DEGs and key module genes, correlation analyses with functional-related genes (FRG), protein-protein interactions (PPI), least absolute shrinkage and selection operator (LASSO), and machine learning methods, five potential biomarkers of ferroptosis (CBS, SHMT1, RIN3, QDPR, and PLPP4) were isolated. A nomogram was constructed using these markers, and enrichment analyses revealed their links to T-cell activation, allograft rejection, and glial differentiation. Variations in 13 immune cell types were also noted. Upregulation of CBS, RIN3, QDPR, and PLPP4 in TLE was confirmed through RT-qPCR and Western blot assays. Additionally, five SHMT1-targeting and one CBS-targeting drugs were predicted using the Drug-Gene Interaction Database (DGIdb). These findings provide new insights into the potential pathogenesis of TLE and suggest new targets for future research.
+SN  - 2045-2322
+UR  - https://doi.org/10.1038/s41598-025-89390-6
+DO  - 10.1038/s41598-025-89390-6
+ID  - Shi2025
+ER  - 

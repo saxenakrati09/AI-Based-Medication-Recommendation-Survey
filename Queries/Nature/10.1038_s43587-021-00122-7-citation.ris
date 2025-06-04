@@ -1,0 +1,41 @@
+TY  - JOUR
+AU  - Taubes, Alice
+AU  - Nova, Phil
+AU  - Zalocusky, Kelly A.
+AU  - Kosti, Idit
+AU  - Bicak, Mesude
+AU  - Zilberter, Misha Y.
+AU  - Hao, Yanxia
+AU  - Yoon, Seo Yeon
+AU  - Oskotsky, Tomiko
+AU  - Pineda, Silvia
+AU  - Chen, Bin
+AU  - Aery Jones, Emily A.
+AU  - Choudhary, Krishna
+AU  - Grone, Brian
+AU  - Balestra, Maureen E.
+AU  - Chaudhry, Fayzan
+AU  - Paranjpe, Ishan
+AU  - De Freitas, Jessica
+AU  - Koutsodendris, Nicole
+AU  - Chen, Nuo
+AU  - Wang, Celine
+AU  - Chang, William
+AU  - An, Alice
+AU  - Glicksberg, Benjamin S.
+AU  - Sirota, Marina
+AU  - Huang, Yadong
+PY  - 2021
+DA  - 2021/10/01
+TI  - Experimental and real-world evidence supporting the computational repurposing of bumetanide for APOE4-related Alzheimer’s disease
+JO  - Nature Aging
+SP  - 932
+EP  - 947
+VL  - 1
+IS  - 10
+AB  - The evident genetic, pathological and clinical heterogeneity of Alzheimer’s disease (AD) poses challenges for traditional drug development. We conducted a computational drug-repurposing screen for drugs to treat apolipoprotein E4 (APOE4)-related AD. We first established APOE genotype-dependent transcriptomic signatures of AD by analyzing publicly available human brain databases. We then queried these signatures against the Connectivity Map database, which contains transcriptomic perturbations of more than 1,300 drugs, to identify those that best reverse APOE genotype-specific AD signatures. Bumetanide was identified as a top drug for APOE4-related AD. Treatment of APOE4-knock-in mice without or with amyloid β (Aβ) accumulation using bumetanide rescued electrophysiological, pathological or cognitive deficits. Single-nucleus RNA sequencing revealed transcriptomic reversal of AD signatures in specific cell types in these mice, a finding confirmed in APOE4 induced pluripotent stem cell (iPSC)-derived neurons. In humans, bumetanide exposure was associated with a significantly lower AD prevalence in individuals over the age of 65 years in two electronic health record databases, suggesting the effectiveness of bumetanide in preventing AD.
+SN  - 2662-8465
+UR  - https://doi.org/10.1038/s43587-021-00122-7
+DO  - 10.1038/s43587-021-00122-7
+ID  - Taubes2021
+ER  - 

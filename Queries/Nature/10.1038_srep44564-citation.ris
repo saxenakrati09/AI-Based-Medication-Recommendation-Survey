@@ -1,0 +1,25 @@
+TY  - JOUR
+AU  - Fagone, Paolo
+AU  - Caltabiano, Rosario
+AU  - Russo, Andrea
+AU  - Lupo, Gabriella
+AU  - Anfuso, Carmelina Daniela
+AU  - Basile, Maria Sofia
+AU  - Longo, Antonio
+AU  - Nicoletti, Ferdinando
+AU  - De Pasquale, Rocco
+AU  - Libra, Massimo
+AU  - Reibaldi, Michele
+PY  - 2017
+DA  - 2017/03/17
+TI  - Identification of novel chemotherapeutic strategies for metastatic uveal melanoma
+JO  - Scientific Reports
+SP  - 44564
+VL  - 7
+IS  - 1
+AB  - Melanoma of the uveal tract accounts for approximately 5% of all melanomas and represents the most common primary intraocular malignancy. Despite improvements in diagnosis and more effective local therapies for primary cancer, the rate of metastatic death has not changed in the past forty years. In the present study, we made use of bioinformatics to analyze the data obtained from three public available microarray datasets on uveal melanoma in an attempt to identify novel putative chemotherapeutic options for the liver metastatic disease. We have first carried out a meta-analysis of publicly available whole-genome datasets, that included data from 132 patients, comparing metastatic vs. non metastatic uveal melanomas, in order to identify the most relevant genes characterizing the spreading of tumor to the liver. Subsequently, the L1000CDS2 web-based utility was used to predict small molecules and drugs targeting the metastatic uveal melanoma gene signature. The most promising drugs were found to be Cinnarizine, an anti-histaminic drug used for motion sickness, Digitoxigenin, a precursor of cardiac glycosides, and Clofazimine, a fat-soluble iminophenazine used in leprosy. In vitro and in vivo validation studies will be needed to confirm the efficacy of these molecules for the prevention and treatment of metastatic uveal melanoma.
+SN  - 2045-2322
+UR  - https://doi.org/10.1038/srep44564
+DO  - 10.1038/srep44564
+ID  - Fagone2017
+ER  - 

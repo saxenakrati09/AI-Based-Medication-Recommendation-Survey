@@ -1,0 +1,23 @@
+TY  - JOUR
+AU  - Madhukar, Neel S.
+AU  - Khade, Prashant K.
+AU  - Huang, Linda
+AU  - Gayvert, Kaitlyn
+AU  - Galletti, Giuseppe
+AU  - Stogniew, Martin
+AU  - Allen, Joshua E.
+AU  - Giannakakou, Paraskevi
+AU  - Elemento, Olivier
+PY  - 2019
+DA  - 2019/11/19
+TI  - A Bayesian machine learning approach for drug target identification using diverse data types
+JO  - Nature Communications
+SP  - 5221
+VL  - 10
+IS  - 1
+AB  - Drug target identification is a crucial step in development, yet is also among the most complex. To address this, we develop BANDIT, a Bayesian machine-learning approach that integrates multiple data types to predict drug binding targets. Integrating public data, BANDIT benchmarked a ~90% accuracy on 2000+ small molecules. Applied to 14,000+ compounds without known targets, BANDIT generated ~4,000 previously unknown molecule-target predictions. From this set we validate 14 novel microtubule inhibitors, including 3 with activity on resistant cancer cells. We applied BANDIT to ONC201—an anti-cancer compound in clinical development whose target had remained elusive. We identified and validated DRD2 as ONC201’s target, and this information is now being used for precise clinical trial design. Finally, BANDIT identifies connections between different drug classes, elucidating previously unexplained clinical observations and suggesting new drug repositioning opportunities. Overall, BANDIT represents an efficient and accurate platform to accelerate drug discovery and direct clinical application.
+SN  - 2041-1723
+UR  - https://doi.org/10.1038/s41467-019-12928-6
+DO  - 10.1038/s41467-019-12928-6
+ID  - Madhukar2019
+ER  - 

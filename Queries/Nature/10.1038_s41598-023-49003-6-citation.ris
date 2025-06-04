@@ -1,0 +1,16 @@
+TY  - JOUR
+AU  - Park, Sejin
+AU  - Lee, Hyunju
+PY  - 2023
+DA  - 2023/12/11
+TI  - Molecular data representation based on gene embeddings for cancer drug response prediction
+JO  - Scientific Reports
+SP  - 21898
+VL  - 13
+IS  - 1
+AB  - Cancer drug response prediction is a crucial task in precision medicine, but existing models have limitations in effectively representing molecular profiles of cancer cells. Specifically, when these models represent molecular omics data such as gene expression, they employ a one-hot encoding-based approach, where a fixed gene set is selected for all samples and omics data values are assigned to specific positions in a vector. However, this approach restricts the utilization of embedding-vector-based methods, such as attention-based models, and limits the flexibility of gene selection. To address these issues, our study proposes gene embedding-based fully connected neural networks (GEN) that utilizes gene embedding vectors as input data for cancer drug response prediction. The GEN allows for the use of embedding-vector-based architectures and different gene sets for each sample, providing enhanced flexibility. To validate the efficacy of GEN, we conducted experiments on three cancer drug response datasets. Our results demonstrate that GEN outperforms other recently developed methods in cancer drug prediction tasks and offers improved gene representation capabilities. All source codes are available at https://github.com/DMCB-GIST/GEN/.
+SN  - 2045-2322
+UR  - https://doi.org/10.1038/s41598-023-49003-6
+DO  - 10.1038/s41598-023-49003-6
+ID  - Park2023
+ER  - 

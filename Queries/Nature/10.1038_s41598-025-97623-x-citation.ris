@@ -1,0 +1,19 @@
+TY  - JOUR
+AU  - Tang, Lei
+AU  - Wu, Liling
+AU  - Dai, Mengqin
+AU  - Liu, Nian
+AU  - liu, Lu
+PY  - 2025
+DA  - 2025/04/19
+TI  - Integrative analysis of signaling and metabolic pathways, immune infiltration patterns, and machine learning-based diagnostic model construction in major depressive disorder
+JO  - Scientific Reports
+SP  - 13519
+VL  - 15
+IS  - 1
+AB  - Major depressive disorder (MDD) is a multifactorial disorder involving genetic and environmental factors, with unclear pathogenesis. This study aims to explore the pathogenic pathway of MDD and its relationship with immune responses and to discover its potential targets by bioinformatics methods. We first applied gene set variation analysis (GSVA) and seven different immune infiltration algorithms to the GSE98793 dataset to determine the differences in signaling pathways, metabolic pathways, and immune cell infiltration between MDD patients and healthy controls. Differentially expressed genes between MDD patients and controls were obtained from five datasets (GSE98793, GSE32280, GSE38206, GSE39653, and GSE52790), and 113 machine learning methods were employed to construct MDD diagnostic models. Based on the constructed MDD diagnostic models, MDD patients were divided into high-risk and low-risk groups. GSVA and immune microenvironment analyses were conducted to investigate the differences between the two groups. Furthermore, potential drugs and therapeutic targets for the high-risk MDD group were explored to provide new insights and directions for the precise treatment of MDD. GSVA and immune infiltration results indicate that patients with MDD exhibit differences from normal individuals in various aspects, including biological processes, signaling pathways, metabolic processes, and immune cells. To investigate the functions and biological significance of differentially expressed genes in MDD patients, we performed GO and KEGG enrichment analyses on the differentially expressed genes from five databases (GSE98793, GSE32280, GSE38206, GSE39653, and GSE52790). By comparing the enrichment results across the five datasets, we found that the cell-killing signaling pathway was consistently present in the enriched signaling pathways of all datasets, suggesting that this pathway may play a crucial role in the pathogenesis of MDD. The random forest algorithm (AUC = 0.788) was selected as the optimal algorithm from 113 machine learning algorithms, leading to the development of a robust and predictive MDD algorithm, highlighting the important role of NPL in MDD. By dividing MDD into high and low-risk subgroups based on diagnostic model scores, enrichment pathways, and immunological results further demonstrated that high-risk MDD is associated with increased levels of reactive oxygen species, inflammation, and numbers of T cells and B cells. Through GSEA scoring, five upregulated pathways in the high-risk MDD group were identified, and multiple potential drugs such as Mibefradil, LY364947, ZLN005, STA- 5326, and vemurafenib were screened. Patients with MDD show differences in signaling pathways, metabolic pathways, and immune mechanisms. By constructing an MDD diagnostic model, we predicted the key genes of MDD and the characteristic pathways associated with a higher risk of MDD. This provides new insights for risk stratification identification and offers new perspectives for the clinical application of precision immunotherapy and drug development. 
+SN  - 2045-2322
+UR  - https://doi.org/10.1038/s41598-025-97623-x
+DO  - 10.1038/s41598-025-97623-x
+ID  - Tang2025
+ER  - 

@@ -1,0 +1,23 @@
+TY  - JOUR
+AU  - Regan-Fendt, Kelly E.
+AU  - Xu, Jielin
+AU  - DiVincenzo, Mallory
+AU  - Duggan, Megan C.
+AU  - Shakya, Reena
+AU  - Na, Ryejung
+AU  - Carson, William E.
+AU  - Payne, Philip R. O.
+AU  - Li, Fuhai
+PY  - 2019
+DA  - 2019/02/26
+TI  - Synergy from gene expression and network mining (SynGeNet) method predicts synergistic drug combinations for diverse melanoma genomic subtypes
+JO  - npj Systems Biology and Applications
+SP  - 6
+VL  - 5
+IS  - 1
+AB  - Systems biology perspectives are crucial for understanding the pathophysiology of complex diseases, and therefore hold great promise for the discovery of novel treatment strategies. Drug combinations have been shown to improve durability and reduce resistance to available first-line therapies in a variety of cancers; however, traditional drug discovery approaches are prohibitively cost and labor-intensive to evaluate large-scale matrices of potential drug combinations. Computational methods are needed to efficiently model complex interactions of drug target pathways and identify mechanisms underlying drug combination synergy. In this study, we employ a computational approach, SynGeNet (Synergy from Gene expression and Network mining), which integrates transcriptomics-based connectivity mapping and network centrality analysis to analyze disease networks and predict drug combinations. As an exemplar of a disease in which combination therapies demonstrate efficacy in genomic-specific contexts, we investigate malignant melanoma. We employed SynGeNet to generate drug combination predictions for each of the four major genomic subtypes of melanoma (BRAF, NRAS, NF1, and triple wild type) using publicly available gene expression and mutation data. We validated synergistic drug combinations predicted by our method across all genomic subtypes using results from a high-throughput drug screening study across. Finally, we prospectively validated the drug combination for BRAF-mutant melanoma that was top ranked by our approach, vemurafenib (BRAF inhibitor) + tretinoin (retinoic acid receptor agonist), using both in vitro and in vivo models of BRAF-mutant melanoma and RNA-sequencing analysis of drug-treated melanoma cells to validate the predicted mechanisms. Our approach is applicable to a wide range of disease domains, and, importantly, can model disease-relevant protein subnetworks in precision medicine contexts.
+SN  - 2056-7189
+UR  - https://doi.org/10.1038/s41540-019-0085-4
+DO  - 10.1038/s41540-019-0085-4
+ID  - Regan-Fendt2019
+ER  - 

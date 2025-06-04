@@ -1,0 +1,18 @@
+TY  - JOUR
+AU  - Zhou, Xiaowei
+AU  - Luo, Fanyan
+AU  - Xiang, Bitao
+AU  - Li, Kaixuan
+PY  - 2025
+DA  - 2025/05/16
+TI  - The working mechanism of biomarkers related to sumoylation modification in coronary artery disease
+JO  - Scientific Reports
+SP  - 17055
+VL  - 15
+IS  - 1
+AB  - Coronary artery disease (CAD) remains a leading global cause of mortality. The expression of small ubiquitin-like modifier 1 (SUMO-1) is reduced in heart failure. However, the mechanisms underlying its modification in CAD remain underexplored. This study sought to identify SUMOylation-related biomarkers and elucidate the potential mechanisms in CAD pathogenesis. This study analyzed three CAD datasets (GSE42148, GSE23561, and GSE121893) alongside 187 SUMOylation-related genes (SRGs). The overlap between differentially expressed genes (DEGs) and SRGs was used to identify differentially expressed SUMOylation-related genes (DE-SRGs). Biomarkers were validated through expression profiling and receiver operating characteristic (ROC) curve analysis. Enrichment and immune infiltration analyses were performed to explore the molecular mechanisms by which these biomarkers influence CAD. A drug-gene interaction network was constructed using the Drug-Gene Interaction database (DGIdb). Single-cell analysis was conducted to identify key cellular players and validate the differential expression of biomarkers across cell types. A total of 12 DE-SRGs were identified in CAD. Among them, SUMO1 and PPARG were validated as biomarkers, with their expression significantly elevated in the CAD group compared to the control group. Single-sample gene set enrichment analysis (ssGSEA) revealed distinct immune cell distributions in CAD, with central memory CD4+ T cells and memory B cells positively correlated with the biomarkers. Gene set enrichment analysis (GSEA) linked these biomarkers to ribosomal activity, olfactory transduction, and other pathways. Single-cell analysis confirmed the expression of SUMO1 and PPARG in endothelial cells, particularly in the CAD group. Additionally, SUMO1 was differentially expressed in cardiomyocytes, exhibiting higher expression in controls. SUMO1 and PPARG were identified as novel SUMOylation-related biomarkers in CAD, suggesting new therapeutic avenues for CAD management.
+SN  - 2045-2322
+UR  - https://doi.org/10.1038/s41598-025-02099-4
+DO  - 10.1038/s41598-025-02099-4
+ID  - Zhou2025
+ER  - 

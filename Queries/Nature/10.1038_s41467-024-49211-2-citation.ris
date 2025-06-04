@@ -1,0 +1,64 @@
+TY  - JOUR
+AU  - Kim, JangKeun
+AU  - Tierney, Braden T.
+AU  - Overbey, Eliah G.
+AU  - Dantas, Ezequiel
+AU  - Fuentealba, Matias
+AU  - Park, Jiwoon
+AU  - Narayanan, S. Anand
+AU  - Wu, Fei
+AU  - Najjar, Deena
+AU  - Chin, Christopher R.
+AU  - Meydan, Cem
+AU  - Loy, Conor
+AU  - Mathyk, Begum
+AU  - Klotz, Remi
+AU  - Ortiz, Veronica
+AU  - Nguyen, Khiem
+AU  - Ryon, Krista A.
+AU  - Damle, Namita
+AU  - Houerbi, Nadia
+AU  - Patras, Laura I.
+AU  - Schanzer, Nathan
+AU  - Hutchinson, Gwyneth A.
+AU  - Foox, Jonathan
+AU  - Bhattacharya, Chandrima
+AU  - Mackay, Matthew
+AU  - Afshin, Evan E.
+AU  - Hirschberg, Jeremy Wain
+AU  - Kleinman, Ashley S.
+AU  - Schmidt, Julian C.
+AU  - Schmidt, Caleb M.
+AU  - Schmidt, Michael A.
+AU  - Beheshti, Afshin
+AU  - Matei, Irina
+AU  - Lyden, David
+AU  - Mullane, Sean
+AU  - Asadi, Amran
+AU  - Lenz, Joan S.
+AU  - Mzava, Omary
+AU  - Yu, Min
+AU  - Ganesan, Saravanan
+AU  - De Vlaminck, Iwijn
+AU  - Melnick, Ari M.
+AU  - Barisic, Darko
+AU  - Winer, Daniel A.
+AU  - Zwart, Sara R.
+AU  - Crucian, Brian E.
+AU  - Smith, Scott M.
+AU  - Mateus, Jaime
+AU  - Furman, David
+AU  - Mason, Christopher E.
+PY  - 2024
+DA  - 2024/06/11
+TI  - Single-cell multi-ome and immune profiles of the Inspiration4 crew reveal conserved, cell-type, and sex-specific responses to spaceflight
+JO  - Nature Communications
+SP  - 4954
+VL  - 15
+IS  - 1
+AB  - Spaceflight induces an immune response in astronauts. To better characterize this effect, we generated single-cell, multi-ome, cell-free RNA (cfRNA), biochemical, and hematology data for the SpaceX Inspiration4 (I4) mission crew. We found that 18 cytokines/chemokines related to inflammation, aging, and muscle homeostasis changed after spaceflight. In I4 single-cell multi-omics data, we identified a “spaceflight signature” of gene expression characterized by enrichment in oxidative phosphorylation, UV response, immune function, and TCF21 pathways. We confirmed the presence of this signature in independent datasets, including the NASA Twins Study, the I4 skin spatial transcriptomics, and 817 NASA GeneLab mouse transcriptomes. Finally, we observed that (1) T cells showed an up-regulation of FOXP3, (2) MHC class I genes exhibited long-term suppression, and (3) infection-related immune pathways were associated with microbiome shifts. In summary, this study reveals conserved and distinct immune disruptions occurring and details a roadmap for potential countermeasures to preserve astronaut health.
+SN  - 2041-1723
+UR  - https://doi.org/10.1038/s41467-024-49211-2
+DO  - 10.1038/s41467-024-49211-2
+ID  - Kim2024
+ER  - 

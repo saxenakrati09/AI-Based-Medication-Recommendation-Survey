@@ -1,0 +1,21 @@
+TY  - JOUR
+AU  - Liu, Xin
+AU  - Zhang, Dengfeng
+AU  - Zhao, Fangchao
+AU  - Li, Shujun
+AU  - Zhu, Haiyong
+AU  - Zhang, Xu
+PY  - 2024
+DA  - 2024/10/01
+TI  - Deciphering the role of oxidative stress genes in idiopathic pulmonary fibrosis: a multi-omics mendelian randomization approach
+JO  - Genes & Immunity
+SP  - 389
+EP  - 396
+VL  - 25
+IS  - 5
+AB  - Oxidative stress (OS) is crucial in idiopathic pulmonary fibrosis (IPF) pathogenesis, with its genes potentially acting as both causes and consequences of the disease. We identified OS-related genes from GeneCards and performed a meta-analysis on pulmonary transcriptome datasets to discover differentially expressed genes (DEGs) related to OS in IPF. We integrated this data with the largest available IPF GWAS summaries, expression quantitative trait loci (eQTLs), and DNA methylation QTLs (mQTLs) from blood. This approach aimed to identify blood OS genes and regulatory elements linked to IPF risk, incorporating the latest pulmonary eQTLs and bronchoalveolar lavage fluid microbial QTLs (bmQTLs) for a comprehensive view of gene-lung microbiota interactions through SMR and colocalization analyses. Sensitivity analyses were conducted using two additional mendelian randomization (MR) methods. Meta-analysis revealed 1090 differentially expressed OS genes between IPF patients and controls. Integration with IPF GWAS, eQTL, and mQTL data identified key genes and regulatory elements involved in IPF pathogenesis, highlighting the role of specific genes such as KCNMA1 and SLC22A5 in modulating IPF risk through epigenetic mechanisms. Colocalization analysis further identified potential interactions between gene expression and lung microbiota. Our findings elucidate the complex interplay between OS genes and IPF, suggesting potential therapeutic targets and highlighting the importance of considering epigenetic and microbial interactions in the disease’s etiology and progression.
+SN  - 1476-5470
+UR  - https://doi.org/10.1038/s41435-024-00292-5
+DO  - 10.1038/s41435-024-00292-5
+ID  - Liu2024
+ER  - 

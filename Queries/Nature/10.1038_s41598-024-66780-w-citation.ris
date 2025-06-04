@@ -1,0 +1,24 @@
+TY  - JOUR
+AU  - Bai, Zhongyuan
+AU  - Hao, Jiawei
+AU  - Chen, Miaoran
+AU  - Yao, Kaixin
+AU  - Zheng, Leilei
+AU  - Liu, Liu
+AU  - Hu, Jingxi
+AU  - Guo, Kaiqing
+AU  - Lv, Yongqiang
+AU  - Li, Feng
+PY  - 2024
+DA  - 2024/07/15
+TI  - Integrating plasma proteomics with genome-wide association data to identify novel drug targets for inflammatory bowel disease
+JO  - Scientific Reports
+SP  - 16251
+VL  - 14
+IS  - 1
+AB  - Inflammatory bowel disease (IBD) is a chronic disease that includes Crohn’s disease (CD) and ulcerative colitis (UC). Although genome-wide association studies (GWASs) have identified many relevant genetic risk loci, the impact of these loci on protein abundance and their potential utility as clinical therapeutic targets remain uncertain. Therefore, this study aimed to investigate the pathogenesis of IBD and identify effective therapeutic targets through a comprehensive and integrated analysis. We systematically integrated GWAS data related to IBD, UC and CD (N = 25,305) by the study of de Lange KM with the human blood proteome (N = 7213) by the Atherosclerosis Risk in Communities (ARIC) study. Proteome-wide association study (PWAS), mendelian randomisation (MR) and Bayesian colocalisation analysis were used to identify proteins contributing to the risk of IBD. Integrative analysis revealed that genetic variations in IBD, UC and CD affected the abundance of five (ERAP2, RIPK2, TALDO1, CADM2 and RHOC), three (VSIR, HGFAC and CADM2) and two (MST1 and FLRT3) cis-regulated plasma proteins, respectively (P < 0.05). Among the proteins identified via Bayesian colocalisation analysis, CADM2 was found to be an important common protein between IBD and UC. A drug and five druggable target genes were identified from DGIdb after Bayesian colocalisation analysis. Our study's findings from genetic and proteomic approaches have identified compelling proteins that may serve as important leads for future functional studies and potential drug targets for IBD (UC and CD).
+SN  - 2045-2322
+UR  - https://doi.org/10.1038/s41598-024-66780-w
+DO  - 10.1038/s41598-024-66780-w
+ID  - Bai2024
+ER  - 

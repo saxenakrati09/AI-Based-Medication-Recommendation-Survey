@@ -1,0 +1,16 @@
+TY  - JOUR
+AU  - Mishra, Rajat
+AU  - Shridevi, S.
+PY  - 2024
+DA  - 2024/10/26
+TI  - Knowledge graph driven medicine recommendation system using graph neural networks on longitudinal medical records
+JO  - Scientific Reports
+SP  - 25449
+VL  - 14
+IS  - 1
+AB  - Medicine recommendation systems are designed to aid healthcare professionals by analysing a patient’s admission data to recommend safe and effective medications. These systems are categorised into two types: instance-based and longitudinal-based. Instance-based models only consider the current admission, while longitudinal models consider the patient’s medical history. Electronic Health Records are used to incorporate medical history into longitudinal models. This project proposes a novel Knowledge Graph-Driven Medicine Recommendation System using Graph Neural Networks, KGDNet, that utilises longitudinal EHR data along with ontologies and Drug-Drug Interaction knowledge to construct admission-wise clinical and medicine Knowledge Graphs for every patient. Recurrent Neural Networks are employed to model a patient’s historical data, and Graph Neural Networks are used to learn embeddings from the Knowledge Graphs. A Transformer-based Attention mechanism is then used to generate medication recommendations for the patient, considering their current clinical state, medication history, and joint medical records. The model is evaluated on the MIMIC-IV EHR data and outperforms existing methods in terms of precision, recall, F1 score, Jaccard score, and Drug-Drug Interaction control. An ablation study on our models various inputs and components to provide evidence for the importance of each component in providing the best performance. Case study is also performed to demonstrate the real-world effectiveness of KGDNet.
+SN  - 2045-2322
+UR  - https://doi.org/10.1038/s41598-024-75784-5
+DO  - 10.1038/s41598-024-75784-5
+ID  - Mishra2024
+ER  - 

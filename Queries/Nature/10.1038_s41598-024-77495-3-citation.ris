@@ -1,0 +1,19 @@
+TY  - JOUR
+AU  - Zhao, Yaowei
+AU  - Ma, Xiyuan
+AU  - Meng, Xianghong
+AU  - Li, Hongyu
+AU  - Tang, Qiang
+PY  - 2024
+DA  - 2024/10/30
+TI  - Integrating machine learning and single-cell transcriptomic analysis to identify potential biomarkers and analyze immune features of ischemic stroke
+JO  - Scientific Reports
+SP  - 26069
+VL  - 14
+IS  - 1
+AB  - This study employs machine learning and single-cell transcriptome sequencing (scRNA-seq) analysis to unearth novel biomarkers and delineate the immune characteristics of ischemic stroke (IS), thereby contributing fresh insights into IS treatment strategies.Our research leverages gene expression data sourced from the GEO database. We undertake weighted gene co-expression network analysis (WGCNA) to filter pertinent genes and subsequently employ machine learning algorithms for the identification of feature genes. Concurrently, we rigorously execute quality control measures, dimensionality reduction techniques, and cell annotation on the scRNA-seq data to pinpoint differentially expressed genes (DEGs). The identification of core genes, denoted as Hub genes, among the feature genes and DEGs, is achieved through meticulous overlapping analysis. We illuminate the immune characteristics of these Hub genes using a suite of analytical tools, encompassing CIBERSORT, MCPcounter, and pseudotemporal analysis, all based on immune cell annotations and single-cell transcriptome data.Subsequently, we harness the CMap database to prognosticate potential therapeutic drugs and scrutinize their associations with the identified Hub genes. Our findings unveil robust linkages between three pivotal Hub genes—namely, RNF13, VASP, and CD163—and specific immune cell types such as T cells and neutrophils. These Hub genes predominantly manifest in macrophages and microglial cells within the scRNA-seq immune cell population, exhibiting variances across different stages of cellular differentiation. In conclusion, this study unearths highly pertinent biomarkers for IS diagnosis and elucidates IS-induced immune infiltration characteristics, thus providing a firm foundation for a comprehensive exploration of potential immune mechanisms and the identification of novel therapeutic targets for IS.
+SN  - 2045-2322
+UR  - https://doi.org/10.1038/s41598-024-77495-3
+DO  - 10.1038/s41598-024-77495-3
+ID  - Zhao2024
+ER  - 

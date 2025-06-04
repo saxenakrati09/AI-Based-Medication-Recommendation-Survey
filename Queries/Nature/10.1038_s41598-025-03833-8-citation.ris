@@ -1,0 +1,22 @@
+TY  - JOUR
+AU  - Liu, Jinghua
+AU  - Luo, Nana
+AU  - Ma, Wenyi
+AU  - Qiao, Zeyun
+AU  - Zhong, Xiaojing
+AU  - Cheng, Zilin
+AU  - Hao, Pingsheng
+AU  - lv, Chengzhi
+PY  - 2025
+DA  - 2025/05/27
+TI  - Novel ribosome biogenesis-related biomarkers and therapeutic targets identified in psoriasis
+JO  - Scientific Reports
+SP  - 18525
+VL  - 15
+IS  - 1
+AB  - Psoriasis is an immune-mediated chronic inflammatory disease. Increasing evidence suggests a close association between ribosome biogenesis (RiboSis) and the pathogenesis of psoriasis. However, the precise mechanisms remain unclear. We first obtained bulk transcriptome and single-cell RNA sequencing datasets from the GEO database. Subsequently, differential expression analysis (DEG) and weighted gene co-expression network analysis (WGCNA) were performed, preliminarily identifying 11 candidate biomarkers. Protein-protein interaction (PPI) analysis revealed that these biomarkers are primarily involved in protein synthesis, regulation of gene expression, and control of the cell cycle and growth. Consensus clustering analysis combined with immune infiltration analysis revealed that the candidate biomarkers were strongly associated with innate immune cells, such as NK cells, mast cells, and monocytes, and were more closely linked to signaling pathways related to cell proliferation, cell cycle, inflammation, and glycolysis. From the 11 candidate biomarkers, we selected MPHOSPH6 and ISG20 (exhibiting the highest fold-changes) for external dataset validation, scRNA-seq analysis, and in vivo expression verification. Subsequently, potential therapeutic compounds targeting these biomarkers were predicted and validated via molecular docking. Collectively, our findings not only substantiate the critical role of RiboSis in psoriasis pathogenesis but also provide a framework for developing targeted therapeutic strategies.
+SN  - 2045-2322
+UR  - https://doi.org/10.1038/s41598-025-03833-8
+DO  - 10.1038/s41598-025-03833-8
+ID  - Liu2025
+ER  - 

@@ -1,0 +1,19 @@
+TY  - JOUR
+AU  - Zhang, Yaqi
+AU  - Xu, Heng
+AU  - Tang, Yang
+AU  - Li, Yuhang
+AU  - Zheng, Fengjie
+PY  - 2024
+DA  - 2024/10/08
+TI  - The levels of amino acid metabolites in serum induce the pathogenesis of atopic dermatitis by mediating the inflammatory protein S100A12
+JO  - Scientific Reports
+SP  - 23435
+VL  - 14
+IS  - 1
+AB  - Atopic dermatitis (AD) is a chronic inflammatory skin disease affecting tens of millions of people globally. The causal relationship between metabolites and AD pathology has not yet been formally indicated, and the mediating mechanism by which metabolites affect AD has not yet been explored. This study aimed to determine the genetic relationship between metabolites and AD and to determine the pathways through which amino acid metabolites affect AD. Meta-analysis integrates the results of multiple GWAS analyses using METAL software. Using bidirectional two-sample Mendelian randomization (MR), we analyzed the causal relationships between metabolites and AD. The principal MR test of causal effects was conducted using inverse-variance weighted regression, and we used reverse MR analysis to exclude reverse causality. We also performed the MR-PRESSO test to detect and correct for possible pleiotropic effects, and used the Cochran Q test to assess heterogeneity. Two-step MR was utilized to analyze the mediating factors between amino acid metabolites and the onset of AD. The correlation between mediating factors (inflammatory protein S100A12) and immune cell infiltration was analyzed using the edgeR and GSVA software packages. Using single-cell sequencing data from skin tissues of patients with AD, we studied the regulatory role of the S100A12 gene in immune cells. Multiple drug databases and macromolecular docking were used to search for S100A12-targeting drugs. Bidirectional two-sample MR analyses indicated that twenty-two metabolites and one inflammatory protein (S100A12) were significantly associated with AD pathogenesis. S100A12 is a mediator of amino acid metabolites (N6-methyllysine; N2-acetyl,N6,N6-dimethyllysine and N6,N6-dimethyllysine) that are genetically associated with AD. S100A12 was positively correlated with the infiltration of multiple immune cell types in lesional AD skin. The amino acid metabolites N6-methyllysine; N2-acetyl,N6,N6-dimethyllysine and N6,N6-dimethyllysine influence AD pathogenesis by mediating S100A12 expression.
+SN  - 2045-2322
+UR  - https://doi.org/10.1038/s41598-024-74522-1
+DO  - 10.1038/s41598-024-74522-1
+ID  - Zhang2024
+ER  - 

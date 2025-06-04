@@ -1,0 +1,149 @@
+TY  - JOUR
+AU  - Dondi, Arthur
+AU  - Lischetti, Ulrike
+AU  - Jacob, Francis
+AU  - Singer, Franziska
+AU  - Borgsmüller, Nico
+AU  - Coelho, Ricardo
+AU  - Aebersold, Rudolf
+AU  - Ak, Melike
+AU  - Al-Quaddoomi, Faisal S.
+AU  - Albert, Silvana I.
+AU  - Albinus, Jonas
+AU  - Alborelli, Ilaria
+AU  - Andani, Sonali
+AU  - Attinger, Per-Olof
+AU  - Bacac, Marina
+AU  - Baumhoer, Daniel
+AU  - Beck-Schimmer, Beatrice
+AU  - Beisel, Christian
+AU  - Bernasconi, Lara
+AU  - Bertolini, Anne
+AU  - Bodenmiller, Bernd
+AU  - Bonilla, Ximena
+AU  - Bosshard, Lars
+AU  - Calgua, Byron
+AU  - Casanova, Ruben
+AU  - Chevrier, Stéphane
+AU  - Chicherova, Natalia
+AU  - D’Costa, Maya
+AU  - Danenberg, Esther
+AU  - Davidson, Natalie
+AU  - Drăgan, Monica-Andreea
+AU  - Dummer, Reinhard
+AU  - Engler, Stefanie
+AU  - Erkens, Martin
+AU  - Eschbach, Katja
+AU  - Esposito, Cinzia
+AU  - Fedier, André
+AU  - Ferreira, Pedro
+AU  - Ficek, Joanna
+AU  - Frei, Anja L.
+AU  - Frey, Bruno
+AU  - Goetze, Sandra
+AU  - Grob, Linda
+AU  - Gut, Gabriele
+AU  - Günther, Detlef
+AU  - Haberecker, Martina
+AU  - Haeuptle, Pirmin
+AU  - Herter, Sylvia
+AU  - Holtackers, Rene
+AU  - Huesser, Tamara
+AU  - Immer, Alexander
+AU  - Irmisch, Anja
+AU  - Jacobs, Andrea
+AU  - Jaeger, Tim M.
+AU  - Jahn, Katharina
+AU  - James, Alva R.
+AU  - Jermann, Philip M.
+AU  - Kahles, André
+AU  - Kahraman, Abdullah
+AU  - Koelzer, Viktor H.
+AU  - Kuebler, Werner
+AU  - Kuipers, Jack
+AU  - Kunze, Christian P.
+AU  - Kurzeder, Christian
+AU  - Lehmann, Kjong-Van
+AU  - Levesque, Mitchell
+AU  - Lischetti, Ulrike
+AU  - Lugert, Sebastian
+AU  - Maass, Gerd
+AU  - Manz, Markus G.
+AU  - Markolin, Philipp
+AU  - Mehnert, Martin
+AU  - Mena, Julien
+AU  - Metzler, Julian M.
+AU  - Miglino, Nicola
+AU  - Milani, Emanuela S.
+AU  - Moch, Holger
+AU  - Muenst, Simone
+AU  - Murri, Riccardo
+AU  - Ng, Charlotte K. Y.
+AU  - Nicolet, Stefan
+AU  - Nowak, Marta
+AU  - Lopez, Monica Nunez
+AU  - Pedrioli, Patrick G. A.
+AU  - Pelkmans, Lucas
+AU  - Piscuoglio, Salvatore
+AU  - Prummer, Michael
+AU  - Rimmer, Natalie
+AU  - Ritter, Mathilde
+AU  - Rommel, Christian
+AU  - Rosano-González, María L.
+AU  - Rätsch, Gunnar
+AU  - Santacroce, Natascha
+AU  - del Castillo, Jacobo Sarabia
+AU  - Schlenker, Ramona
+AU  - Schwalie, Petra C.
+AU  - Schwan, Severin
+AU  - Schär, Tobias
+AU  - Senti, Gabriela
+AU  - Shao, Wenguang
+AU  - Sivapatham, Sujana
+AU  - Snijder, Berend
+AU  - Sobottka, Bettina
+AU  - Sreedharan, Vipin T.
+AU  - Stark, Stefan
+AU  - Stekhoven, Daniel J.
+AU  - Tanna, Tanmay
+AU  - Theocharides, Alexandre P. A.
+AU  - Thomas, Tinu M.
+AU  - Tolnay, Markus
+AU  - Tosevski, Vinko
+AU  - Toussaint, Nora C.
+AU  - Tuncel, Mustafa A.
+AU  - Tusup, Marina
+AU  - Van Drogen, Audrey
+AU  - Vetter, Marcus
+AU  - Vlajnic, Tatjana
+AU  - Weber, Sandra
+AU  - Weber, Walter P.
+AU  - Wegmann, Rebekka
+AU  - Weller, Michael
+AU  - Wendt, Fabian
+AU  - Wey, Norbert
+AU  - Wicki, Andreas
+AU  - Wildschut, Mattheus H. E.
+AU  - Wollscheid, Bernd
+AU  - Yu, Shuqing
+AU  - Ziegler, Johanna
+AU  - Zimmermann, Marc
+AU  - Zoche, Martin
+AU  - Zuend, Gregor
+AU  - Heinzelmann-Schwarz, Viola
+AU  - Beisel, Christian
+AU  - Beerenwinkel, Niko
+AU  - Tumor Profiler Consortium
+PY  - 2023
+DA  - 2023/11/27
+TI  - Detection of isoforms and genomic alterations by high-throughput full-length single-cell RNA sequencing in ovarian cancer
+JO  - Nature Communications
+SP  - 7780
+VL  - 14
+IS  - 1
+AB  - Understanding the complex background of cancer requires genotype-phenotype information in single-cell resolution. Here, we perform long-read single-cell RNA sequencing (scRNA-seq) on clinical samples from three ovarian cancer patients presenting with omental metastasis and increase the PacBio sequencing depth to 12,000 reads per cell. Our approach captures 152,000 isoforms, of which over 52,000 were not previously reported. Isoform-level analysis accounting for non-coding isoforms reveals 20% overestimation of protein-coding gene expression on average. We also detect cell type-specific isoform and poly-adenylation site usage in tumor and mesothelial cells, and find that mesothelial cells transition into cancer-associated fibroblasts in the metastasis, partly through the TGF-β/miR-29/Collagen axis. Furthermore, we identify gene fusions, including an experimentally validated IGF2BP2::TESPA1 fusion, which is misclassified as high TESPA1 expression in matched short-read data, and call mutations confirmed by targeted NGS cancer gene panel results. With these findings, we envision long-read scRNA-seq to become increasingly relevant in oncology and personalized medicine.
+SN  - 2041-1723
+UR  - https://doi.org/10.1038/s41467-023-43387-9
+DO  - 10.1038/s41467-023-43387-9
+ID  - Dondi2023
+ER  - 

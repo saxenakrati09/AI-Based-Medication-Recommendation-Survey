@@ -1,0 +1,21 @@
+TY  - JOUR
+AU  - Gutierrez, Juan-José Giraldo
+AU  - Lau, Evelyn
+AU  - Dharmapalan, Subhashini
+AU  - Parker, Melody
+AU  - Chen, Yurui
+AU  - Álvarez, Mauricio A.
+AU  - Wang, Dennis
+PY  - 2024
+DA  - 2024/09/20
+TI  - Multi-output prediction of dose–response curves enables drug repositioning and biomarker discovery
+JO  - npj Precision Oncology
+SP  - 209
+VL  - 8
+IS  - 1
+AB  - Drug response prediction is hampered by uncertainty in the measures of response and selection of doses. In this study, we propose a probabilistic multi-output model to simultaneously predict all dose–responses and uncover their biomarkers. By describing the relationship between genomic features and chemical properties to every response at every dose, our multi-output Gaussian Process (MOGP) models enable assessment of drug efficacy using any dose–response metric. This approach was tested across two drug screening studies and ten cancer types. Kullback-leibler divergence measured the importance of each feature and identified EZH2 gene as a novel biomarker of BRAF inhibitor response. We demonstrate the effectiveness of our MOGP models in accurately predicting dose–responses in different cancer types and when there is a limited number of drug screening experiments for training. Our findings highlight the potential of MOGP models in enhancing drug development pipelines by reducing data requirements and improving precision in dose–response predictions.
+SN  - 2397-768X
+UR  - https://doi.org/10.1038/s41698-024-00691-x
+DO  - 10.1038/s41698-024-00691-x
+ID  - Gutierrez2024
+ER  - 

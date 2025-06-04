@@ -1,0 +1,19 @@
+TY  - JOUR
+AU  - Zickenrott, S.
+AU  - Angarica, V E
+AU  - Upadhyaya, B B
+AU  - del Sol, A.
+PY  - 2016
+DA  - 2016/01/01
+TI  - Prediction of disease–gene–drug relationships following a differential network analysis
+JO  - Cell Death & Disease
+SP  - e2040
+EP  - e2040
+VL  - 7
+IS  - 1
+AB  - Great efforts are being devoted to get a deeper understanding of disease-related dysregulations, which is central for introducing novel and more effective therapeutics in the clinics. However, most human diseases are highly multifactorial at the molecular level, involving dysregulation of multiple genes and interactions in gene regulatory networks. This issue hinders the elucidation of disease mechanism, including the identification of disease-causing genes and regulatory interactions. Most of current network-based approaches for the study of disease mechanisms do not take into account significant differences in gene regulatory network topology between healthy and disease phenotypes. Moreover, these approaches are not able to efficiently guide database search for connections between drugs, genes and diseases. We propose a differential network-based methodology for identifying candidate target genes and chemical compounds for reverting disease phenotypes. Our method relies on transcriptomics data to reconstruct gene regulatory networks corresponding to healthy and disease states separately. Further, it identifies candidate genes essential for triggering the reversion of the disease phenotype based on network stability determinants underlying differential gene expression. In addition, our method selects and ranks chemical compounds targeting these genes, which could be used as therapeutic interventions for complex diseases.
+SN  - 2041-4889
+UR  - https://doi.org/10.1038/cddis.2015.393
+DO  - 10.1038/cddis.2015.393
+ID  - Zickenrott2016
+ER  - 

@@ -1,0 +1,26 @@
+TY  - JOUR
+AU  - Aboharb, Farid
+AU  - Davoudian, Pasha A.
+AU  - Shao, Ling-Xiao
+AU  - Liao, Clara
+AU  - Rzepka, Gillian N.
+AU  - Wojtasiewicz, Cassandra
+AU  - Indajang, Jonathan
+AU  - Dibbs, Mark
+AU  - Rondeau, Jocelyne
+AU  - Sherwood, Alexander M.
+AU  - Kaye, Alfred P.
+AU  - Kwan, Alex C.
+PY  - 2025
+DA  - 2025/02/12
+TI  - Classification of psychedelics and psychoactive drugs based on brain-wide imaging of cellular c-Fos expression
+JO  - Nature Communications
+SP  - 1590
+VL  - 16
+IS  - 1
+AB  - Psilocybin, ketamine, and MDMA are psychoactive compounds that exert behavioral effects with distinguishable but also overlapping features. The growing interest in using these compounds as therapeutics necessitates preclinical assays that can accurately screen psychedelics and related analogs. We posit that a promising approach may be to measure drug action on markers of neural plasticity in native brain tissues. We therefore developed a pipeline for drug classification using light sheet fluorescence microscopy of immediate early gene expression at cellular resolution followed by machine learning. We tested male and female mice with a panel of drugs, including psilocybin, ketamine, 5-MeO-DMT, 6-fluoro-DET, MDMA, acute fluoxetine, chronic fluoxetine, and vehicle. In one-versus-rest classification, the exact drug was identified with 67% accuracy, significantly above the chance level of 12.5%. In one-versus-one classifications, psilocybin was discriminated from 5-MeO-DMT, ketamine, MDMA, or acute fluoxetine with >95% accuracy. We used Shapley additive explanation to pinpoint the brain regions driving the machine learning predictions. Our results suggest a unique approach for characterizing and validating psychoactive drugs with psychedelic properties.
+SN  - 2041-1723
+UR  - https://doi.org/10.1038/s41467-025-56850-6
+DO  - 10.1038/s41467-025-56850-6
+ID  - Aboharb2025
+ER  - 

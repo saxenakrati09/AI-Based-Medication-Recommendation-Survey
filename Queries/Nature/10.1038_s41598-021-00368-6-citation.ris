@@ -1,0 +1,18 @@
+TY  - JOUR
+AU  - Astore, Courtney
+AU  - Zhou, Hongyi
+AU  - Jacob, Joshy
+AU  - Skolnick, Jeffrey
+PY  - 2021
+DA  - 2021/10/21
+TI  - Prediction of severe adverse events, modes of action and drug treatments for COVID-19’s complications
+JO  - Scientific Reports
+SP  - 20864
+VL  - 11
+IS  - 1
+AB  - Following SARS-CoV-2 infection, some COVID-19 patients experience severe host driven adverse events. To treat these complications, their underlying etiology and drug treatments must be identified. Thus, a novel AI methodology MOATAI-VIR, which predicts disease-protein-pathway relationships and repurposed FDA-approved drugs to treat COVID-19’s clinical manifestations was developed. SARS-CoV-2 interacting human proteins and GWAS identified respiratory failure genes provide the input from which the mode-of-action (MOA) proteins/pathways of the resulting disease comorbidities are predicted. These comorbidities are then mapped to their clinical manifestations. To assess each manifestation’s molecular basis, their prioritized shared proteins were subject to global pathway analysis. Next, the molecular features associated with hallmark COVID-19 phenotypes, e.g. unusual neurological symptoms, cytokine storms, and blood clots were explored. In practice, 24/26 of the major clinical manifestations are successfully predicted. Three major uncharacterized manifestation categories including neoplasms are also found. The prevalence of neoplasms suggests that SARS-CoV-2 might be an oncovirus due to shared molecular mechanisms between oncogenesis and viral replication. Then, repurposed FDA-approved drugs that might treat COVID-19’s clinical manifestations are predicted by virtual ligand screening of the most frequent comorbid protein targets. These drugs might help treat both COVID-19’s severe adverse events and lesser ones such as loss of taste/smell.
+SN  - 2045-2322
+UR  - https://doi.org/10.1038/s41598-021-00368-6
+DO  - 10.1038/s41598-021-00368-6
+ID  - Astore2021
+ER  - 

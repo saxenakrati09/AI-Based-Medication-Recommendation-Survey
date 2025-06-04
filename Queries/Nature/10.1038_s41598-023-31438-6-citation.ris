@@ -1,0 +1,16 @@
+TY  - JOUR
+AU  - He, Qingshan
+AU  - Ding, Hanmeng
+PY  - 2023
+DA  - 2023/03/18
+TI  - Bioinformatics analysis of rheumatoid arthritis tissues identifies genes and potential drugs that are expressed specifically
+JO  - Scientific Reports
+SP  - 4508
+VL  - 13
+IS  - 1
+AB  - Studies have implicated necroptosis mechanisms in orthopaedic-related diseases, since necroptosis is a unique regulatory cell death pattern. However, the role of Necroptosis-related genes in rheumatoid arthritis (RA) has not been well described. We downloaded RA-related data information and Necroptosis-related genes from the Gene Expression Omnibus (GEO), Kyoto Gene and Genome Encyclopedia (KEGG) database, and Genome Enrichment Analysis (GSEA), respectively. We identified 113 genes associated with RA-related necroptosis, which was closely associated with the cytokine-mediated signaling pathway, necroptosis and programmed necrosis. Subsequently, FAS, MAPK8 and TNFSF10 were identified as key genes among 48 Necroptosis-associated differential genes by three machine learning algorithms (LASSO, RF and SVM-RFE), and the key genes had good diagnostic power in distinguishing RA patients from healthy controls. According to functional enrichment analysis, these genes may regulate multiple pathways, such as B-cell receptor signaling, T-cell receptor signaling pathways, chemokine signaling pathways and cytokine-cytokine receptor interactions, and play corresponding roles in RA. Furthermore, we predicted 48 targeted drugs against key genes and 31 chemical structural formulae based on targeted drug prediction. Moreover, key genes were associated with complex regulatory relationships in the ceRNA network. According to CIBERSORT analysis, FAS, MAPK8 and TNFSF10 may be associated with changes in the immune microenvironment of RA patients. Our study developed a diagnostic validity and provided insight to the mechanisms of RA. Further studies will be required to test its diagnostic value for RA before it can be implemented in clinical practice.
+SN  - 2045-2322
+UR  - https://doi.org/10.1038/s41598-023-31438-6
+DO  - 10.1038/s41598-023-31438-6
+ID  - He2023
+ER  - 

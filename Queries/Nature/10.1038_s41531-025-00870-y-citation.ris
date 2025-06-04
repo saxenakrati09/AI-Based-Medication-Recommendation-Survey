@@ -1,0 +1,25 @@
+TY  - JOUR
+AU  - Dou, Lijun
+AU  - Xu, Zhenxing
+AU  - Xu, Jielin
+AU  - Zang, Chengxi
+AU  - Su, Chang
+AU  - Pieper, Andrew A.
+AU  - Leverenz, James B.
+AU  - Wang, Fei
+AU  - Zhu, Xiongwei
+AU  - Cummings, Jeffrey
+AU  - Cheng, Feixiong
+PY  - 2025
+DA  - 2025/01/22
+TI  - A network-based systems genetics framework identifies pathobiology and drug repurposing in Parkinson’s disease
+JO  - npj Parkinson's Disease
+SP  - 22
+VL  - 11
+IS  - 1
+AB  - Parkinson’s disease (PD) is the second most prevalent neurodegenerative disorder. However, current treatments only manage symptoms and lack the ability to slow or prevent disease progression. We utilized a systems genetics approach to identify potential risk genes and repurposable drugs for PD. First, we leveraged non-coding genome-wide association studies (GWAS) loci effects on five types of brain-specific quantitative trait loci (xQTLs, including expression, protein, splicing, methylation and histone acetylation) under the protein–protein interactome (PPI) network. We then prioritized 175 PD likely risk genes (pdRGs), such as SNCA, CTSB, LRRK2, DGKQ, and CD44, which are enriched in druggable targets and differentially expressed genes across multiple human brain-specific cell types. Integrating network proximity-based drug repurposing and patient electronic health record (EHR) data observations, we identified Simvastatin as being significantly associated with reduced incidence of PD (hazard ratio (HR) = 0.91 for fall outcome, 95% confidence interval (CI): 0.87–0.94; HR = 0.88 for dementia outcome, 95% CI: 0.86–0.89) after adjusting for 267 covariates. In summary, our network-based systems genetics framework identifies potential risk genes and repurposable drugs for PD and other neurodegenerative diseases if broadly applied.
+SN  - 2373-8057
+UR  - https://doi.org/10.1038/s41531-025-00870-y
+DO  - 10.1038/s41531-025-00870-y
+ID  - Dou2025
+ER  - 

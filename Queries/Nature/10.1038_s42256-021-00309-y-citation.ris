@@ -1,0 +1,19 @@
+TY  - JOUR
+AU  - Manifold, Bryce
+AU  - Men, Shuaiqian
+AU  - Hu, Ruoqian
+AU  - Fu, Dan
+PY  - 2021
+DA  - 2021/04/01
+TI  - A versatile deep learning architecture for classification and label-free prediction of hyperspectral images
+JO  - Nature Machine Intelligence
+SP  - 306
+EP  - 315
+VL  - 3
+IS  - 4
+AB  - Hyperspectral imaging is a technique that provides rich chemical or compositional information not regularly available to traditional imaging modalities such as intensity imaging or colour imaging based on the reflection, transmission or emission of light. Analysis of hyperspectral imaging often relies on machine learning methods to extract information. Here we present a new flexible architecture—the U-within-U-Net—that can perform classification, segmentation and prediction of orthogonal imaging modalities on a variety of hyperspectral imaging techniques. Specifically, we demonstrate feature segmentation and classification on the Indian Pines hyperspectral dataset and simultaneous location prediction of multiple drugs in mass spectrometry imaging of rat liver tissue. We further demonstrate label-free fluorescence image prediction from hyperspectral stimulated Raman scattering microscopy images. The applicability of the U-within-U-Net architecture on diverse datasets with widely varying input and output dimensions and data sources suggest that it has great potential in advancing the use of hyperspectral imaging across many different application areas ranging from remote sensing, to medical imaging, to microscopy.
+SN  - 2522-5839
+UR  - https://doi.org/10.1038/s42256-021-00309-y
+DO  - 10.1038/s42256-021-00309-y
+ID  - Manifold2021
+ER  - 

@@ -1,0 +1,16 @@
+TY  - JOUR
+AU  - He, Shufang
+AU  - Zhao, Xiaoyu
+PY  - 2025
+DA  - 2025/03/25
+TI  - Drug repositioning model based on knowledge graph embedding
+JO  - Scientific Reports
+SP  - 10298
+VL  - 15
+IS  - 1
+AB  - Drug repositioning utilizes existing drugs for new therapeutic applications, driven by the rapid increase in disease and drug-related data. However, organizing knowledge in this field and integrating the complex and scattered data from multiple systems into a cohesive knowledge network have become urgent problems to address. In this paper, we propose a drug repositioning model based on knowledge graph embedding. The model employs multivariate relational data to embed entities and relationships in a low-dimensional vector space. It also innovatively introduces the attention mechanism into translation and bilinear models, forming new models such as Attranse, Attdismult, and Attrescal. This model’s feature extraction does not rely on a single approach, instead, it integrates multiple models and combines their screening results to enhance drug screening quality. The model’s effectiveness was validated using COVID-19 data, yielding results consistent with 7 clinically approved drugs for COVID-19 treatment, indicating high accuracy in identifying new drug indications. The successful application of this model to COVID-19 suggests its potential for broader use in emerging infectious diseases and complex conditions, providing valuable insights for future drug development.
+SN  - 2045-2322
+UR  - https://doi.org/10.1038/s41598-025-95372-5
+DO  - 10.1038/s41598-025-95372-5
+ID  - He2025
+ER  - 

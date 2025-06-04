@@ -1,0 +1,21 @@
+TY  - JOUR
+AU  - Zhang, Lin-Ming
+AU  - Liang, Xing-ling
+AU  - Xiong, Gui-fei
+AU  - Xing, xuan-lin
+AU  - Zhang, Qiu-juan
+AU  - Zhang, Bing-ran
+AU  - Liu, Ming-wei
+PY  - 2024
+DA  - 2024/02/15
+TI  - Analysis and identification of oxidative stress-ferroptosis related biomarkers in ischemic stroke
+JO  - Scientific Reports
+SP  - 3803
+VL  - 14
+IS  - 1
+AB  - Studies have shown that a series of molecular events caused by oxidative stress is associated with ferroptosis and oxidation after ischemic stroke (IS). Differential analysis was performed to identify differentially expressed mRNA (DEmRNAs) between IS and control groups. Critical module genes were identified using weighted gene co-expression network analysis (WGCNA). DEmRNAs, critical module genes, oxidative stress-related genes (ORGs), and ferroptosis-related genes (FRGs) were crossed to screen for intersection mRNAs. Candidate mRNAs were screened based on the protein–protein interaction (PPI) network and the MCODE plug-in. Biomarkers were identified based on two types of machine learning algorithms, and the intersection was obtained. Functional items and related pathways of the biomarkers were identified using gene set enrichment analysis (GSEA). Finally, single-sample GSEA (ssGSEA) and Wilcoxon tests were used to identify differential immune cells. An miRNA-mRNA-TF network was created. Quantitative real-time polymerase chain reaction (qRT-PCR) was performed to verify the expression levels of biomarkers in the IS and control groups. There were 8287 DE mRNAs between the IS and control groups. The genes in the turquoise module were selected as critical module genes for IS. Thirty intersecting mRNAs were screened for overlaps. Seventeen candidate mRNAs were also identified. Four biomarkers (CDKN1A, GPX4, PRDX1, and PRDX6) were identified using two types of machine-learning algorithms. GSEA results indicated that the biomarkers were associated with steroid biosynthesis. Nine types of immune cells (activated B cells and neutrophils) were markedly different between the IS and control groups. We identified 3747 miRNA-mRNA-TF regulatory pairs in the miRNA-mRNA-TF regulatory network, including hsa-miR-4469-CDKN1A-BACH2 and hsa-miR-188-3p-GPX4-ATF2. CDKN1A, PRDX1, and PRDX6 were upregulated in IS samples compared with control samples. This study suggests that four biomarkers (CDKN1A, GPX4, PRDX1, and PRDX6) are significantly associated with IS. This study provides a new reference for the diagnosis and treatment of IS.
+SN  - 2045-2322
+UR  - https://doi.org/10.1038/s41598-024-54555-2
+DO  - 10.1038/s41598-024-54555-2
+ID  - Zhang2024
+ER  - 

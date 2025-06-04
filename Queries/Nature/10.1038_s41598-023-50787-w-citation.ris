@@ -1,0 +1,25 @@
+TY  - JOUR
+AU  - Peng, Yueling
+AU  - Dong, Yafang
+AU  - Sun, Qihui
+AU  - Zhang, Yue
+AU  - Zhou, Xiangyang
+AU  - Li, Xiaoyang
+AU  - Ma, Yuehong
+AU  - Liu, Xingwei
+AU  - Li, Rongshan
+AU  - Guo, Fengjie
+AU  - Guo, Lili
+PY  - 2024
+DA  - 2024/01/10
+TI  - Integrative analysis of single-cell and bulk RNA-sequencing data revealed T cell marker genes based molecular sub-types and a prognostic signature in lung adenocarcinoma
+JO  - Scientific Reports
+SP  - 964
+VL  - 14
+IS  - 1
+AB  - Immunotherapy has emerged as a promising modality for addressing advanced or conventionally drug-resistant malignancies. When it comes to lung adenocarcinoma (LUAD), T cells have demonstrated significant influence on both antitumor activity and the tumor microenvironment. However, their specific contributions remain largely unexplored. This investigation aimed to delineate molecular subtypes and prognostic indicators founded on T cell marker genes, thereby shedding light on the significance of T cells in LUAD prognosis and precision treatment. The cellular phenotypes were identified by scrutinizing the single-cell data obtained from the GEO repository. Subsequently, T cell marker genes derived from single-cell sequencing analyses were integrated with differentially expressed genes from the TCGA repository to pinpoint T cell-associated genes. Utilizing Cox analysis, molecular subtypes and prognostic signatures were established and subsequently verified using the GEO dataset. The ensuing molecular and immunological distinctions, along with therapy sensitivity between the two sub-cohorts, were examined via the ESTIMATE, CIBERSORT, and ssGSEA methodologies. Compartmentalization, somatic mutation, nomogram development, chemotherapy sensitivity prediction, and potential drug prediction analyses were also conducted according to the risk signature. Additionally, real-time qPCR and the HPA database corroborated the mRNA and protein expression patterns of signature genes in LUAD tissues. In summary, this research yielded an innovative T cell marker gene-based signature with remarkable potential to prognosis and anticipate immunotherapeutic outcomes in LUAD patients.
+SN  - 2045-2322
+UR  - https://doi.org/10.1038/s41598-023-50787-w
+DO  - 10.1038/s41598-023-50787-w
+ID  - Peng2024
+ER  - 

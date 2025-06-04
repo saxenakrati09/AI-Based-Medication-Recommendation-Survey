@@ -1,0 +1,24 @@
+TY  - JOUR
+AU  - Yao, Yuhua
+AU  - Li, Xianhong
+AU  - Liao, Bo
+AU  - Huang, Li
+AU  - He, Pingan
+AU  - Wang, Fayou
+AU  - Yang, Jiasheng
+AU  - Sun, Hailiang
+AU  - Zhao, Yulong
+AU  - Yang, Jialiang
+PY  - 2017
+DA  - 2017/05/08
+TI  - Predicting influenza antigenicity from Hemagglutintin sequence data based on a joint random forest method
+JO  - Scientific Reports
+SP  - 1545
+VL  - 7
+IS  - 1
+AB  - Timely identification of emerging antigenic variants is critical to influenza vaccine design. The accuracy of a sequence-based antigenic prediction method relies on the choice of amino acids substitution matrices. In this study, we first compared a comprehensive 95 substitution matrices reflecting various amino acids properties in predicting the antigenicity of influenza viruses by a random forest model. We then proposed a novel algorithm called joint random forest regression (JRFR) to jointly consider top substitution matrices. We applied JRFR to human H3N2 seasonal influenza data from 1968 to 2003. A 10-fold cross-validation shows that JRFR outperforms other popular methods in predicting antigenic variants. In addition, our results suggest that structure features are most relevant to influenza antigenicity. By restricting the analysis to data involving two adjacent antigenic clusters, we inferred a few key amino acids mutation driving the 11 historical antigenic drift events, pointing to experimentally validated mutations. Finally, we constructed an antigenic cartography of all H3N2 viruses with hemagglutinin (the glycoprotein on the surface of the influenza virus responsible for its binding to host cells) sequence available from NCBI flu database, and showed an overall correspondence and local inconsistency between genetic and antigenic evolution of H3N2 influenza viruses.
+SN  - 2045-2322
+UR  - https://doi.org/10.1038/s41598-017-01699-z
+DO  - 10.1038/s41598-017-01699-z
+ID  - Yao2017
+ER  - 

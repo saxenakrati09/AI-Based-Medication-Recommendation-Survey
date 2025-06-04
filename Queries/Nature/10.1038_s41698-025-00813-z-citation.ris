@@ -1,0 +1,27 @@
+TY  - JOUR
+AU  - Dong, Xiaobao
+AU  - Liu, Huanhuan
+AU  - Tong, Ting
+AU  - Wu, Liuxing
+AU  - Wang, Jianhua
+AU  - You, Tianyi
+AU  - Wei, Yongjian
+AU  - Yi, Xianfu
+AU  - Yang, Hongxi
+AU  - Hu, Jie
+AU  - Wang, Haitao
+AU  - Wang, Xiaoyan
+AU  - Li, Mulin Jun
+PY  - 2025
+DA  - 2025/02/04
+TI  - Personalized prediction of anticancer potential of non-oncology drugs through learning from genome derived molecular pathways
+JO  - npj Precision Oncology
+SP  - 36
+VL  - 9
+IS  - 1
+AB  - Advances in cancer genomics have significantly expanded our understanding of cancer biology. However, the high cost of drug development limits our ability to translate this knowledge into precise treatments. Approved non-oncology drugs, comprising a large repository of chemical entities, offer a promising avenue for repurposing in cancer therapy. Herein we present CHANCE, a supervised machine learning model designed to predict the anticancer activities of non-oncology drugs for specific patients by simultaneously considering personalized coding and non-coding mutations. Utilizing protein–protein interaction networks, CHANCE harmonizes multilevel mutation annotations and integrates pharmacological information across different drugs into a single model. We systematically benchmarked the performance of CHANCE and show its predictions are better than previous model and highly interpretable. Applying CHANCE to approximately 5000 cancer samples indicated that >30% might respond to at least one non-oncology drug, with 11% non-oncology drugs predicted to have anticancer activities. Moreover, CHANCE predictions suggested an association between SMAD7 mutations and aspirin treatment response. Experimental validation using tumor cells derived from seven patients with pancreatic or esophageal cancer confirmed the potential anticancer activity of at least one non-oncology drug for five of these patients. To summarize, CHANCE offers a personalized and interpretable approach, serving as a valuable tool for mining non-oncology drugs in the precision oncology era.
+SN  - 2397-768X
+UR  - https://doi.org/10.1038/s41698-025-00813-z
+DO  - 10.1038/s41698-025-00813-z
+ID  - Dong2025
+ER  - 

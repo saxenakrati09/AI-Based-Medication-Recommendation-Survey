@@ -1,0 +1,20 @@
+TY  - JOUR
+AU  - R, Gayathri
+AU  - S, Maheswari
+AU  - Mathivanan, Sandeep Kumar
+AU  - Shivahare, Basu Dev
+AU  - Chandan, Radha Raman
+AU  - Shah, Mohd Asif
+PY  - 2024
+DA  - 2024/07/08
+TI  - A comprehensive health assessment approach using ensemble deep learning model for remote patient monitoring with IoT
+JO  - Scientific Reports
+SP  - 15661
+VL  - 14
+IS  - 1
+AB  - The goal of this research is to create an ensemble deep learning model for Internet of Things (IoT) applications that specifically target remote patient monitoring (RPM) by integrating long short-term memory (LSTM) networks and convolutional neural networks (CNN). The work tackles important RPM concerns such early health issue diagnosis and accurate real-time physiological data collection and analysis using wearable IoT devices. By assessing important health factors like heart rate, blood pressure, pulse, temperature, activity level, weight management, respiration rate, medication adherence, sleep patterns, and oxygen levels, the suggested Remote Patient Monitor Model (RPMM) attains a noteworthy accuracy of 97.23%. The model's capacity to identify spatial and temporal relationships in health data is improved by novel techniques such as the use of CNN for spatial analysis and feature extraction and LSTM for temporal sequence modeling. Early intervention is made easier by this synergistic approach, which enhances trend identification and anomaly detection in vital signs. A variety of datasets are used to validate the model's robustness, highlighting its efficacy in remote patient care. This study shows how using ensemble models' advantages might improve health monitoring's precision and promptness, which would eventually benefit patients and ease the burden on healthcare systems.
+SN  - 2045-2322
+UR  - https://doi.org/10.1038/s41598-024-66427-w
+DO  - 10.1038/s41598-024-66427-w
+ID  - R2024
+ER  - 

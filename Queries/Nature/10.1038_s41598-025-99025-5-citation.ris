@@ -1,0 +1,19 @@
+TY  - JOUR
+AU  - Xiong, Jianghao
+AU  - Chen, Jiali
+AU  - Zhou, Jianjun
+AU  - Li, Chao
+AU  - Wu, Jifeng
+PY  - 2025
+DA  - 2025/04/24
+TI  - Exploring hypoxia driven subtypes of pulmonary arterial hypertension through transcriptomics single cell sequencing and machine learning
+JO  - Scientific Reports
+SP  - 14251
+VL  - 15
+IS  - 1
+AB  - Pulmonary arterial hypertension (PAH) is a progressive cardiovascular disease characterized by elevated pulmonary arterial pressure, leading to right heart failure and death. Despite advancements in diagnosis and treatment, it remains incurable, and its mechanisms are poorly understood. This study aimed to integrate multi-omics data analysis and machine learning techniques to uncover the molecular characteristics and subtypes of PAH, providing insights into precise diagnosis and therapeutic strategies. We employed consensus clustering to classify PAH patients into subgroups based on multi-omics data. Differential expression and enrichment analyses were conducted to identify key genes and pathways. Machine learning models were developed to predict PAH subtypes and assess their diagnostic performance. PAH patients were divided into two subgroups: C1 and C2. The C2 subgroup showed significantly upregulated hypoxia-related genes, indicating distinct pathogenic mechanisms. Key genes associated with hypoxia, immune regulation, and inflammation were identified, alongside enriched pathways such as TNF, IL-17, and HIF-1 in the C2 subgroup. Machine learning models achieved high accuracy (AUC > 0.85) in distinguishing hypoxia-associated subtypes, supporting their utility for precise diagnosis. Potential therapeutic targets were identified in the TNF and HIF-1 pathways. This study provides novel insights into PAH’s molecular subtypes and their distinct mechanisms, offering diagnostic tools and potential therapeutic targets for personalized treatment. Validation in larger cohorts and experimental studies is essential to confirm the identified biomarkers and pathways.
+SN  - 2045-2322
+UR  - https://doi.org/10.1038/s41598-025-99025-5
+DO  - 10.1038/s41598-025-99025-5
+ID  - Xiong2025
+ER  - 

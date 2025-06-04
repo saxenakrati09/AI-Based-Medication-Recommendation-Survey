@@ -1,0 +1,24 @@
+TY  - JOUR
+AU  - Lu, Zhangli
+AU  - Song, Guoqiang
+AU  - Zhu, Huimin
+AU  - Lei, Chuqi
+AU  - Sun, Xinliang
+AU  - Wang, Kaili
+AU  - Qin, Libo
+AU  - Chen, Yafei
+AU  - Tang, Jing
+AU  - Li, Min
+PY  - 2025
+DA  - 2025/03/15
+TI  - DTIAM: a unified framework for predicting drug-target interactions, binding affinities and drug mechanisms
+JO  - Nature Communications
+SP  - 2548
+VL  - 16
+IS  - 1
+AB  - Accurate and robust prediction of drug-target interactions (DTIs) plays a vital role in drug discovery but remains challenging due to limited labeled data, cold start problems, and insufficient understanding of mechanisms of action (MoA). Distinguishing activation and inhibition mechanisms is particularly critical in clinical applications. Here, we propose DTIAM, a unified framework for predicting interactions, binding affinities, and activation/inhibition mechanisms between drugs and targets. DTIAM learns drug and target representations from large amounts of label-free data through self-supervised pre-training, which accurately extracts their substructure and contextual information, and thus benefits the downstream prediction based on these representations. DTIAM achieves substantial performance improvement over other state-of-the-art methods in all tasks, particularly in the cold start scenario. Moreover, independent validation demonstrates the strong generalization ability of DTIAM. All these results suggest that DTIAM can provide a practically useful tool for predicting novel DTIs and further distinguishing the MoA of candidate drugs.
+SN  - 2041-1723
+UR  - https://doi.org/10.1038/s41467-025-57828-0
+DO  - 10.1038/s41467-025-57828-0
+ID  - Lu2025
+ER  - 

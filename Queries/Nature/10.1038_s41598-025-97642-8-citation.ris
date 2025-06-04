@@ -1,0 +1,19 @@
+TY  - JOUR
+AU  - Liu, Yi
+AU  - Zhang, Yang
+AU  - Wei, Huan
+AU  - Wang, Li
+AU  - Liao, Lishang
+PY  - 2025
+DA  - 2025/04/15
+TI  - Exploring the molecular mechanisms of subarachnoid hemorrhage and potential therapeutic targets: insights from bioinformatics and drug prediction
+JO  - Scientific Reports
+SP  - 12861
+VL  - 15
+IS  - 1
+AB  - Subarachnoid hemorrhage (SAH) is a fatal pathological condition in the central nervous system (CNS), characterized by severe clinical consequences. Its treatment remains a significant challenge, especially due to the incomplete understanding of its molecular mechanisms. In this study, we integrated comprehensive bioinformatics analyses with experimental validation to explore the potential pathogenic mechanisms and immune cell infiltration characteristics of SAH, aiming to identify novel diagnostic biomarkers and therapeutic targets. We selected relevant gene expression data from the gene expression omnibus (GEO) database and obtained a gene set associated with SAH from the GeneCards database. Through bioinformatics analysis, we constructed a protein-protein interaction (PPI) network and performed functional enrichment analysis using gene ontology (GO) and Kyoto encyclopedia of genes and genomes (KEGG) databases. The analysis revealed 11 key genes and indicated 3 main signaling pathways. Additionally, Drug target prediction and molecular docking analyses revealed that Isorhynchophylline (IRN) exhibits a strong binding affinity to these hub proteins. Importantly, Western blot (WB) experiments confirmed that IRN significantly downregulates the expression of CCL20, IL6, TLR4, and MMP9 in LPS-induced microglial cells, validating its anti-inflammatory effects. In conclusion, our findings not only elucidate the molecular mechanisms underlying SAH but also provide robust bioinformatics and experimental evidence supporting IRN as a promising therapeutic candidate, offering novel insights for future intervention strategies in SAH.
+SN  - 2045-2322
+UR  - https://doi.org/10.1038/s41598-025-97642-8
+DO  - 10.1038/s41598-025-97642-8
+ID  - Liu2025
+ER  - 

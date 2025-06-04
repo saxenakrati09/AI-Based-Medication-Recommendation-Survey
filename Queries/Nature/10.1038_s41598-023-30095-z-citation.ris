@@ -1,0 +1,20 @@
+TY  - JOUR
+AU  - Islam, Md Kamrul
+AU  - Amaya-Ramirez, Diego
+AU  - Maigret, Bernard
+AU  - Devignes, Marie-Dominique
+AU  - Aridhi, Sabeur
+AU  - Smaïl-Tabbone, Malika
+PY  - 2023
+DA  - 2023/03/04
+TI  - Molecular-evaluated and explainable drug repurposing for COVID-19 using ensemble knowledge graph embedding
+JO  - Scientific Reports
+SP  - 3643
+VL  - 13
+IS  - 1
+AB  - The search for an effective drug is still urgent for COVID-19 as no drug with proven clinical efficacy is available. Finding the new purpose of an approved or investigational drug, known as drug repurposing, has become increasingly popular in recent years. We propose here a new drug repurposing approach for COVID-19, based on knowledge graph (KG) embeddings. Our approach learns “ensemble embeddings” of entities and relations in a COVID-19 centric KG, in order to get a better latent representation of the graph elements. Ensemble KG-embeddings are subsequently used in a deep neural network trained for discovering potential drugs for COVID-19. Compared to related works, we retrieve more in-trial drugs among our top-ranked predictions, thus giving greater confidence in our prediction for out-of-trial drugs. For the first time to our knowledge, molecular docking is then used to evaluate the predictions obtained from drug repurposing using KG embedding. We show that Fosinopril is a potential ligand for the SARS-CoV-2 nsp13 target. We also provide explanations of our predictions thanks to rules extracted from the KG and instanciated by KG-derived explanatory paths. Molecular evaluation and explanatory paths bring reliability to our results and constitute new complementary and reusable methods for assessing KG-based drug repurposing.
+SN  - 2045-2322
+UR  - https://doi.org/10.1038/s41598-023-30095-z
+DO  - 10.1038/s41598-023-30095-z
+ID  - Islam2023
+ER  - 

@@ -1,0 +1,22 @@
+TY  - JOUR
+AU  - Zhu, Haoran
+AU  - Yang, Yuning
+AU  - Wang, Yunhe
+AU  - Wang, Fuzhou
+AU  - Huang, Yujian
+AU  - Chang, Yi
+AU  - Wong, Ka-chun
+AU  - Li, Xiangtao
+PY  - 2023
+DA  - 2023/10/26
+TI  - Dynamic characterization and interpretation for protein-RNA interactions across diverse cellular conditions using HDRNet
+JO  - Nature Communications
+SP  - 6824
+VL  - 14
+IS  - 1
+AB  - RNA-binding proteins play crucial roles in the regulation of gene expression, and understanding the interactions between RNAs and RBPs in distinct cellular conditions forms the basis for comprehending the underlying RNA function. However, current computational methods pose challenges to the cross-prediction of RNA-protein binding events across diverse cell lines and tissue contexts. Here, we develop HDRNet, an end-to-end deep learning-based framework to precisely predict dynamic RBP binding events under diverse cellular conditions. Our results demonstrate that HDRNet can accurately and efficiently identify binding sites, particularly for dynamic prediction, outperforming other state-of-the-art models on 261 linear RNA datasets from both eCLIP and CLIP-seq, supplemented with additional tissue data. Moreover, we conduct motif and interpretation analyses to provide fresh insights into the pathological mechanisms underlying RNA-RBP interactions from various perspectives. Our functional genomic analysis further explores the gene-human disease associations, uncovering previously uncharacterized observations for a broad range of genetic disorders.
+SN  - 2041-1723
+UR  - https://doi.org/10.1038/s41467-023-42547-1
+DO  - 10.1038/s41467-023-42547-1
+ID  - Zhu2023
+ER  - 

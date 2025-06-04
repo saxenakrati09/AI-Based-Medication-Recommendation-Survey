@@ -1,0 +1,19 @@
+TY  - JOUR
+AU  - Deng, Chao
+AU  - Xie, Chenjun
+AU  - Li, Zixi
+AU  - Mei, Jie
+AU  - Wang, Kewei
+PY  - 2025
+DA  - 2025/04/14
+TI  - Multi-omics analysis identifies diagnostic circulating biomarkers and potential therapeutic targets, revealing IQGAP1 as an oncogene in gastric cancer
+JO  - npj Precision Oncology
+SP  - 105
+VL  - 9
+IS  - 1
+AB  - This study employed a multi-omics integration approach to identify circulating biomarkers for gastric cancer (GC). We analyzed plasma and tumor tissue single-cell RNA sequencing data, along with gene and protein quantitative trait loci analyses. Leveraging data from UK Biobank and FinnGen, we investigated genetic associations with GC. Through colocalization, Mendelian Randomization, and various filtering analyses, we identified four genes (IQGAP1, KRTCAP2, PARP1, MLF2) and four proteins (EGFL9 [DLK2], ECM1, PDIA5, TIMP4) as potential GC biomarkers. These were selected based on significant genetic colocation probabilities and significant associations with GC. Seven of these biomarkers demonstrated predictive capability for GC occurrence, with AUC ranging from 0.61 to 0.99. Drug prediction analysis identified seven protein biomarkers as potential targets for immunotherapy, targeted therapies, and tumor chemotherapy. Further scRNA-seq analysis revealed significant expression differences between gastric tumor and normal tissues, particularly the upregulation of IQGAP1, which highlights its role in tumor growth.
+SN  - 2397-768X
+UR  - https://doi.org/10.1038/s41698-025-00895-9
+DO  - 10.1038/s41698-025-00895-9
+ID  - Deng2025
+ER  - 

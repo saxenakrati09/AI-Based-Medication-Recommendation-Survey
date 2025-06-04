@@ -1,0 +1,24 @@
+TY  - JOUR
+AU  - Zhang, Yu
+AU  - Jia, Qiuye
+AU  - Li, Fangfang
+AU  - Luo, Xuan
+AU  - Wang, Zhiyuan
+AU  - Wang, Xiaofang
+AU  - Wang, Yanghao
+AU  - Zhang, Yinglin
+AU  - Li, Muye
+AU  - Bian, Li
+PY  - 2024
+DA  - 2024/03/30
+TI  - Identification of molecular subtypes and a prognostic signature based on m6A/m5C/m1A-related genes in lung adenocarcinoma
+JO  - Scientific Reports
+SP  - 7543
+VL  - 14
+IS  - 1
+AB  - Lung cancer, specifically the histological subtype lung adenocarcinoma (LUAD), has the highest global occurrence and fatality rate. Extensive research has indicated that RNA alterations encompassing m6A, m5C, and m1A contribute actively to tumorigenesis, drug resistance, and immunotherapy responses in LUAD. Nevertheless, the absence of a dependable predictive model based on m6A/m5C/m1A-associated genes hinders accurately predicting the prognosis of patients diagnosed with LUAD. In this study, we collected patient data from The Cancer Genome Atlas (TCGA) and identified genes related to m6A/m5C/m1A modifications using the GeneCards database. The “ConsensusClusterPlus” R package was used to produce molecular subtypes by utilizing genes relevant to m6A/m5C/m1A identified through differential expression and univariate Cox analyses. An independent prognostic factor was identified by constructing a prognostic signature comprising six genes (SNHG12, PABPC1, IGF2BP1, FOXM1, CBFA2T3, and CASC8). Poor overall survival and elevated expression of human leukocyte antigens and immune checkpoints were correlated with higher risk scores. We examined the associations between the sets of genes regulated by m6A/m5C/m1A and the risk model, as well as the immune cell infiltration, using algorithms such as ESTIMATE, CIBERSORT, TIMER, ssGSEA, and exclusion (TIDE). Moreover, we compared tumor stemness indices (TSIs) by considering the molecular subtypes related to m6A/m5C/m1A and risk signatures. Analyses were performed based on the risk signature, including stratification, somatic mutation analysis, nomogram construction, chemotherapeutic response prediction, and small-molecule drug prediction. In summary, we developed a prognostic signature consisting of six genes that have the potential for prognostication in patients with LUAD and the design of personalized treatments that could provide new versions of personalized management for these patients.
+SN  - 2045-2322
+UR  - https://doi.org/10.1038/s41598-024-57910-5
+DO  - 10.1038/s41598-024-57910-5
+ID  - Zhang2024
+ER  - 

@@ -1,0 +1,18 @@
+TY  - JOUR
+AU  - Wang, Feiqi
+AU  - Chen, Yun-Ti
+AU  - Yang, Jinn-Moon
+AU  - Akutsu, Tatsuya
+PY  - 2022
+DA  - 2022/01/07
+TI  - A novel graph convolutional neural network for predicting interaction sites on protein kinase inhibitors in phosphorylation
+JO  - Scientific Reports
+SP  - 229
+VL  - 12
+IS  - 1
+AB  - Protein kinase-inhibitor interactions are key to the phosphorylation of proteins involved in cell proliferation, differentiation, and apoptosis, which shows the importance of binding mechanism research and kinase inhibitor design. In this study, a novel machine learning module (i.e., the WL Box) was designed and assembled to the Prediction of Interaction Sites of Protein Kinase Inhibitors (PISPKI) model, which is a graph convolutional neural network (GCN) to predict the interaction sites of protein kinase inhibitors. The WL Box is a novel module based on the well-known Weisfeiler-Lehman algorithm, which assembles multiple switch weights to effectively compute graph features. The PISPKI model was evaluated by testing with shuffled datasets and ablation analysis using 11 kinase classes. The accuracy of the PISPKI model with the shuffled datasets varied from 83 to 86%, demonstrating superior performance compared to two baseline models. The effectiveness of the model was confirmed by testing with shuffled datasets. Furthermore, the performance of each component of the model was analyzed via the ablation study, which demonstrated that the WL Box module was critical. The code is available at https://github.com/feiqiwang/PISPKI.
+SN  - 2045-2322
+UR  - https://doi.org/10.1038/s41598-021-04230-7
+DO  - 10.1038/s41598-021-04230-7
+ID  - Wang2022
+ER  - 

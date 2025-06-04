@@ -1,0 +1,18 @@
+TY  - JOUR
+AU  - Connell, William
+AU  - Garcia, Kristle
+AU  - Goodarzi, Hani
+AU  - Keiser, Michael J.
+PY  - 2024
+DA  - 2024/09/15
+TI  - Learning chemical sensitivity reveals mechanisms of cellular response
+JO  - Communications Biology
+SP  - 1149
+VL  - 7
+IS  - 1
+AB  - Chemical probes interrogate disease mechanisms at the molecular level by linking genetic changes to observable traits. However, comprehensive chemical screens in diverse biological models are impractical. To address this challenge, we develop ChemProbe, a model that predicts cellular sensitivity to hundreds of molecular probes and drugs by learning to combine transcriptomes and chemical structures. Using ChemProbe, we infer the chemical sensitivity of cancer cell lines and tumor samples and analyze how the model makes predictions. We retrospectively evaluate drug response predictions for precision breast cancer treatment and prospectively validate chemical sensitivity predictions in new cellular models, including a genetically modified cell line. Our model interpretation analysis identifies transcriptome features reflecting compound targets and protein network modules, identifying genes that drive ferroptosis. ChemProbe is an interpretable in silico screening tool that allows researchers to measure cellular response to diverse compounds, facilitating research into molecular mechanisms of chemical sensitivity.
+SN  - 2399-3642
+UR  - https://doi.org/10.1038/s42003-024-06865-4
+DO  - 10.1038/s42003-024-06865-4
+ID  - Connell2024
+ER  - 

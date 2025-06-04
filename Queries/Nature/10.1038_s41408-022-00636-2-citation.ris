@@ -1,0 +1,23 @@
+TY  - JOUR
+AU  - Kumar, Harish
+AU  - Mazumder, Suman
+AU  - Chakravarti, Sayak
+AU  - Sharma, Neeraj
+AU  - Mukherjee, Ujjal Kumar
+AU  - Kumar, Shaji
+AU  - Baughn, Linda B.
+AU  - Van Ness, Brian G.
+AU  - Mitra, Amit Kumar
+PY  - 2022
+DA  - 2022/03/09
+TI  - secDrug: a pipeline to discover novel drug combinations to kill drug-resistant multiple myeloma cells using a greedy set cover algorithm and single-cell multi-omics
+JO  - Blood Cancer Journal
+SP  - 39
+VL  - 12
+IS  - 3
+AB  - Multiple myeloma, the second-most common hematopoietic malignancy in the United States, still remains an incurable disease with dose-limiting toxicities and resistance to primary drugs like proteasome inhibitors (PIs) and Immunomodulatory drugs (IMiDs).
+SN  - 2044-5385
+UR  - https://doi.org/10.1038/s41408-022-00636-2
+DO  - 10.1038/s41408-022-00636-2
+ID  - Kumar2022
+ER  - 

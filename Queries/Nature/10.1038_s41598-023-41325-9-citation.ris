@@ -1,0 +1,24 @@
+TY  - JOUR
+AU  - Shahab, Muhammad
+AU  - Al-Madhagi, Haitham
+AU  - Zheng, Guojun
+AU  - Zeb, Amir
+AU  - Alasmari, Abdullah Fayez
+AU  - Alharbi, Metab
+AU  - Alasmari, Fawaz
+AU  - Khan, Muhammad Qayash
+AU  - Khan, Momin
+AU  - Wadood, Abdul
+PY  - 2023
+DA  - 2023/09/02
+TI  - Structure based virtual screening and molecular simulation study of FDA-approved drugs to inhibit human HDAC6 and VISTA as dual cancer immunotherapy
+JO  - Scientific Reports
+SP  - 14466
+VL  - 13
+IS  - 1
+AB  - Cancer immunotherapy has significantly contributed to the treatment of various types of cancers mainly by targeting immune checkpoint inhibitors (ICI). Among them, V-domain immunoglobulin suppressor of T cell activation (VISTA) has been explored as a promising therapeutic target. Besides, histone deacetylase 6 (HDAC6) has been demonstrated to be efficacious target for several cancers. The current theoretical work was performed to explore the virtual repurposing of the FDA-approved drugs as inhibitors against these two (VISTA and HDAC6) cancers therapeutic targets. The crystal structure of the two proteins were downloaded from PDB and subjected to virtual screening by DrugRep webserver while using FDA-approved drugs library as ligands database. Our study revealed that Oxymorphone and Bexarotene are the top-ranked inhibitors of VISTA and HDAC6, respectively. The docking score of Bexarotene was predicted as − 10 kcal/mol while the docking score of Oxymorphone was predicted as − 6.2 kcal/mol. Furthermore, a total of 100 ns MD simulation revealed that the two drugs Oxymorphone and Bexarotene formed stable complexes with VISTA and HDAC6 drug targets. As compared to the standard drug the two drugs Oxymorphone and Bexarotene revealed great stability during the whole 100 ns MD simulation. The binding free energy calculation further supported the Root Mean Square Deviation (RMSD) result which stated that as compared to the ref/HDAC6 (− 18.0253 ± 2.6218) the binding free energy score of the Bexarotene/HDAC6 was good (− 51.9698 ± 3.1572 kcal/mol). The binding free energy score of Oxymorphone/VISTA and Ref/VISTA were calculated as − 36.8323 ± 3.4565, and − 21.5611 ± 4.8581 respectively. In conclusion, the two drugs deserve further consideration as cancer treatment option.
+SN  - 2045-2322
+UR  - https://doi.org/10.1038/s41598-023-41325-9
+DO  - 10.1038/s41598-023-41325-9
+ID  - Shahab2023
+ER  - 

@@ -1,0 +1,21 @@
+TY  - JOUR
+AU  - Wang, Yaojun
+AU  - Ding, Ming
+AU  - Chi, Jiaoni
+AU  - Wang, Tao
+AU  - Zhang, Yue
+AU  - Li, Zhimin
+AU  - Li, Qiang
+PY  - 2023
+DA  - 2023/03/08
+TI  - Based on network pharmacology and bioinformatics to analyze the mechanism of action of Astragalus membranaceus in the treatment of vitiligo and COVID-19
+JO  - Scientific Reports
+SP  - 3884
+VL  - 13
+IS  - 1
+AB  - Coronavirus disease 2019 (COVID-19) is spreading rapidly around the world. However, the treatment of vitiligo combined with COVID-19 has not been reported. Astragalus membranaceus (AM) has a therapeutic effect on patients with vitiligo and COVID-19. This study aims to discover its possible therapeutic mechanisms and provide potential drug targets. Using the Chinese Medicine System Pharmacological Database (TCMSP), GEO database and Genecards websites and other databases, AM target, vitiligo disease target, and COVID-19 related gene set were established. Then find the crossover genes by taking the intersection. Then use GO, KEGG enrichment analysis, and PPI network to discover its underlying mechanism. Finally, by importing drugs, active ingredients, crossover genes, and enriched signal pathways into Cytoscape software, a “drug-active ingredient-target signal pathway-” network is constructed. TCMSP screened and obtained 33 active ingredients including baicalein (MOL002714), NEOBAICALEIN (MOL002934), Skullcapflavone II (MOL002927), and wogonin (MOL000173), which acted on 448 potential targets. 1166 differentially expressed genes for vitiligo were screened by GEO. CIVID-19 related genes were screened by Genecards. Then by taking the intersection, a total of 10 crossover genes (PTGS2, CDK1, STAT1, BCL2L1, SCARB1, HIF1A, NAE1, PLA2G4A, HSP90AA1, and HSP90B1) were obtained. KEGG analysis found that it was mainly enriched in signaling pathways such as IL-17 signaling pathway, Th17 cell differentiation, Necroptosis, NOD-like receptor signaling pathway. Five core targets (PTGS2, STAT1, BCL2L1, HIF1A, and HSP90AA1) were obtained by analyzing the PPI network. The network of "active ingredients-crossover genes" was constructed by Cytoscape, and the 5 main active ingredients acting on the 5 core crossover genes acacetin, wogonin, baicalein, bis2S)-2-ethylhexyl) benzene-1,2-dicarboxylate and 5,2′-Dihydroxy-6,7,8-trimethoxyflavone. The core crossover genes obtained by PPI and the core crossover genes obtained by the "active ingredient-crossover gene" network are intersected to obtain the three most important core genes (PTGS2, STAT1, HSP90AA1). AM may act on PTGS2, STAT1, HSP90AA1, etc. through active components such as acacetin, wogonin, baicalein, bis2S)-2-ethylhexyl) benzene-1,2-dicarboxylate and 5,2′-Dihydroxy-6,7,8-trimethoxyflavone to activate IL-17 signaling pathway, Th17 cell differentiation, Necroptosis, NOD-like receptor signaling pathway, Kaposi sarcoma-associated herpesvirus infection, and VEGF signaling pathway and other signaling pathways to achieve the effect of treating vitiligo and COVID-19.
+SN  - 2045-2322
+UR  - https://doi.org/10.1038/s41598-023-29207-6
+DO  - 10.1038/s41598-023-29207-6
+ID  - Wang2023
+ER  - 

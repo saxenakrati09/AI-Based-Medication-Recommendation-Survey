@@ -1,0 +1,26 @@
+TY  - JOUR
+AU  - Gerdes, Henry
+AU  - Casado, Pedro
+AU  - Dokal, Arran
+AU  - Hijazi, Maruan
+AU  - Akhtar, Nosheen
+AU  - Osuntola, Ruth
+AU  - Rajeeve, Vinothini
+AU  - Fitzgibbon, Jude
+AU  - Travers, Jon
+AU  - Britton, David
+AU  - Khorsandi, Shirin
+AU  - Cutillas, Pedro R.
+PY  - 2021
+DA  - 2021/03/25
+TI  - Drug ranking using machine learning systematically predicts the efficacy of anti-cancer drugs
+JO  - Nature Communications
+SP  - 1850
+VL  - 12
+IS  - 1
+AB  - Artificial intelligence and machine learning (ML) promise to transform cancer therapies by accurately predicting the most appropriate therapies to treat individual patients. Here, we present an approach, named Drug Ranking Using ML (DRUML), which uses omics data to produce ordered lists of >400 drugs based on their anti-proliferative efficacy in cancer cells. To reduce noise and increase predictive robustness, instead of individual features, DRUML uses internally normalized distance metrics of drug response as features for ML model generation. DRUML is trained using in-house proteomics and phosphoproteomics data derived from 48 cell lines, and it is verified with data comprised of 53 cellular models from 12 independent laboratories. We show that DRUML predicts drug responses in independent verification datasets with low error (mean squared error < 0.1 and mean Spearman’s rank 0.7). In addition, we demonstrate that DRUML predictions of cytarabine sensitivity in clinical leukemia samples are prognostic of patient survival (Log rank p < 0.005). Our results indicate that DRUML accurately ranks anti-cancer drugs by their efficacy across a wide range of pathologies.
+SN  - 2041-1723
+UR  - https://doi.org/10.1038/s41467-021-22170-8
+DO  - 10.1038/s41467-021-22170-8
+ID  - Gerdes2021
+ER  - 

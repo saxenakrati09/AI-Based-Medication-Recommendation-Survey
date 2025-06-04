@@ -1,0 +1,21 @@
+TY  - JOUR
+AU  - Pei, Jixiang
+AU  - Feng, Luxin
+AU  - Mu, Qiang
+AU  - Wang, Qitang
+AU  - Wu, Ziying
+AU  - Wang, Zhimei
+AU  - Liu, Yukun
+PY  - 2024
+DA  - 2024/12/03
+TI  - Exploring an novel diagnostic gene of trastuzumab-induced cardiotoxicity based on bioinformatics and machine learning
+JO  - Scientific Reports
+SP  - 30067
+VL  - 14
+IS  - 1
+AB  - Trastuzumab (Tra)-induced cardiotoxicity (TIC) is a serious side effect of cancer chemotherapy, which can seriously harm the health of cancer patients. However, there is currently a lack of effective and reliable biomarkers for the early diagnosis of TIC in clinical practice. Therefore, we screened the TIC candidate diagnostic gene solute carrier family 6 member 6 (SLC6A6) by combining multi-machine learning algorithm based on bioinformatics. In addition, cross-validation showed that SLC6A6 had a consistent expression trend in multi-data-sets. To further explore the diagnostic capability of SLC6A6 in TIC, we constructed a nomogram diagnostic model based on SLC6A6 expression level, and receiver operating characteristic (ROC) curve, calibration curve and decision curve analysis proved that SLC6A6 had good diagnostic capability. In order to further verify the TIC expression of SLC6A6 in the real world, we have constructed cell and animal models. Animal experiments showed that left ventricular ejection fraction (LVEF) was significantly decreased (from 65.01 ± 3.30% and 351.32 ± 3.51%, p < 0.0001) after Tra injection, and severe cardiac function was impaired. Similarly, RT-QPCR demonstrated that SLC6A6 was significantly downregulated in Tra-treated cardiomyocytes in vitro and in vivo. Our study suggests that the differential expression of SLC6A6 in vitro and in vivo models is associated with TIC, which may be a candidate diagnostic gene for the early occurrence and development of TIC and a potential therapeutic target.
+SN  - 2045-2322
+UR  - https://doi.org/10.1038/s41598-024-81335-9
+DO  - 10.1038/s41598-024-81335-9
+ID  - Pei2024
+ER  - 

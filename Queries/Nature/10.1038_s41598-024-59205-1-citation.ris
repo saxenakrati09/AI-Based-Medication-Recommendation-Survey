@@ -1,0 +1,18 @@
+TY  - JOUR
+AU  - Xiao, Shuai
+AU  - Han, Xiao
+AU  - Bai, Shuhui
+AU  - Chen, Rui
+PY  - 2024
+DA  - 2024/04/15
+TI  - Analysis of immune cell infiltration characteristics in severe acute pancreatitis through integrated bioinformatics
+JO  - Scientific Reports
+SP  - 8711
+VL  - 14
+IS  - 1
+AB  - The etiopathogenesis of severe acute pancreatitis (SAP) remains poorly understood. We aim to investigate the role of immune cells Infiltration Characteristics during SAP progression. Gene expression profiles of the GSE194331 dataset were retrieved from the GEO. Lasso regression and random forest algorithms were employed to select feature genes from genes related to SAP progression and immune responses. CIBERSORT was utilized to estimate differences in immune cell types and proportions and the relationship between immune cells and gene expression. We performed pathway enrichment analysis using GSEA to examine disparities in KEGG signaling pathways when comparing the two groups. Additionally, CMap analysis was executed to identify prospective small molecular compounds. The three hub genes (CBLB, JADE2, RNF144A) were identified that can predict SAP progression. Analysis of CIBERSORT and TISIDB databases has shown that there are significant differences in immune cell expression levels between the normal and SAP groups, and three hub genes (CBLB, JADE2, RNF144A) were highly correlated with multiple immune cells, regulating the characteristics of immune cell infiltration in the microenvironment. Finally, drug prediction through the Connectivity Map database suggested that compounds such as Entecavir, KU-0063794, Y-27632, and Antipyrine have certain effects as potential targeted drugs for the treatment of SAP. CBLB, JADE2, and RNF144A are hub genes in SAP, potentially playing important roles in SAP progression. This finding further broadens the understanding of the etiopathogenesis of SAP and provides a feasible basis for future research on diagnostic and immunotherapeutic targets for SAP.
+SN  - 2045-2322
+UR  - https://doi.org/10.1038/s41598-024-59205-1
+DO  - 10.1038/s41598-024-59205-1
+ID  - Xiao2024
+ER  - 

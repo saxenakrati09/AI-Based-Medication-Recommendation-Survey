@@ -1,0 +1,25 @@
+TY  - JOUR
+AU  - Kwon, Ok-Seon
+AU  - Lee, Haeseung
+AU  - Kong, Hyeon-Joon
+AU  - Kwon, Eun-Ji
+AU  - Park, Ji Eun
+AU  - Lee, Wooin
+AU  - Kang, Seungmin
+AU  - Kim, Mirang
+AU  - Kim, Wankyu
+AU  - Cha, Hyuk-Jin
+PY  - 2020
+DA  - 2020/06/01
+TI  - Connectivity map-based drug repositioning of bortezomib to reverse the metastatic effect of GALNT14 in lung cancer
+JO  - Oncogene
+SP  - 4567
+EP  - 4580
+VL  - 39
+IS  - 23
+AB  - Despite the continual discovery of promising new cancer targets, drug discovery is often hampered by the poor druggability of these targets. As such, repurposing FDA-approved drugs based on cancer signatures is a useful alternative to cancer precision medicine. Here, we adopted an in silico approach based on large-scale gene expression signatures to identify drug candidates for lung cancer metastasis. Our clinicogenomic analysis identified GALNT14 as a putative driver of lung cancer metastasis, leading to poor survival. To overcome the poor druggability of GALNT14 in the control of metastasis, we utilized the Connectivity Map and identified bortezomib (BTZ) as a potent metastatic inhibitor, bypassing the direct inhibition of the enzymatic activity of GALNT14. The antimetastatic effect of BTZ was verified both in vitro and in vivo. Notably, both BTZ treatment and GALNT14 knockdown attenuated TGFβ-mediated gene expression and suppressed TGFβ-dependent metastatic genes. These results demonstrate that our in silico approach is a viable strategy for the use of undruggable targets in cancer therapies and for revealing the underlying mechanisms of these targets.
+SN  - 1476-5594
+UR  - https://doi.org/10.1038/s41388-020-1316-2
+DO  - 10.1038/s41388-020-1316-2
+ID  - Kwon2020
+ER  - 

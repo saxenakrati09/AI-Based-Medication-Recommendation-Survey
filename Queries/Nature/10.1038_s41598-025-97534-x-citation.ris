@@ -1,0 +1,28 @@
+TY  - JOUR
+AU  - Chen, Jia-lin
+AU  - Xiao, Di
+AU  - Liu, Yi-jiang
+AU  - Wang, Zhan
+AU  - Chen, Zhi-huang
+AU  - Li, Rui
+AU  - Li, Li
+AU  - He, Rong-hai
+AU  - Jiang, Shu-yan
+AU  - Chen, Xin
+AU  - Xu, Lin-xi
+AU  - Lu, Feng-chun
+AU  - Wang, Jia-mao
+AU  - Shan, Zhong-gui
+PY  - 2025
+DA  - 2025/04/29
+TI  - Protein interactions, network pharmacology, and machine learning work together to predict genes linked to mitochondrial dysfunction in hypertrophic cardiomyopathy
+JO  - Scientific Reports
+SP  - 15017
+VL  - 15
+IS  - 1
+AB  - This study looked at possible targets for hypertrophic cardiomyopathy (HCM), a condition marked by thickening of the ventricular wall, primarily in the left ventricle. We employed differential gene analysis and weighted gene co-expression network analysis (WGCNA) on samples. We then carried out an enrichment analysis. We also investigated the process of immunological infiltration. We employed six machine learning techniques and two protein–protein interaction (PPI) network gene selection approaches to search for the most characteristic gene (MCG). In the validation ladder, we verified the expression of MCG. Furthermore, we examined the MCG expression levels in HCM animal and cell models. Finally, we performed molecular docking and predicted potential medications for HCM treatment. 7975 differentially expressed genes (DEGs) were found in our study. We also identified 236 genes in the blue module using WGCNA. Screening at the transcriptome and protein levels was used to mine MCG. The final result screened CCAAT/Enhancer Binding Protein Delta (CEBPD) as MCG. We confirmed that MCG expression matched the outcomes of the experimental ladder. The level of CEBPD mRNA and protein was lowered in HCM animal and cellular models. Given that Abt-751 had the highest binding affinity to CEBPD, it might be a projected targeted medication. We found a new target gene for HCM called CEBPD, which is probably going to function by mitochondrial dysfunction. An innovative aim for the management or avoidance of HCM is offered by this analysis. Abt-751 may be a predicted targeted drug for HCM that had the greatest binding affinity with CEBPD.
+SN  - 2045-2322
+UR  - https://doi.org/10.1038/s41598-025-97534-x
+DO  - 10.1038/s41598-025-97534-x
+ID  - Chen2025
+ER  - 

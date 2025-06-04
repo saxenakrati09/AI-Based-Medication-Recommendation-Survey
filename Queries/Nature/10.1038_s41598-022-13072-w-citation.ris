@@ -1,0 +1,26 @@
+TY  - JOUR
+AU  - Agarwal, Khushbu
+AU  - Choudhury, Sutanay
+AU  - Tipirneni, Sindhu
+AU  - Mukherjee, Pritam
+AU  - Ham, Colby
+AU  - Tamang, Suzanne
+AU  - Baker, Matthew
+AU  - Tang, Siyi
+AU  - Kocaman, Veysel
+AU  - Gevaert, Olivier
+AU  - Rallo, Robert
+AU  - Reddy, Chandan K.
+PY  - 2022
+DA  - 2022/06/24
+TI  - Preparing for the next pandemic via transfer learning from existing diseases with hierarchical multi-modal BERT: a study on COVID-19 outcome prediction
+JO  - Scientific Reports
+SP  - 10748
+VL  - 12
+IS  - 1
+AB  - Developing prediction models for emerging infectious diseases from relatively small numbers of cases is a critical need for improving pandemic preparedness. Using COVID-19 as an exemplar, we propose a transfer learning methodology for developing predictive models from multi-modal electronic healthcare records by leveraging information from more prevalent diseases with shared clinical characteristics. Our novel hierarchical, multi-modal model ($${\textsc {TransMED}}$$) integrates baseline risk factors from the natural language processing of clinical notes at admission, time-series measurements of biomarkers obtained from laboratory tests, and discrete diagnostic, procedure and drug codes. We demonstrate the alignment of $${\textsc {TransMED}}$$’s predictions with well-established clinical knowledge about COVID-19 through univariate and multivariate risk factor driven sub-cohort analysis. $${\textsc {TransMED}}$$’s superior performance over state-of-the-art methods shows that leveraging patient data across modalities and transferring prior knowledge from similar disorders is critical for accurate prediction of patient outcomes, and this approach may serve as an important tool in the early response to future pandemics.
+SN  - 2045-2322
+UR  - https://doi.org/10.1038/s41598-022-13072-w
+DO  - 10.1038/s41598-022-13072-w
+ID  - Agarwal2022
+ER  - 

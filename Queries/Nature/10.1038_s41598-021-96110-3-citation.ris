@@ -1,0 +1,18 @@
+TY  - JOUR
+AU  - Hasan, Md Zobaer
+AU  - Islam, Syful
+AU  - Matsumoto, Kenichi
+AU  - Kawai, Taro
+PY  - 2021
+DA  - 2021/08/19
+TI  - SARS-CoV-2 infection initiates interleukin-17-enriched transcriptional response in different cells from multiple organs
+JO  - Scientific Reports
+SP  - 16814
+VL  - 11
+IS  - 1
+AB  - Severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) infection has emerged as a pandemic. Paucity of information concerning the virus and therapeutic interventions have made SARS-CoV-2 infection a genuine threat to global public health. Therefore, there is a growing need for understanding the molecular mechanism of SARS-CoV-2 infection at cellular level. To address this, we undertook a systems biology approach by analyzing publicly available RNA-seq datasets of SARS-CoV-2 infection of different cells and compared with other lung pathogenic infections. Our study identified several key genes and pathways uniquely associated with SARS-CoV-2 infection. Genes such as interleukin (IL)-6, CXCL8, CCL20, CXCL1 and CXCL3 were upregulated, which in particular regulate the cytokine storm and IL-17 signaling pathway. Of note, SARS-CoV-2 infection strongly activated IL-17 signaling pathway compared with other respiratory viruses. Additionally, this transcriptomic signature was also analyzed to predict potential drug repurposing and small molecule inhibitors. In conclusion, our comprehensive data analysis identifies key molecular pathways to reveal underlying pathological etiology and potential therapeutic targets in SARS-CoV-2 infection.
+SN  - 2045-2322
+UR  - https://doi.org/10.1038/s41598-021-96110-3
+DO  - 10.1038/s41598-021-96110-3
+ID  - Hasan2021
+ER  - 

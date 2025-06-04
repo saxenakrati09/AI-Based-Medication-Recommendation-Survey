@@ -1,0 +1,17 @@
+TY  - JOUR
+AU  - Oh, Minjae
+AU  - Kim, Hongbum
+AU  - Lee, Hyo Kyung
+PY  - 2024
+DA  - 2024/10/23
+TI  - Medication recommendation for Parkinson’s disease based on dynamics of symptom progression
+JO  - Scientific Reports
+SP  - 25051
+VL  - 14
+IS  - 1
+AB  - Parkinson’s Disease (PD) is a chronic condition, with extensive research on initial medication selection for treatment, but limited guidance on long-term medication management. This study aims to identify optimal medication adjustment strategies based on patient clusters, focusing on either maximizing time spent in favorable health states or minimizing time spent in unfavorable ones while avoiding adverse effects. To guide treatment, we developed decision models using prescription dosages converted into standardized units for various medications. Using data from the Parkinson’s Progression Markers Initiative, we employed a multivariate time-series clustering approach to capture symptom progression dynamics. This analysis identified four distinct clusters: two representing desirable and undesirable states, and two highlighting motor-focused and non-motor-focused failures across multiple domains. We developed two separate Markov Decision Process (MDP) models to address these dual objectives, which were then integrated into a comprehensive framework that suggests optimal actions and cautions against risky ones for each patient state. This model provides valuable insights for clinical decision-making by offering flexible guidance on adjusting medication intensity rather than prescribing specific medication types, enhancing its applicability in clinical practice.
+SN  - 2045-2322
+UR  - https://doi.org/10.1038/s41598-024-76941-6
+DO  - 10.1038/s41598-024-76941-6
+ID  - Oh2024
+ER  - 

@@ -1,0 +1,28 @@
+TY  - JOUR
+AU  - Bintener, Tamara
+AU  - Pacheco, Maria Pires
+AU  - Philippidou, Demetra
+AU  - Margue, Christiane
+AU  - Kishk, Ali
+AU  - Del Mistro, Greta
+AU  - Di Leo, Luca
+AU  - Moscardó Garcia, Maria
+AU  - Halder, Rashi
+AU  - Sinkkonen, Lasse
+AU  - De Zio, Daniela
+AU  - Kreis, Stephanie
+AU  - Kulms, Dagmar
+AU  - Sauter, Thomas
+PY  - 2023
+DA  - 2023/07/26
+TI  - Metabolic modelling-based in silico drug target prediction identifies six novel repurposable drugs for melanoma
+JO  - Cell Death & Disease
+SP  - 468
+VL  - 14
+IS  - 7
+AB  - Despite high initial response rates to targeted kinase inhibitors, the majority of patients suffering from metastatic melanoma present with high relapse rates, demanding for alternative therapeutic options. We have previously developed a drug repurposing workflow to identify metabolic drug targets that, if depleted, inhibit the growth of cancer cells without harming healthy tissues. In the current study, we have applied a refined version of the workflow to specifically predict both, common essential genes across various cancer types, and melanoma-specific essential genes that could potentially be used as drug targets for melanoma treatment. The in silico single gene deletion step was adapted to simulate the knock-out of all targets of a drug on an objective function such as growth or energy balance. Based on publicly available, and in-house, large-scale transcriptomic data metabolic models for melanoma were reconstructed enabling the prediction of 28 candidate drugs and estimating their respective efficacy. Twelve highly efficacious drugs with low half-maximal inhibitory concentration values for the treatment of other cancers, which are not yet approved for melanoma treatment, were used for in vitro validation using melanoma cell lines. Combination of the top 4 out of 6 promising candidate drugs with BRAF or MEK inhibitors, partially showed synergistic growth inhibition compared to individual BRAF/MEK inhibition. Hence, the repurposing of drugs may enable an increase in therapeutic options e.g., for non-responders or upon acquired resistance to conventional melanoma treatments.
+SN  - 2041-4889
+UR  - https://doi.org/10.1038/s41419-023-05955-1
+DO  - 10.1038/s41419-023-05955-1
+ID  - Bintener2023
+ER  - 

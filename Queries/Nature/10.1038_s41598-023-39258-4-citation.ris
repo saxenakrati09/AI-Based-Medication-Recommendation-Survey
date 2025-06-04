@@ -1,0 +1,19 @@
+TY  - JOUR
+AU  - Tang, Lan
+AU  - Li, Bin
+AU  - Su, Qiuming
+AU  - Chen, Xi
+AU  - He, Rongxin
+PY  - 2023
+DA  - 2023/07/24
+TI  - Identification of hub genes and therapeutic drugs in osteonecrosis of the femoral head through integrated bioinformatics analysis and literature mining
+JO  - Scientific Reports
+SP  - 11972
+VL  - 13
+IS  - 1
+AB  - Osteonecrosis of the femoral head (ONFH) is a multifactorial disease leading to severely limited function. By far, the etiology and pathogenesis of ONFH are not fully understood, and surgery is the only effective way to treat ONFH. This study aims to identify hub genes and therapeutic drugs in ONFH. Two gene expression profiles were downloaded from the gene expression omnibus database, and the hub genes and candidate drugs for ONFH were identified through integrated bioinformatics analysis and cross-validated by literature mining. A total of 159 DEGs were identified. PTGS2, LRRK2, ANXA5, IGF1R, MCL1, TIMP2, LYN, CD68, CBL, and RUNX2 were validated as 10 hub genes, which has considerable implications for future genetic research and related research fields of ONFH. Our findings indicate that 85 drugs interact with ONFH, with most drugs exhibiting a positive impact on ONFH by promoting osteogenesis and angiogenesis or inhibiting microcirculation embolism, rather than being anti-inflammatory. Our study provides novel insights into the pathogenesis, prevention, and treatment of ONFH.
+SN  - 2045-2322
+UR  - https://doi.org/10.1038/s41598-023-39258-4
+DO  - 10.1038/s41598-023-39258-4
+ID  - Tang2023
+ER  - 

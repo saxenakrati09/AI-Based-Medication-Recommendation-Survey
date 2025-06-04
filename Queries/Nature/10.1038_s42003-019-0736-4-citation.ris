@@ -1,0 +1,23 @@
+TY  - JOUR
+AU  - Dong, Xiaobao
+AU  - Huang, Dandan
+AU  - Yi, Xianfu
+AU  - Zhang, Shijie
+AU  - Wang, Zhao
+AU  - Yan, Bin
+AU  - Chung Sham, Pak
+AU  - Chen, Kexin
+AU  - Jun Li, Mulin
+PY  - 2020
+DA  - 2020/01/07
+TI  - Diversity spectrum analysis identifies mutation-specific effects of cancer driver genes
+JO  - Communications Biology
+SP  - 6
+VL  - 3
+IS  - 1
+AB  - Mutation-specific effects of cancer driver genes influence drug responses and the success of clinical trials. We reasoned that these effects could unbalance the distribution of each mutation across different cancer types, as a result, the cancer preference can be used to distinguish the effects of the causal mutation. Here, we developed a network-based framework to systematically measure cancer diversity for each driver mutation. We found that half of the driver genes harbor cancer type-specific and pancancer mutations simultaneously, suggesting that the pervasive functional heterogeneity of the mutations from even the same driver gene. We further demonstrated that the specificity of the mutations could influence patient drug responses. Moreover, we observed that diversity was generally increased in advanced tumors. Finally, we scanned potentially novel cancer driver genes based on the diversity spectrum. Diversity spectrum analysis provides a new approach to define driver mutations and optimize off-label clinical trials.
+SN  - 2399-3642
+UR  - https://doi.org/10.1038/s42003-019-0736-4
+DO  - 10.1038/s42003-019-0736-4
+ID  - Dong2020
+ER  - 

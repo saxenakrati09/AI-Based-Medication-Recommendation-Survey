@@ -1,0 +1,18 @@
+TY  - JOUR
+AU  - Zhang, Li
+AU  - Sun, ZhenPeng
+AU  - Yuan, Yao
+AU  - Sheng, Jie
+PY  - 2025
+DA  - 2025/05/15
+TI  - Integrating bioinformatics and machine learning to identify glomerular injury genes and predict drug targets in diabetic nephropathy
+JO  - Scientific Reports
+SP  - 16868
+VL  - 15
+IS  - 1
+AB  - Diabetes mellitus (DM) is a chronic metabolic disorder that poses significant challenges to public health. Among its various complications, diabetic nephropathy (DN) emerges as a critical microvascular complication associated with high mortality rates. Despite the development of diverse therapeutic strategies targeting metabolic improvement, hemodynamic regulation, and fibrosis mitigation, the precise mechanisms responsible for glomerular injury in DN are not yet fully elucidated. To explore these mechanisms, public DN datasets (GSE30528, GSE104948, and GSE96804) were obtained from the GEO database. We merged the GSE30528 and GSE104948 datasets to identify differentially expressed genes (DEGs) between DN and control groups using R software. Weighted gene co-expression network analysis (WGCNA) was subsequently employed to discern genes associated with DN in key modules. We utilized Venny software to pinpoint co-expressed genes shared between DEGs and key module genes. These co-expressed genes underwent gene ontology (GO) and Kyoto encyclopedia of genes and genomes (KEGG) enrichment analyses. Through LASSO, SVM, and RF methods, we isolated five significant genes: FN1, C1orf21, CD36, CD48, and SRPX2. These genes were further validated using a logistic model and 10-fold cross-validation. The external dataset GSE96804 served to validate the identified biomarkers, while receiver operating characteristic (ROC) curve analysis assessed their diagnostic efficacy for DN. Additionally, GSE104948 facilitated comparison of biomarker expression levels between DN and five other kidney diseases, highlighting their specificity for DN. These biomarkers also enabled the identification and validation of two molecular subtypes characterized by distinct immune profiles. The Nephroseq v5 database corroborated the correlation between biomarkers and clinical data. Furthermore, the GSigDB database was employed to predict protein-drug interactions, with molecular docking confirming the therapeutic potential of these drug targets. Finally, a diabetic mouse model (BKS-db) was constructed, and RT-qPCR experiments validated the reliability of the identified biomarkers. The study identified five biomarkers with robust diagnostic predictive power for DN. Subtype classification based on these biomarkers revealed distinct enrichment pathways and immune cell infiltration profiles, underscoring the close relationship between these genes and immune functions in DN. Drug prediction and molecular docking analyses demonstrated excellent binding affinities of candidate drugs to target proteins. Differential expression analysis between DN and five other kidney diseases indicated that all biomarkers, except C1orf21, were highly expressed in DN. Notably, as the mouse model lacks the C1orf21 gene, RT-qPCR confirmed the upregulated expression of FN1, CD36, CD48, and SRPX2. This study successfully identified five biomarkers with potential diagnostic and therapeutic value for DN. These biomarkers not only offer insights into the regulatory mechanisms underlying glomerular injury but also provide a theoretical foundation for the development of diagnostic biomarkers and therapeutic targets related to DN-associated glomerular injury.
+SN  - 2045-2322
+UR  - https://doi.org/10.1038/s41598-025-01628-5
+DO  - 10.1038/s41598-025-01628-5
+ID  - Zhang2025
+ER  - 

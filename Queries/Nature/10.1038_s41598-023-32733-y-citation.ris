@@ -1,0 +1,22 @@
+TY  - JOUR
+AU  - Zhang, Ben
+AU  - Zhang, Lixi
+AU  - Qi, Peng
+AU  - Pang, Renzhu
+AU  - Wang, Ziming
+AU  - Liu, Xuyao
+AU  - Shi, Qi
+AU  - Zhang, Qiang
+PY  - 2023
+DA  - 2023/04/10
+TI  - Potential role of LPAR5 gene in prognosis and immunity of thyroid papillary carcinoma and pan-cancer
+JO  - Scientific Reports
+SP  - 5850
+VL  - 13
+IS  - 1
+AB  - Papillary carcinomas account for the largest proportion of thyroid cancers, with papillary thyroid carcinoma (PTC) being prone to early lymph node metastasis. Some studies have confirmed that LPAR5 can promote the progression of PTC, but immune-related analyses of LPAR5 and PTC have not been widely discussed. This study aimed to determine the role of LPAR5 in PTC prognosis and immunity. We will further explore the role of LPAR5 in 33 different tumor types. Regarding PTC, we analyzed the effect of LPAR5 expression on overall survival (OS). Gene Ontology (GO) and Kyoto Encyclopedia of Genes and Genomes (KEGG) analyses were performed. Immune-related analyses of immune checkpoints (ICPs) and immune cell infiltration were also performed. For pan-cancer, R packages were used to analyze prognosis, tumor mutational burden (TMB), microsatellite instability (MSI), and immune cell infiltration. Analysis of tumor microenvironment (TME) and ICPs was performed using Sangerbox (http://vip.sangerbox.com/home.html). The TISIDB database (http://cis.hku.hk/TISIDB/index.php) was used to identify immune and molecular subtypes. LPAR5 expression is associated with PTC prognosis and immunity as well as various human tumors. LPAR5 may be a potential biomarker for multiple malignancies and may provide a new target for cancer immunotherapy.
+SN  - 2045-2322
+UR  - https://doi.org/10.1038/s41598-023-32733-y
+DO  - 10.1038/s41598-023-32733-y
+ID  - Zhang2023
+ER  - 

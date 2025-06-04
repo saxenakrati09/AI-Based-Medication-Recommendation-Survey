@@ -1,0 +1,20 @@
+TY  - JOUR
+AU  - Yu, Mucen
+AU  - Xu, Jielin
+AU  - Dutta, Ranjan
+AU  - Trapp, Bruce
+AU  - Pieper, Andrew A.
+AU  - Cheng, Feixiong
+PY  - 2024
+DA  - 2024/11/05
+TI  - Network medicine informed multiomics integration identifies drug targets and repurposable medicines for Amyotrophic Lateral Sclerosis
+JO  - npj Systems Biology and Applications
+SP  - 128
+VL  - 10
+IS  - 1
+AB  - Amyotrophic Lateral Sclerosis (ALS) is a devastating, immensely complex neurodegenerative disease by lack of effective treatments. We developed a network medicine methodology via integrating human brain multi-omics data to prioritize drug targets and repurposable treatments for ALS. We leveraged non-coding ALS loci effects from genome-wide associated studies (GWAS) on human brain expression quantitative trait loci (QTL) (eQTL), protein QTL (pQTL), splicing QTL (sQTL), methylation QTL (meQTL), and histone acetylation QTL (haQTL). Using a network-based deep learning framework, we identified 105 putative ALS-associated genes enriched in known ALS pathobiological pathways. Applying network proximity analysis of predicted ALS-associated genes and drug-target networks under the human protein-protein interactome (PPI) model, we identified potential repurposable drugs (i.e., Diazoxide and Gefitinib) for ALS. Subsequent validation established preclinical evidence for top-prioritized drugs. In summary, we presented a network-based multi-omics framework to identify drug targets and repurposable treatments for ALS and other neurodegenerative disease if broadly applied.
+SN  - 2056-7189
+UR  - https://doi.org/10.1038/s41540-024-00449-y
+DO  - 10.1038/s41540-024-00449-y
+ID  - Yu2024
+ER  - 

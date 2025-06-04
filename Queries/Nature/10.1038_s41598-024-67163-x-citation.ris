@@ -1,0 +1,18 @@
+TY  - JOUR
+AU  - Jiménez, Ana
+AU  - Merino, María José
+AU  - Parras, Juan
+AU  - Zazo, Santiago
+PY  - 2024
+DA  - 2024/07/18
+TI  - Explainable drug repurposing via path based knowledge graph completion
+JO  - Scientific Reports
+SP  - 16587
+VL  - 14
+IS  - 1
+AB  - Drug repurposing aims to find new therapeutic applications for existing drugs in the pharmaceutical market, leading to significant savings in time and cost. The use of artificial intelligence and knowledge graphs to propose repurposing candidates facilitates the process, as large amounts of data can be processed. However, it is important to pay attention to the explainability needed to validate the predictions. We propose a general architecture to understand several explainable methods for graph completion based on knowledge graphs and design our own architecture for drug repurposing. We present XG4Repo (eXplainable Graphs for Repurposing), a framework that takes advantage of the connectivity of any biomedical knowledge graph to link compounds to the diseases they can treat. Our method allows methapaths of different types and lengths, which are automatically generated and optimised based on data. XG4Repo focuses on providing meaningful explanations to the predictions, which are based on paths from compounds to diseases. These paths include nodes such as genes, pathways, side effects, or anatomies, so they provide information about the targets and other characteristics of the biomedical mechanism that link compounds and diseases. Paths make predictions interpretable for experts who can validate them and use them in further research on drug repurposing. We also describe three use cases where we analyse new uses for Epirubicin, Paclitaxel, and Predinisone and present the paths that support the predictions.
+SN  - 2045-2322
+UR  - https://doi.org/10.1038/s41598-024-67163-x
+DO  - 10.1038/s41598-024-67163-x
+ID  - Jiménez2024
+ER  - 

@@ -1,0 +1,17 @@
+TY  - JOUR
+AU  - Karampuri, Anush
+AU  - Jakkula, Bharath Kumar
+AU  - Perugu, Shyam
+PY  - 2024
+DA  - 2024/10/14
+TI  - ResisenseNet hybrid neural network model for predicting drug sensitivity and repurposing in breast Cancer
+JO  - Scientific Reports
+SP  - 23949
+VL  - 14
+IS  - 1
+AB  - Breast cancer remains a leading cause of mortality among women worldwide, with drug resistance driven by transcription factors and mutations posing significant challenges. To address this, we present ResisenseNet, a predictive model for drug sensitivity and resistance. ResisenseNet integrates transcription factor expression, genomic markers, drugs, and molecular descriptors, employing a hybrid architecture of 1D-CNN + LSTM and DNN to effectively learn long-range and temporal patterns from amino acid sequences and transcription factor data. The model demonstrated exceptional predictive accuracy, achieving a validation accuracy of 0.9794 and a loss value of 0.042. Comprehensive validation included comparisons with state-of-the-art models and ablation studies, confirming the robustness of the developed architecture. ResisenseNet has been applied to repurpose existing anticancer drugs across 14 different cancers, with a focus on breast cancer. Among the malignancies studied, drugs targeting Low-grade Glioma (LGG) and Lung Adenocarcinoma (LUAD) showed increased sensitivity to breast cancer as per ResisenseNet’s assessment. Further evaluation of the predicted sensitive drugs revealed that 14 had no prior history of anticancer activity against breast cancer. These drugs target key signaling pathways involved in breast cancer, presenting novel therapeutic opportunities. ResisenseNet addresses drug resistance by filtering ineffective compounds and enhancing chemotherapy for breast cancer. In vitro studies on sensitive drugs provide valuable insights into breast cancer prognosis, contributing to improved treatment strategies.
+SN  - 2045-2322
+UR  - https://doi.org/10.1038/s41598-024-71076-0
+DO  - 10.1038/s41598-024-71076-0
+ID  - Karampuri2024
+ER  - 

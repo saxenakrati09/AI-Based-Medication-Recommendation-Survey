@@ -1,0 +1,19 @@
+TY  - JOUR
+AU  - Liu, Yuanshui
+AU  - Li, Huamei
+AU  - Ouyang, Yanhong
+AU  - Zhang, Yan
+AU  - Pan, Pinhua
+PY  - 2023
+DA  - 2023/12/09
+TI  - Exploration of the role of oxidative stress-related genes in LPS-induced acute lung injury via bioinformatics and experimental studies
+JO  - Scientific Reports
+SP  - 21804
+VL  - 13
+IS  - 1
+AB  - During the progression of acute lung injury (ALI), oxidative stress and inflammatory responses always promote each other. The datasets analyzed in this research were acquired from the Gene Expression Omnibus (GEO) database. The Weighted Gene Co-expression Network Analysis (WGCNA) and limma package were used to obtain the ALI-related genes (ALIRGs) and differentially expressed genes (DEGs), respectively. In total, two biological markers (Gch1 and Tnfaip3) related to oxidative stress were identified by machine learning algorithms, Receiver Operator Characteristic (ROC), and differential expression analyses. The area under the curve (AUC) value of biological markers was greater than 0.9, indicating an excellent power to distinguish between ALI and control groups. Moreover, 15 differential immune cells were selected between the ALI and control samples, and they were correlated to biological markers. The transcription factor (TF)-microRNA (miRNA)-Target network was constructed to explore the potential regulatory mechanisms. Finally, based on the quantitative reverse transcription polymerase chain reaction (qRT-PCR), the expression of Gch1 and Tnfaip3 was significantly higher in ALI lung tissue than in healthy controls. In conclusion, the differences in expression profiles between ALI and normal controls were found, and two biological markers were identified, providing a research basis for further understanding the pathogenesis of ALI.
+SN  - 2045-2322
+UR  - https://doi.org/10.1038/s41598-023-49165-3
+DO  - 10.1038/s41598-023-49165-3
+ID  - Liu2023
+ER  - 

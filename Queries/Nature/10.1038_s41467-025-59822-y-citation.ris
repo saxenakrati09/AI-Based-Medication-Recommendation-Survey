@@ -1,0 +1,18 @@
+TY  - JOUR
+AU  - Liu, Tianyu
+AU  - Chu, Tinyi
+AU  - Luo, Xiao
+AU  - Zhao, Hongyu
+PY  - 2025
+DA  - 2025/05/15
+TI  - Building a unified model for drug synergy analysis powered by large language models
+JO  - Nature Communications
+SP  - 4537
+VL  - 16
+IS  - 1
+AB  - Drug synergy prediction is a challenging and important task in the treatment of complex diseases including cancer. In this manuscript, we present a unified Model, known as BAITSAO, for tasks related to drug synergy prediction with a unified pipeline to handle different datasets. We construct the training datasets for BAITSAO based on the context-enriched embeddings from Large Language Models for the initial representation of drugs and cell lines. After demonstrating the relevance of these embeddings, we pre-train BAITSAO with a large-scale drug synergy database under a multi-task learning framework with rigorous selections of tasks. We demonstrate the superiority of the model architecture and the pre-trained strategies of BAITSAO over other methods through comprehensive benchmark analysis. Moreover, we investigate the sensitivity of BAITSAO and illustrate its promising functions including drug discoveries, drug combinations-gene interaction, and multi-drug synergy predictions.
+SN  - 2041-1723
+UR  - https://doi.org/10.1038/s41467-025-59822-y
+DO  - 10.1038/s41467-025-59822-y
+ID  - Liu2025
+ER  - 

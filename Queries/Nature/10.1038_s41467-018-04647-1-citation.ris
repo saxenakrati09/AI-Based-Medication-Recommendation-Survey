@@ -1,0 +1,39 @@
+TY  - JOUR
+AU  - Lee, Joo Sang
+AU  - Das, Avinash
+AU  - Jerby-Arnon, Livnat
+AU  - Arafeh, Rand
+AU  - Auslander, Noam
+AU  - Davidson, Matthew
+AU  - McGarry, Lynn
+AU  - James, Daniel
+AU  - Amzallag, Arnaud
+AU  - Park, Seung Gu
+AU  - Cheng, Kuoyuan
+AU  - Robinson, Welles
+AU  - Atias, Dikla
+AU  - Stossel, Chani
+AU  - Buzhor, Ella
+AU  - Stein, Gidi
+AU  - Waterfall, Joshua J.
+AU  - Meltzer, Paul S.
+AU  - Golan, Talia
+AU  - Hannenhalli, Sridhar
+AU  - Gottlieb, Eyal
+AU  - Benes, Cyril H.
+AU  - Samuels, Yardena
+AU  - Shanks, Emma
+AU  - Ruppin, Eytan
+PY  - 2018
+DA  - 2018/06/29
+TI  - Harnessing synthetic lethality to predict the response to cancer treatment
+JO  - Nature Communications
+SP  - 2546
+VL  - 9
+IS  - 1
+AB  - While synthetic lethality (SL) holds promise in developing effective cancer therapies, SL candidates found via experimental screens often have limited translational value. Here we present a data-driven approach, ISLE (identification of clinically relevant synthetic lethality), that mines TCGA cohort to identify the most likely clinically relevant SL interactions (cSLi) from a given candidate set of lab-screened SLi. We first validate ISLE via a benchmark of large-scale drug response screens and by predicting drug efficacy in mouse xenograft models. We then experimentally test a select set of predicted cSLi via new screening experiments, validating their predicted context-specific sensitivity in hypoxic vs normoxic conditions and demonstrating cSLi’s utility in predicting synergistic drug combinations. We show that cSLi can successfully predict patients’ drug treatment response and provide patient stratification signatures. ISLE thus complements existing actionable mutation-based methods for precision cancer therapy, offering an opportunity to expand its scope to the whole genome.
+SN  - 2041-1723
+UR  - https://doi.org/10.1038/s41467-018-04647-1
+DO  - 10.1038/s41467-018-04647-1
+ID  - Lee2018
+ER  - 

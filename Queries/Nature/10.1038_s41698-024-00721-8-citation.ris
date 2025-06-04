@@ -1,0 +1,23 @@
+TY  - JOUR
+AU  - Li, Jinwei
+AU  - Long, Shengrong
+AU  - Zhang, Yang
+AU  - Wei, Wei
+AU  - Yu, Shuangqi
+AU  - Liu, Quan
+AU  - Hui, Xuhui
+AU  - Li, Xiang
+AU  - Wang, Yinyan
+PY  - 2024
+DA  - 2024/10/03
+TI  - Molecular mechanisms and diagnostic model of glioma-related epilepsy
+JO  - npj Precision Oncology
+SP  - 223
+VL  - 8
+IS  - 1
+AB  - Epilepsy is one of the most common symptoms in patients with gliomas; however, the mechanisms underlying its interaction are not yet clear. Moreover, epidemiological studies have not accurately identified patients with glioma-related epilepsy (GRE), and there is an urgent need to identify the molecular mechanisms and markers of its occurrence. We analyzed the demographics, transcriptome, whole-genome, and methylation sequences of 997 patients with glioma, to determine the genetic differences between glioma and GRE patients and to determine the upregulated molecular function, cellular composition, biological processes involved, signaling pathways, and immune cell infiltration. Twelve machine learning algorithms were refined into 113 combinatorial algorithms for building diagnostic recognition models. A total of 342 patients with GRE were identified with WHO grade 2 (174), grade 3 (107), and grade 4 (61). The mean age of the patients with GREs, with IDH mutations (n = 217 [63%]) and 1p19q non-codeletion (n = 169 [49%]), was 38 years old. GRE molecular functions were mainly passive transmembrane transporter protein activity, ion channel activity, and gated channel activity. Cellular components were enriched in the cation-channel and transmembrane transporter complexes. Cerebral cortical development regulates the membrane potential and synaptic organization as major biological processes. The signaling pathways mainly focused on cholinergic, GABAergic, and glutamatergic synapses. LASSO, combined with Random Forest, was the best diagnostic model and identified nine diagnostic genes. This study provides new insights and future perspectives for resolving the molecular mechanisms of GRE.
+SN  - 2397-768X
+UR  - https://doi.org/10.1038/s41698-024-00721-8
+DO  - 10.1038/s41698-024-00721-8
+ID  - Li2024
+ER  - 

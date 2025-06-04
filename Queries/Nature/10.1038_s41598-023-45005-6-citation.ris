@@ -1,0 +1,21 @@
+TY  - JOUR
+AU  - Zhang, Chi
+AU  - Xia, Jiangnan
+AU  - Liu, Xiujuan
+AU  - Li, Zexing
+AU  - Gao, Tangke
+AU  - Zhou, Tian
+AU  - Hu, Kaiwen
+PY  - 2023
+DA  - 2023/10/20
+TI  - Identifying prognostic genes related PANoptosis in lung adenocarcinoma and developing prediction model based on bioinformatics analysis
+JO  - Scientific Reports
+SP  - 17956
+VL  - 13
+IS  - 1
+AB  - Cell death-related genes indicate prognosis in cancer patients. PANoptosis is a newly observed form of cell death that researchers have linked to cancer cell death and antitumor immunity. Even so, its significance in lung adenocarcinomas (LUADs) has yet to be elucidated. We extracted and analyzed data on mRNA gene expression and clinical information from public databases in a systematic manner. These data were utilized to construct a reliable risk prediction model for six regulators of PANoptosis. The Gene Expression Omnibus (GEO) database validated six genes with risk characteristics. The prognosis of LUAD patients could be accurately estimated by the six-gene-based model: NLR family CARD domain-containing protein 4 (NLRC4), FAS-associated death domain protein (FADD), Tumor necrosis factor receptor type 1-associated DEATH domain protein (TRADD), Receptor-interacting serine/threonine-protein kinase 1 (RIPK1), Proline-serine-threonine phosphatase-interacting protein 2 (PSTPIP2), and Mixed lineage kinase domain-like protein (MLKL). Group of higher risk and Cluster 2 indicated a poor prognosis as well as the reduced expression of immune infiltrate molecules and human leukocyte antigen. Distinct expression of PANoptosis-related genes (PRGs) in lung cancer cells was verified using quantitative reverse transcription polymerase chain reaction (qRT-PCR). Furthermore, we evaluated the relationship between PRGs and somatic mutations, tumor immune dysfunction exclusion, tumor stemness indices, and immune infiltration. Using the risk signature, we conducted analyses including nomogram construction, stratification, prediction of small-molecule drug response, somatic mutations, and chemotherapeutic response.
+SN  - 2045-2322
+UR  - https://doi.org/10.1038/s41598-023-45005-6
+DO  - 10.1038/s41598-023-45005-6
+ID  - Zhang2023
+ER  - 

@@ -1,0 +1,20 @@
+TY  - JOUR
+AU  - Wang, Yonggang
+AU  - Li, Zhihao
+AU  - Xu, Xiaolong
+AU  - Li, Xin
+AU  - Huang, Rongxiang
+AU  - Wu, Guofeng
+PY  - 2024
+DA  - 2024/12/30
+TI  - Construction and validation of a senescence-related gene signature for early prediction and treatment of osteoarthritis based on bioinformatics analysis
+JO  - Scientific Reports
+SP  - 31862
+VL  - 14
+IS  - 1
+AB  - The aim of this study is to screen key target genes of osteoarthritis associated with aging and to preliminarily explore the associated immune infiltration cells and potential drugs. Differentially expressed senescence-related genes (DESRGs) selected from Cellular senescence-related genes (SRGs) and differentially expressed genes (DEGs) were analyzed using Gene Ontology enrichment, Kyoto Encyclopedia of Genes and Genomes (KEGG) pathways and protein–protein interaction networks. Hub genes in DESRGs were selected based on degree, and diagnostic genes were further screened by gene expression and receiver operating characteristic (ROC) curve. CIBERSORTx and ssGSEA algorithms were then used to assess immune cell infiltration and to analyse the correlation between key DESRGs and immune infiltration. Finally, a miRNA-gene network of diagnostic genes was constructed and targeted drug prediction was performed. Combined with the DEGs and SRGs, we screened 19 DESRGs for further study. Five diagnostic genes were ultimately identified: CDKN1A, VEGFA, MCL1, SNAI1 and MYC. ROC analysis showed that the area under the curve (AUC). Correlation analysis showed that the five hub genes were closely associated with neutrophil, plasmacytoid dendritic cell, activated CD4 T-cell and type 2 T-helper cell infiltration in the development of Osteoarthritis (OA). Finally, we found that drugs such as lithium chloride, acetaminophen, curcumin, celecoxib and resveratrol could be targeted for the treatment of senescence-related OA. The results of this study indicate that CDKN1A, VEGFA, MCL1, SNAI1, and MYC are key biomarkers that can be used to predict and prevent early aging-related OA. Lithium chloride, acetaminophen, curcumin, celecoxib, and resveratrol can be used for personalized treatment of aging-related OA.
+SN  - 2045-2322
+UR  - https://doi.org/10.1038/s41598-024-83268-9
+DO  - 10.1038/s41598-024-83268-9
+ID  - Wang2024
+ER  - 

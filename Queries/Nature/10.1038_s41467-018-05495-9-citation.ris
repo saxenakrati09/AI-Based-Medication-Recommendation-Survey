@@ -1,0 +1,21 @@
+TY  - JOUR
+AU  - Wang, Yue
+AU  - Wang, Zehua
+AU  - Xu, Jieni
+AU  - Li, Jiang
+AU  - Li, Song
+AU  - Zhang, Min
+AU  - Yang, Da
+PY  - 2018
+DA  - 2018/08/09
+TI  - Systematic identification of non-coding pharmacogenomic landscape in cancer
+JO  - Nature Communications
+SP  - 3192
+VL  - 9
+IS  - 1
+AB  - Emerging evidence has shown long non-coding RNAs (lncRNAs) play important roles in cancer drug response. Here we report a lncRNA pharmacogenomic landscape by integrating multi-dimensional genomic data of 1005 cancer cell lines and drug response data of 265 anti-cancer compounds. Using Elastic Net (EN) regression, our analysis identifies 27,341 lncRNA-drug predictive pairs. We validate the robustness of the lncRNA EN-models using two independent cancer pharmacogenomic datasets. By applying lncRNA EN-models of 49 FDA approved drugs to the 5605 tumor samples from 21 cancer types, we show that cancer cell line based lncRNA EN-models can predict therapeutic outcome in cancer patients. Further lncRNA-pathway co-expression analysis suggests lncRNAs may regulate drug response through drug-metabolism or drug-target pathways. Finally, we experimentally validate that EPIC1, the top predictive lncRNA for the Bromodomain and Extra-Terminal motif (BET) inhibitors, strongly promotes iBET762 and JQ-1 resistance through activating MYC transcriptional activity.
+SN  - 2041-1723
+UR  - https://doi.org/10.1038/s41467-018-05495-9
+DO  - 10.1038/s41467-018-05495-9
+ID  - Wang2018
+ER  - 

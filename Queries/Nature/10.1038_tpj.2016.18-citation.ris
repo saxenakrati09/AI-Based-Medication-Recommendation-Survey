@@ -1,0 +1,22 @@
+TY  - JOUR
+AU  - Ung, M H
+AU  - Sun, C-H
+AU  - Weng, C-W
+AU  - Huang, C-C
+AU  - Lin, C-C
+AU  - Liu, C-C
+AU  - Cheng, C.
+PY  - 2017
+DA  - 2017/07/01
+TI  - Integrated Drug Expression Analysis for leukemia: an integrated in silico and in vivo approach to drug discovery
+JO  - The Pharmacogenomics Journal
+SP  - 351
+EP  - 359
+VL  - 17
+IS  - 4
+AB  - Screening for drug compounds that exhibit therapeutic properties in the treatment of various diseases remains a challenge even after considerable advancements in biomedical research. Here, we introduce an integrated platform that exploits gene expression compendia generated from drug-treated cell lines and primary tumor tissue to identify therapeutic candidates that can be used in the treatment of acute myeloid leukemia (AML). Our framework combines these data with patient survival information to identify potential candidates that presumably have a significant impact on AML patient survival. We use a drug regulatory score (DRS) to measure the similarity between drug-induced cell line and patient tumor gene expression profiles, and show that these computed scores are highly correlated with in vitro metrics of pharmacological activity. Furthermore, we conducted several in vivo validation experiments of our potential candidate drugs in AML mouse models to demonstrate the accuracy of our in silico predictions.
+SN  - 1473-1150
+UR  - https://doi.org/10.1038/tpj.2016.18
+DO  - 10.1038/tpj.2016.18
+ID  - Ung2017
+ER  - 

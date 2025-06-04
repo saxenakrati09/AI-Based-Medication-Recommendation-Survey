@@ -1,0 +1,20 @@
+TY  - JOUR
+AU  - Jia, Minyue
+AU  - Lin, Liya
+AU  - Yu, Hanxiao
+AU  - Dong, Zhichao
+AU  - Pan, Xin
+AU  - Song, Xiaoxiao
+PY  - 2025
+DA  - 2025/01/11
+TI  - Integrative bioinformatics approach identifies novel drug targets for hyperaldosteronism, with a focus on SHMT1 as a promising therapeutic candidate
+JO  - Scientific Reports
+SP  - 1690
+VL  - 15
+IS  - 1
+AB  - Primary aldosteronism (PA), characterized by autonomous aldosterone overproduction, is a major cause of secondary hypertension with significant cardiovascular complications. Current treatments mainly focus on symptom management rather than addressing underlying mechanisms. This study aims to discover novel therapeutic targets for PA using integrated bioinformatics and experimental validation approaches. We employed a systematic approach combining: gene identification through transcriptome-wide association studies (TWAS); causal inference using summary data-based Mendelian randomization (SMR) and two-sample Mendelian randomization (MR) analyses; additional analyses included phenome-wide association analysis, enrichment analysis, protein-protein interaction (PPI) networks, drug repurposing, molecular docking and clinical validation through aldosterone-producing adenomas (APAs) tissue. Through systematic screening and prioritization, we identified 163 PA-associated genes, of which seven emerged as potential drug targets: CEP104, HIP1, TONSL, ZNF100, SHMT1, and two long non-coding RNAs (AC006369.2 and MRPL23-AS1). SHMT1 was identified as the most promising target, showing significantly elevated expression in APAs compared to adjacent non-tumorous tissues. Drug repurposing analysis identified four potential SHMT1-targeting compounds (Mimosine, Pemetrexed, Leucovorin, and Irinotecan), supported by molecular docking studies. The integration of multiple bioinformatics methods and experimental validation successfully identified novel drug targets for hyperaldosteronism. SHMT1, in particular, represents a promising candidate for future therapeutic development. These findings provide new opportunities for developing causative treatments for PA, though further clinical validation is warranted.
+SN  - 2045-2322
+UR  - https://doi.org/10.1038/s41598-025-85900-8
+DO  - 10.1038/s41598-025-85900-8
+ID  - Jia2025
+ER  - 

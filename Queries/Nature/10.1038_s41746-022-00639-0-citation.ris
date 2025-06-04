@@ -1,0 +1,21 @@
+TY  - JOUR
+AU  - Jang, Ha Young
+AU  - Song, Jihyeon
+AU  - Kim, Jae Hyun
+AU  - Lee, Howard
+AU  - Kim, In-Wha
+AU  - Moon, Bongki
+AU  - Oh, Jung Mi
+PY  - 2022
+DA  - 2022/07/11
+TI  - Machine learning-based quantitative prediction of drug exposure in drug-drug interactions using drug label information
+JO  - npj Digital Medicine
+SP  - 88
+VL  - 5
+IS  - 1
+AB  - Many machine learning techniques provide a simple prediction for drug-drug interactions (DDIs). However, a systematically constructed database with pharmacokinetic (PK) DDI information does not exist, nor is there a machine learning model that numerically predicts PK fold change (FC) with it. Therefore, we propose a PK DDI prediction (PK-DDIP) model for quantitative DDI prediction with high accuracy, while constructing a highly reliable PK-DDI database. Reliable information of 3,627 PK DDIs was constructed from 3,587 drugs using 38,711 Food and Drug Administration (FDA) drug labels. This PK-DDIP model predicted the FC of the area under the time-concentration curve (AUC) within ± 0.5959. The prediction proportions within 0.8–1.25-fold, 0.67–1.5-fold, and 0.5–2-fold of the AUC were 75.77, 86.68, and 94.76%, respectively. Two external validations confirmed good prediction performance for newly updated FDA labels and FC from patients’. This model enables potential DDI evaluation before clinical trials, which will save time and cost.
+SN  - 2398-6352
+UR  - https://doi.org/10.1038/s41746-022-00639-0
+DO  - 10.1038/s41746-022-00639-0
+ID  - Jang2022
+ER  - 

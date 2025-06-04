@@ -1,0 +1,16 @@
+TY  - JOUR
+AU  - Wang, Zhanmei
+AU  - Niu, Dongguang
+PY  - 2024
+DA  - 2024/06/12
+TI  - To explore the prognostic characteristics of colon cancer based on tertiary lymphoid structure-related genes and reveal the characteristics of tumor microenvironment and drug prediction
+JO  - Scientific Reports
+SP  - 13555
+VL  - 14
+IS  - 1
+AB  - In order to construct a prognostic evaluation model of TLS features in COAD and better realize personalized precision medicine in COAD. Colon adenocarcinoma (COAD) is a common malignant tumor of the digestive system. At present, there is no effective prognostic marker to predict the prognosis of patients. Tertiary lymphoid structure (TLS) affects cancer progression by regulating immune microenvironment. Mining COAD biomarkers based on TLS-related genes helps to improve the prognosis of patients. In order to construct a prognostic evaluation model of TLS features in COAD and better realize personalized precision medicine in COAD. The mRNA expression data and clinical information of COAD and adjacent tissues were downloaded from the Cancer Genome Atlas database. The differentially expressed TLS-related genes of COAD relative to adjacent tissues were obtained by differential analysis. TLS gene co-expression analysis was used to mine genes highly related to TLS, and the intersection of the two was used to obtain candidate genes. Univariate, LASSO, and multivariate Cox regression analysis were performed on candidate genes to screen prognostic markers to construct a risk assessment model. The differences of immune characteristics were evaluated by ESTIMATE, ssGSEA and CIBERSORT in high and low risk groups of prognostic model. The difference of genomic mutation between groups was evaluated by tumor mutation burden score. Screening small molecule drugs through the GDSC library. Finally, a nomogram was drawn to evaluate the clinical value of the prognostic model. Seven TLS-related genes ADAM8, SLC6A1, PAXX, RIMKLB, PTH1R, CD1B, and MMP10 were screened to construct a prognostic model. Survival analysis showed that patients in the high-risk group had significantly lower overall survival rates. Immune microenvironment analysis showed that patients in the high-risk group had higher immune indicators, indicating higher immunity. The genomic mutation patterns of the high-risk and low-risk groups were significantly different, especially the KRAS mutation frequency was significantly higher in the high-risk group. Drug sensitivity analysis showed that the low-risk group was more sensitive to Erlotinib, Savolitinib and VE _ 822, which may be used as a potential drug for COAD treatment. Finally, the nomogram constructed by pathological features combined with RiskScore can accurately evaluate the prognosis of COAD patients. This study constructed and verified a TLS model that can predict COAD. More importantly, it provides a reference standard for guiding the prognosis and immunotherapy of COAD patients.
+SN  - 2045-2322
+UR  - https://doi.org/10.1038/s41598-024-64308-w
+DO  - 10.1038/s41598-024-64308-w
+ID  - Wang2024
+ER  - 

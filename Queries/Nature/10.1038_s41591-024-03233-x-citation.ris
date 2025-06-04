@@ -1,0 +1,25 @@
+TY  - JOUR
+AU  - Huang, Kexin
+AU  - Chandak, Payal
+AU  - Wang, Qianwen
+AU  - Havaldar, Shreyas
+AU  - Vaid, Akhil
+AU  - Leskovec, Jure
+AU  - Nadkarni, Girish N.
+AU  - Glicksberg, Benjamin S.
+AU  - Gehlenborg, Nils
+AU  - Zitnik, Marinka
+PY  - 2024
+DA  - 2024/12/01
+TI  - A foundation model for clinician-centered drug repurposing
+JO  - Nature Medicine
+SP  - 3601
+EP  - 3613
+VL  - 30
+IS  - 12
+AB  - Drug repurposing—identifying new therapeutic uses for approved drugs—is often a serendipitous and opportunistic endeavour to expand the use of drugs for new diseases. The clinical utility of drug-repurposing artificial intelligence (AI) models remains limited because these models focus narrowly on diseases for which some drugs already exist. Here we introduce TxGNN, a graph foundation model for zero-shot drug repurposing, identifying therapeutic candidates even for diseases with limited treatment options or no existing drugs. Trained on a medical knowledge graph, TxGNN uses a graph neural network and metric learning module to rank drugs as potential indications and contraindications for 17,080 diseases. When benchmarked against 8 methods, TxGNN improves prediction accuracy for indications by 49.2% and contraindications by 35.1% under stringent zero-shot evaluation. To facilitate model interpretation, TxGNN’s Explainer module offers transparent insights into multi-hop medical knowledge paths that form TxGNN’s predictive rationales. Human evaluation of TxGNN’s Explainer showed that TxGNN’s predictions and explanations perform encouragingly on multiple axes of performance beyond accuracy. Many of TxGNN’s new predictions align well with off-label prescriptions that clinicians previously made in a large healthcare system. TxGNN’s drug-repurposing predictions are accurate, consistent with off-label drug use, and can be investigated by human experts through multi-hop interpretable rationales.
+SN  - 1546-170X
+UR  - https://doi.org/10.1038/s41591-024-03233-x
+DO  - 10.1038/s41591-024-03233-x
+ID  - Huang2024
+ER  - 

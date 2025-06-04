@@ -1,0 +1,18 @@
+TY  - JOUR
+AU  - You, Mingai
+AU  - Liu, Fangrui
+AU  - Cai, Youshijie
+AU  - Yu, Guodong
+PY  - 2025
+DA  - 2025/04/30
+TI  - Integrated bioinformatics analysis of biomarkers and pathways to explore the mechanisms and molecular targets related to allergic rhinitis and pyroptosis
+JO  - Scientific Reports
+SP  - 15241
+VL  - 15
+IS  - 1
+AB  - Allergic rhinitis (AR) is a condition with a rising global prevalence, though its specific pathogenic mechanisms remain elusive. Several studies have indicated that pyroptosis is one of the key mechanisms in the pathogenesis of AR. However, no research has investigated the molecular targets of pyroptosis in the context of AR. Our study endeavored to identify common biomarkers and mechanisms that could offer insights into the prevention of AR progression and novel therapeutic targets. Data from the Gene Expression Omnibus (GEO) database, including GSE51392, GSE43523, and GSE44037, were downloaded and analyzed through weighted gene co-expression network analysis (WGCNA), Least Absolute Shrinkage and Selection Operator (LASSO), and random forest (RF) analysis to identify key intersecting genes associated with both AR and pyroptosis. The gene GZMA was identified as a significant candidate and was validated in another sample dataset (GSE101720). Western blot (WB) analysis confirmed the expression of GZMA in an AR mouse model. Gene Ontology (GO) analysis and Kyoto Encyclopedia of Genes and Genomes (KEGG) pathway enrichment analysis were conducted to explore the functional roles of the shared genes. An immune infiltration matrix was established using CIBERSORT analysis to estimate the degree of immune cell infiltration in AR. Single-sample Gene Set Enrichment Analysis (ssGSEA) was performed to analyze the biological functions of hub genes. In the immune infiltration matrix of AR, a reduced expression of Tregs was observed in the AR group. WB analysis further indicated elevated expression of GZMA in the AR group. As a gene related to both AR and pyroptosis, GZMA expression was positively correlated with the gene expression levels of CD8 + T cells. The reduction in Tregs and the increase in CD8 + T cells in AR, along with enhanced pyroptosis, contribute to the development of allergic inflammation. Therefore, it was hypothesized that GZMA could serve as a novel target for the prevention and treatment of AR.
+SN  - 2045-2322
+UR  - https://doi.org/10.1038/s41598-025-99955-0
+DO  - 10.1038/s41598-025-99955-0
+ID  - You2025
+ER  - 

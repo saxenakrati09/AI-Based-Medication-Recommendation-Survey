@@ -1,0 +1,17 @@
+TY  - JOUR
+AU  - Park, Aron
+AU  - Lee, Yeeun
+AU  - Nam, Seungyoon
+PY  - 2023
+DA  - 2023/07/24
+TI  - A performance evaluation of drug response prediction models for individual drugs
+JO  - Scientific Reports
+SP  - 11911
+VL  - 13
+IS  - 1
+AB  - Drug response prediction is important to establish personalized medicine for cancer therapy. Model construction for predicting drug response (i.e., cell viability half-maximal inhibitory concentration [IC50]) of an individual drug by inputting pharmacogenomics in disease models remains critical. Machine learning (ML) has been predominantly applied for prediction, despite the advent of deep learning (DL). Moreover, whether DL or traditional ML models are superior for predicting cell viability IC50s has to be established. Herein, we constructed ML and DL drug response prediction models for 24 individual drugs and compared the performance of the models by employing gene expression and mutation profiles of cancer cell lines as input. We observed no significant difference in drug response prediction performance between DL and ML models for 24 drugs [root mean squared error (RMSE) ranging from 0.284 to 3.563 for DL and from 0.274 to 2.697 for ML; R2 ranging from −7.405 to 0.331 for DL and from −8.113 to 0.470 for ML]. Among the 24 individual drugs, the ridge model of panobinostat exhibited the best performance (R2 0.470 and RMSE 0.623). Thus, we selected the ridge model of panobinostat for further application of explainable artificial intelligence (XAI). Using XAI, we further identified important genomic features for panobinostat response prediction in the ridge model, suggesting the genomic features of 22 genes. Based on our findings, results for an individual drug employing both DL and ML models were comparable. Our study confirms the applicability of drug response prediction models for individual drugs.
+SN  - 2045-2322
+UR  - https://doi.org/10.1038/s41598-023-39179-2
+DO  - 10.1038/s41598-023-39179-2
+ID  - Park2023
+ER  - 

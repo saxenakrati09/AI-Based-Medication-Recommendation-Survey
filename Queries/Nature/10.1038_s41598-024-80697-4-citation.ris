@@ -1,0 +1,18 @@
+TY  - JOUR
+AU  - Fan, Zhaopeng
+AU  - Chen, Bohong
+AU  - Ding, Le
+AU  - Guo, Hua
+PY  - 2024
+DA  - 2024/11/24
+TI  - Unveiling therapeutic targets for spinal stenosis from genetic insights: a Mendelian randomization analysis
+JO  - Scientific Reports
+SP  - 29118
+VL  - 14
+IS  - 1
+AB  - Spinal stenosis is a commonly chronic spinal degenerative disease, which is a major cause of pain and dysfunction in the elderly. Mendelian randomization (MR) has been widely applied to repurpose licensed drugs and identify novel therapeutic targets. Consequently, we intended to identify new therapeutic targets for spinal stenosis and to analyze their possible mechanisms and potential side effects.We conducted the Mendelian randomization analysis to identify potential drug targets for the management of spinal stenosis. Cis-expressed quantitative trait loci (cis-eQTL) data as genetic instrumental variables were acquired from the eQTLGen consortium. The summary statistics for single nucleotide polymorphism (SNP) associations of spinal stenosis were obtained from the FinnGen study(20,807 cases and 294,770 controls). Co-localization analysis was performed to determine whether there was shared causal variation between the SNPs associated with spinal stenosis as well as the eQTL. Multiple external validations were performed to reinforce the reliability and stability of the findings utilizing the cis-eQTL from the GTEx portal, the Ferkingstad et al. pQTL dataset, and the Sun et al. pQTL dataset. The viability of the identified drug targets for future clinical applications was elucidated through the phenome-wide association study and drug candidate prediction. Three drug targets (BMP6, DLK1, and GFPT1) exhibited significant causal associations with spinal stenosis in the eQTLGen cohort by MR analysis, which was strongly supported by the results of the co-localization analysis. The causal association of DLK1 and GFPT1 with spinal stenosis remained remarkable with multiple external validations. Multivariate MR and phenome-wide association study analysis indicated that both targets were not associated with other traits. In addition, phenome-wide association study analysis and drug prediction analysis demonstrated the potential of these two targets for future clinical applications. In this study, DLK1 and GFPT1 were identified as promising novel therapeutic targets for spinal stenosis, providing initial genetic insights for drug development in spinal stenosis.
+SN  - 2045-2322
+UR  - https://doi.org/10.1038/s41598-024-80697-4
+DO  - 10.1038/s41598-024-80697-4
+ID  - Fan2024
+ER  - 

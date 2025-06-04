@@ -1,0 +1,19 @@
+TY  - JOUR
+AU  - Price, Brandon A.
+AU  - Marron, J. S.
+AU  - Mose, Lisle E.
+AU  - Perou, Charles M.
+AU  - Parker, Joel S.
+PY  - 2023
+DA  - 2023/02/16
+TI  - Translating transcriptomic findings from cancer model systems to humans through joint dimension reduction
+JO  - Communications Biology
+SP  - 179
+VL  - 6
+IS  - 1
+AB  - Model systems are an essential resource in cancer research. They simulate effects that we can infer into humans, but come at a risk of inaccurately representing human biology. This inaccuracy can lead to inconclusive experiments or misleading results, urging the need for an improved process for translating model system findings into human-relevant data. We present a process for applying joint dimension reduction (jDR) to horizontally integrate gene expression data across model systems and human tumor cohorts. We then use this approach to combine human TCGA gene expression data with data from human cancer cell lines and mouse model tumors. By identifying the aspects of genomic variation joint-acting across cohorts, we demonstrate how predictive modeling and clinical biomarkers from model systems can be improved.
+SN  - 2399-3642
+UR  - https://doi.org/10.1038/s42003-023-04529-3
+DO  - 10.1038/s42003-023-04529-3
+ID  - Price2023
+ER  - 

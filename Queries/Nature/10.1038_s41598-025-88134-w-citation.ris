@@ -1,0 +1,23 @@
+TY  - JOUR
+AU  - Xie, ZhanQiang
+AU  - Situ, YongLi
+AU  - Deng, Li
+AU  - Liang, Meng
+AU  - Ding, Hang
+AU  - Guo, Zhen
+AU  - Xu, QinYing
+AU  - Liang, Zhu
+AU  - Shao, Zheng
+PY  - 2025
+DA  - 2025/01/31
+TI  - Identification of therapeutic targets for Alzheimer’s Disease Treatment using bioinformatics and machine learning
+JO  - Scientific Reports
+SP  - 3888
+VL  - 15
+IS  - 1
+AB  - Alzheimer’s disease (AD) is a complex neurodegenerative disorder that currently lacks effective treatment options. This study aimed to identify potential therapeutic targets for the treatment of AD using comprehensive bioinformatics methods and machine learning algorithms. By integrating differential gene expression analysis, weighted gene co-expression network analysis, Mfuzz clustering, single-cell RNA sequencing, and machine learning algorithms including LASSO regression, SVM-RFE, and random forest, five hub genes related to AD, including PLCB1, NDUFAB1, KRAS, ATP2A2, and CALM3 were identified. PLCB1, in particular, exhibited the highest diagnostic value in AD and showed significant correlation with Braak stages and neuronal expression. Furthermore, Noscapine, PX-316, and TAK-901 were selected as potential therapeutic drugs for AD based on PLCB1. This research provides a comprehensive and reliable method for the discovery of AD therapeutic targets and the construction of diagnostic models, offering important insights and directions for future AD treatment strategies and drug development.
+SN  - 2045-2322
+UR  - https://doi.org/10.1038/s41598-025-88134-w
+DO  - 10.1038/s41598-025-88134-w
+ID  - Xie2025
+ER  - 

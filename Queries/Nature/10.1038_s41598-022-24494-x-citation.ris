@@ -1,0 +1,20 @@
+TY  - JOUR
+AU  - Tan, Wei Ying
+AU  - Gao, Qiao
+AU  - Oei, Ronald Wihal
+AU  - Hsu, Wynne
+AU  - Lee, Mong Li
+AU  - Tan, Ngiap Chuan
+PY  - 2022
+DA  - 2022/12/03
+TI  - Diabetes medication recommendation system using patient similarity analytics
+JO  - Scientific Reports
+SP  - 20910
+VL  - 12
+IS  - 1
+AB  - Type-2 diabetes mellitus (T2DM) is a medical condition in which oral medications avail to patients to curb their hyperglycaemia after failed dietary therapy. However, individual responses to the prescribed pharmacotherapy may differ due to their clinical profiles, comorbidities, lifestyles and medical adherence. One approach is to identify similar patients within the same community to predict their likely response to the prescribed diabetes medications. This study aims to present an evidence-based diabetes medication recommendation system (DMRS) underpinned by patient similarity analytics. The DMRS was developed using 10-year electronic health records of 54,933 adult patients with T2DM from six primary care clinics in Singapore. Multiple clinical variables including patient demographics, comorbidities, laboratory test results, existing medications, and trajectory patterns of haemoglobin A1c (HbA1c) were used to identify similar patients. The DMRS was evaluated on four groups of patients with comorbidities such as hyperlipidaemia (HLD) and hypertension (HTN). Recommendations were assessed using hit ratio which represents the percentage of patients with at least one recommended sets of medication matches exactly the diabetes prescriptions in both the type and dosage. Recall, precision, and mean reciprocal ranking of the recommendation against the diabetes prescriptions in the EHR records were also computed. Evaluation against the EHR prescriptions revealed that the DMRS recommendations can achieve hit ratio of 81% for diabetes patients with no comorbidity, 84% for those with HLD, 78% for those with HTN, and 75% for those with both HLD and HTN. By considering patients’ clinical profiles and their trajectory patterns of HbA1c, the DMRS can provide an individualized recommendation that resembles the actual prescribed medication and dosage. Such a system is useful as a shared decision-making tool to assist clinicians in selecting the appropriate medications for patients with T2DM.
+SN  - 2045-2322
+UR  - https://doi.org/10.1038/s41598-022-24494-x
+DO  - 10.1038/s41598-022-24494-x
+ID  - Tan2022
+ER  - 

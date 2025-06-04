@@ -1,0 +1,21 @@
+TY  - JOUR
+AU  - Li, Victor O. K.
+AU  - Han, Yang
+AU  - Kaistha, Tushar
+AU  - Zhang, Qi
+AU  - Downey, Jocelyn
+AU  - Gozes, Illana
+AU  - Lam, Jacqueline C. K.
+PY  - 2025
+DA  - 2025/01/15
+TI  - DeepDrug as an expert guided and AI driven drug repurposing methodology for selecting the lead combination of drugs for Alzheimer’s disease
+JO  - Scientific Reports
+SP  - 2093
+VL  - 15
+IS  - 1
+AB  - Alzheimer’s Disease (AD) significantly aggravates human dignity and quality of life. While newly approved amyloid immunotherapy has been reported, effective AD drugs remain to be identified. Here, we propose a novel AI-driven drug-repurposing method, DeepDrug, to identify a lead combination of approved drugs to treat AD patients. DeepDrug advances drug-repurposing methodology in four aspects. Firstly, it incorporates expert knowledge to extend candidate targets to include long genes, immunological and aging pathways, and somatic mutation markers that are associated with AD. Secondly, it incorporates a signed directed heterogeneous biomedical graph encompassing a rich set of nodes and edges, and node/edge weighting to capture crucial pathways associated with AD. Thirdly, it encodes the weighted biomedical graph through a Graph Neural Network into a new embedding space to capture the granular relationships across different nodes. Fourthly, it systematically selects the high-order drug combinations via diminishing return-based thresholds. A five-drug lead combination, consisting of Tofacitinib, Niraparib, Baricitinib, Empagliflozin, and Doxercalciferol, has been selected from the top drug candidates based on DeepDrug scores to achieve the maximum synergistic effect. These five drugs target neuroinflammation, mitochondrial dysfunction, and glucose metabolism, which are all related to AD pathology. DeepDrug offers a novel AI-and-big-data, expert-guided mechanism for new drug combination discovery and drug-repurposing across AD and other neuro-degenerative diseases, with immediate clinical applications.
+SN  - 2045-2322
+UR  - https://doi.org/10.1038/s41598-025-85947-7
+DO  - 10.1038/s41598-025-85947-7
+ID  - Li2025
+ER  - 

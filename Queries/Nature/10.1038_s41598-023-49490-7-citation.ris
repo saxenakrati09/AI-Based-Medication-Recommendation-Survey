@@ -1,0 +1,19 @@
+TY  - JOUR
+AU  - Lee, Eunjin
+AU  - Lee, Dongbin
+AU  - Baek, Ji Hyun
+AU  - Kim, So Yeon
+AU  - Park, Woong-yang
+PY  - 2024
+DA  - 2024/02/24
+TI  - Transdiagnostic clustering and network analysis for questionnaire-based symptom profiling and drug recommendation in the UK Biobank and a Korean cohort
+JO  - Scientific Reports
+SP  - 4500
+VL  - 14
+IS  - 1
+AB  - Clinical decision support systems (CDSSs) play a critical role in enhancing the efficiency of mental health care delivery and promoting patient engagement. Transdiagnostic approaches that utilize raw psychological and biological data enable personalized patient profiling and treatment. This study introduces a CDSS incorporating symptom profiling and drug recommendation for mental health care. Among the UK Biobank cohort, we analyzed 157,348 participants for symptom profiling and 14,358 participants with a drug prescription history for drug recommendation. Among the 1307 patients in the Samsung Medical Center cohort, 842 were eligible for analysis. Symptom profiling utilized demographic and questionnaire data, employing conventional clustering and community detection methods. Identified clusters were explored using diagnostic mapping, feature importance, and scoring. For drug recommendation, we employed cluster- and network-based approaches. The analysis identified nine clusters using k-means clustering and ten clusters with the Louvain method. Clusters were annotated for distinct features related to depression, anxiety, psychosis, drug addiction, and self-harm. For drug recommendation, drug prescription probabilities were retrieved for each cluster. A recommended list of drugs, including antidepressants, antipsychotics, mood stabilizers, and sedative–hypnotics, was provided to individual patients. This CDSS holds promise for efficient personalized mental health care and requires further validation and refinement with larger datasets, serving as a valuable tool for mental healthcare providers.
+SN  - 2045-2322
+UR  - https://doi.org/10.1038/s41598-023-49490-7
+DO  - 10.1038/s41598-023-49490-7
+ID  - Lee2024
+ER  - 

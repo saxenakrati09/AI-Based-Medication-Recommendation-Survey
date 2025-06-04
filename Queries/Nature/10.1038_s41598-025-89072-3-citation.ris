@@ -1,0 +1,16 @@
+TY  - JOUR
+AU  - Luan, Shanjie
+AU  - Luan, Jian
+PY  - 2025
+DA  - 2025/03/05
+TI  - A multidimensional approach reveals the function of lactylation related genes in osteoarthritis
+JO  - Scientific Reports
+SP  - 7743
+VL  - 15
+IS  - 1
+AB  - As a complex joint disease, osteoarthritis (OA) increasingly affects the elderly. Currently, existing drugs cannot cure OA. There is an urgent need for new targets. Lactylation is closely related to inflammation and is an emerging target in treatment. However, the potential of lactylation-related genes (LRGs) in OA is poorly understood. This study identified differentially expressed lactylation-related genes (DELRGs) through bioinformatics analysis, constructed a model through a combination of various machine learning methods, and performed immune infiltration analysis, single-cell analysis and molecular docking to predict drugs. Mendelian randomization was used to study the causal relationships between eQTLs and the three types of osteoarthritis. Finally, we used RT-qPCR and CCK-8 assays to validate the results of the bioinformatics analysis. We generated a model with good diagnostic efficacy and seven hub genes, which revealed that osteoarthritis is associated with the infiltration of immune cells such as dendritic cells and macrophages, as well as with the cell communication between fibroblasts and macrophages. Azacitidine, with significant docking results, was obtained through seven hub genes. The results of RT-qPCR verified the expression of LRGs and CCK-8 assay indicated that azacitidine can significantly inhibit the proliferation of OA cells. Overall, we established a lactylation-based diagnostic model and obtained novel biomarkers, which are expected to lead to the development of new strategies for the diagnosis and treatment of OA.
+SN  - 2045-2322
+UR  - https://doi.org/10.1038/s41598-025-89072-3
+DO  - 10.1038/s41598-025-89072-3
+ID  - Luan2025
+ER  - 

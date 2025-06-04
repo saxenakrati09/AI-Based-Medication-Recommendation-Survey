@@ -1,0 +1,25 @@
+TY  - JOUR
+AU  - Shao, Wenhao
+AU  - Ding, Huaxing
+AU  - Wang, Yan
+AU  - Shi, Zhiyong
+AU  - Zhang, Hezhao
+AU  - Meng, Fanxiu
+AU  - Chang, Qingyao
+AU  - Duan, Haojiang
+AU  - Lu, Kairui
+AU  - Zhang, Li
+AU  - Xu, Jun
+PY  - 2024
+DA  - 2024/10/16
+TI  - Key genes and immune pathways in T-cell mediated rejection post-liver transplantation identified via integrated RNA-seq and machine learning
+JO  - Scientific Reports
+SP  - 24315
+VL  - 14
+IS  - 1
+AB  - Liver transplantation is the definitive treatment for end-stage liver disease, yet T-cell mediated rejection (TCMR) remains a major challenge. This study aims to identify key genes associated with TCMR and their potential biological processes and mechanisms. The GSE145780 dataset was subjected to differential expression analysis, weighted gene co-expression network analysis (WGCNA), and machine learning algorithms to pinpoint key genes associated with TCMR. Gene Set Enrichment Analysis (GSEA), immune infiltration analysis, and regulatory networks were constructed to ascertain the biological relevance of these genes. Expression validation was performed using single-cell RNA-seq (scRNA-seq) data and liver biopsy tissues from patients. We identified 5 key genes (ITGB2, FCER1G, IL-18, GBP1, and CD53) that are associated with immunological functions, such as chemotactic activity, antigen processing, and T cell differentiation. GSEA highlighted enrichment in chemokine signaling and antigen presentation pathways. A lncRNA-miRNA-mRNA network was delineated, and drug target prediction yielded 26 potential drugs. Evaluation of expression levels in non-rejection (NR) and TCMR groups exhibited significant disparities in T cells and myeloid cells. Tissue analyses from patients corroborated the upregulation of GBP1, IL-18, CD53, and FCER1G in TCMR cases. Through comprehensive analysis, this research has identified 4 genes intimately connected with TCMR following liver transplantation, shedding light on the underlying immune activation pathways and suggesting putative targets for therapeutic intervention.
+SN  - 2045-2322
+UR  - https://doi.org/10.1038/s41598-024-74874-8
+DO  - 10.1038/s41598-024-74874-8
+ID  - Shao2024
+ER  - 

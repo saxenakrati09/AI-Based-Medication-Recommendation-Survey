@@ -1,0 +1,35 @@
+TY  - JOUR
+AU  - Carli, Francesco
+AU  - Di Chiaro, Pierluigi
+AU  - Morelli, Mariangela
+AU  - Arora, Chakit
+AU  - Bisceglia, Luisa
+AU  - De Oliveira Rosa, Natalia
+AU  - Cortesi, Alice
+AU  - Franceschi, Sara
+AU  - Lessi, Francesca
+AU  - Di Stefano, Anna Luisa
+AU  - Santonocito, Orazio Santo
+AU  - Pasqualetti, Francesco
+AU  - Aretini, Paolo
+AU  - Miglionico, Pasquale
+AU  - Diaferia, Giuseppe R.
+AU  - Giannotti, Fosca
+AU  - Liò, Pietro
+AU  - Duran-Frigola, Miquel
+AU  - Mazzanti, Chiara Maria
+AU  - Natoli, Gioacchino
+AU  - Raimondi, Francesco
+PY  - 2025
+DA  - 2025/02/15
+TI  - Learning and actioning general principles of cancer cell drug sensitivity
+JO  - Nature Communications
+SP  - 1654
+VL  - 16
+IS  - 1
+AB  - High-throughput screening of drug sensitivity of cancer cell lines (CCLs) holds the potential to unlock anti-tumor therapies. In this study, we leverage such datasets to predict drug response using cell line transcriptomics, focusing on models’ interpretability and deployment on patients’ data. We use large language models (LLMs) to match drug to mechanisms of action (MOA)-related pathways. Genes crucial for prediction are enriched in drug-MOAs, suggesting that our models learn the molecular determinants of response. Furthermore, by using only LLM-curated, MOA-genes, we enhance the predictive accuracy of our models. To enhance translatability, we align RNAseq data from CCLs, used for training, to those from patient samples, used for inference. We validated our approach on TCGA samples, where patients’ best scoring drugs match those prescribed for their cancer type. We further predict and experimentally validate effective drugs for the patients of two highly lethal solid tumors, i.e., pancreatic cancer and glioblastoma.
+SN  - 2041-1723
+UR  - https://doi.org/10.1038/s41467-025-56827-5
+DO  - 10.1038/s41467-025-56827-5
+ID  - Carli2025
+ER  - 

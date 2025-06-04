@@ -1,0 +1,17 @@
+TY  - JOUR
+AU  - Wang, Junjie
+AU  - Deng, Qingao
+AU  - Qi, Lu
+PY  - 2025
+DA  - 2025/05/06
+TI  - Integrated bioinformatics, machine learning, and molecular docking reveal crosstalk genes and potential drugs between periodontitis and systemic lupus erythematosus
+JO  - Scientific Reports
+SP  - 15787
+VL  - 15
+IS  - 1
+AB  - Evidence indicates a connection between periodontitis (PD) and systemic lupus erythematosus (SLE), though the underlying co-morbid mechanisms remain unclear. This study sought to identify the genetic factors and potential therapeutic agents involved in the interaction between PD and SLE. We employed multi-omics methodologies, encompassing differential expression analysis, weighted gene co-expression network analysis (WGCNA), functional enrichment (GO/KEGG), LASSO regression, diagnostic model construction, protein-protein interaction (PPI) networks, immune infiltration profiling, computational drug prediction, molecular docking, and disease subtyping, to analyze PD and SLE expression datasets from the Gene Expression Omnibus (GEO) database (GSE10334, GSE16134, GSE50772, and GSE81622). Cross-analysis identified 32 crosstalk genes (CGs) common to both PD and SLE. LASSO analysis pinpointed three key diagnostic genes (TAGLN, MMP9, TNFAIP6) for both conditions. The resulting diagnostic models demonstrated robust efficacy in both training and validation datasets. Four topological algorithms in Cytoscape highlighted four central crosstalk genes (TAGLN, MMP9, TNFAIP6, IL1B). Additionally, hesperidin, doxycycline, and cytochalasin D emerged as potential therapeutic agents. Two subtypes (C1 and C2) of PD and SLE were delineated based on CG expression profiles. The development of diagnostic models, potential drug identification, and disease subtype classification are poised to enhance diagnosis and treatment. These findings aim to deepen the understanding of PD and SLE complexities.
+SN  - 2045-2322
+UR  - https://doi.org/10.1038/s41598-025-00620-3
+DO  - 10.1038/s41598-025-00620-3
+ID  - Wang2025
+ER  - 

@@ -1,0 +1,21 @@
+TY  - JOUR
+AU  - Zhou, Mengshi
+AU  - Wang, QuanQiu
+AU  - Zheng, Chunlei
+AU  - John Rush, A.
+AU  - Volkow, Nora D.
+AU  - Xu, Rong
+PY  - 2021
+DA  - 2021/09/01
+TI  - Drug repurposing for opioid use disorders: integration of computational prediction, clinical corroboration, and mechanism of action analyses
+JO  - Molecular Psychiatry
+SP  - 5286
+EP  - 5296
+VL  - 26
+IS  - 9
+AB  - Morbidity and mortality from opioid use disorders (OUD) and other substance use disorders (SUD) is a major public health crisis, yet there are few medications to treat them. There is an urgency to accelerate SUD medication development. We present an integrated drug repurposing strategy that combines computational prediction, clinical corroboration using electronic health records (EHRs) of over 72.9 million patients and mechanisms of action analysis. Among top-ranked repurposed candidate drugs, tramadol, olanzapine, mirtazapine, bupropion, and atomoxetine were associated with increased odds of OUD remission (adjusted odds ratio: 1.51 [1.38–1.66], 1.90 [1.66–2.18], 1.38 [1.31–1.46], 1.37 [1.29–1.46], 1.48 [1.25–1.76], p value < 0.001, respectively). Genetic and functional analyses showed these five candidate drugs directly target multiple OUD-associated genes including BDNF, CYP2D6, OPRD1, OPRK1, OPRM1, HTR1B, POMC, SLC6A4 and OUD-associated pathways, including opioid signaling, G-protein activation, serotonin receptors, and GPCR signaling. In summary, we developed an integrated drug repurposing approach and identified five repurposed candidate drugs that might be of value for treating OUD patients, including those suffering from comorbid conditions.
+SN  - 1476-5578
+UR  - https://doi.org/10.1038/s41380-020-01011-y
+DO  - 10.1038/s41380-020-01011-y
+ID  - Zhou2021
+ER  - 

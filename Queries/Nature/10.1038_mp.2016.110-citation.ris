@@ -1,0 +1,80 @@
+TY  - JOUR
+AU  - Kessler, R C
+AU  - Stein, M B
+AU  - Petukhova, M V
+AU  - Bliese, P.
+AU  - Bossarte, R M
+AU  - Bromet, E J
+AU  - Fullerton, C S
+AU  - Gilman, S E
+AU  - Ivany, C.
+AU  - Lewandowski-Romps, L.
+AU  - Millikan Bell, A.
+AU  - Naifeh, J A
+AU  - Nock, M K
+AU  - Reis, B Y
+AU  - Rosellini, A J
+AU  - Sampson, N A
+AU  - Zaslavsky, A M
+AU  - Ursano, R J
+AU  - Ursano, R J
+AU  - Stein, M B
+AU  - Heeringa, S.
+AU  - Kessler, R C
+AU  - Colpe, L J
+AU  - Schoenbaum, M.
+AU  - Cersovsky, S.
+AU  - Cox, K.
+AU  - Aliaga, P A
+AU  - Benedek, D M
+AU  - Borja, S.
+AU  - Brown, G G
+AU  - Sills, L C
+AU  - Dempsey, C L
+AU  - Frank, R.
+AU  - Fullerton, C S
+AU  - Gebler, N.
+AU  - Gifford, R K
+AU  - Gilman, S E
+AU  - Holloway, M G
+AU  - Hurwitz, P E
+AU  - Jain, S.
+AU  - Kao, T-C
+AU  - Koenen, K C
+AU  - Romps, L L
+AU  - Mash, H H
+AU  - McCarroll, J E
+AU  - McLaughlin, K A
+AU  - Naifeh, J A
+AU  - Nock, M K
+AU  - Raman, R.
+AU  - Rose, S.
+AU  - Rosellini, A J
+AU  - Sampson, N A
+AU  - Santiago, L P
+AU  - Scanlon, M.
+AU  - Smoller, J.
+AU  - Thomas, M L
+AU  - Vegella, P L
+AU  - Wassel, C.
+AU  - Zaslavsky, A M
+AU  - Mann, J.
+AU  - Oquendo, M.
+AU  - Stanley, B.
+AU  - Posner, K.
+AU  - Keilp, J.
+AU  - Army STARRS Collaborators
+PY  - 2017
+DA  - 2017/04/01
+TI  - Predicting suicides after outpatient mental health visits in the Army Study to Assess Risk and Resilience in Servicemembers (Army STARRS)
+JO  - Molecular Psychiatry
+SP  - 544
+EP  - 551
+VL  - 22
+IS  - 4
+AB  - The 2013 US Veterans Administration/Department of Defense Clinical Practice Guidelines (VA/DoD CPG) require comprehensive suicide risk assessments for VA/DoD patients with mental disorders but provide minimal guidance on how to carry out these assessments. Given that clinician-based assessments are not known to be strong predictors of suicide, we investigated whether a precision medicine model using administrative data after outpatient mental health specialty visits could be developed to predict suicides among outpatients. We focused on male nondeployed Regular US Army soldiers because they account for the vast majority of such suicides. Four machine learning classifiers (naive Bayes, random forests, support vector regression and elastic net penalized regression) were explored. Of the Army suicides in 2004–2009, 41.5% occurred among 12.0% of soldiers seen as outpatient by mental health specialists, with risk especially high within 26 weeks of visits. An elastic net classifier with 10–14 predictors optimized sensitivity (45.6% of suicide deaths occurring after the 15% of visits with highest predicted risk). Good model stability was found for a model using 2004–2007 data to predict 2008–2009 suicides, although stability decreased in a model using 2008–2009 data to predict 2010–2012 suicides. The 5% of visits with highest risk included only 0.1% of soldiers (1047.1 suicides/100 000 person-years in the 5 weeks after the visit). This is a high enough concentration of risk to have implications for targeting preventive interventions. An even better model might be developed in the future by including the enriched information on clinician-evaluated suicide risk mandated by the VA/DoD CPG to be recorded.
+SN  - 1476-5578
+UR  - https://doi.org/10.1038/mp.2016.110
+DO  - 10.1038/mp.2016.110
+ID  - Kessler2017
+ER  - 

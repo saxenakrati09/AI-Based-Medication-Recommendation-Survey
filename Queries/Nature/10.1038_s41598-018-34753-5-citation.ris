@@ -1,0 +1,21 @@
+TY  - JOUR
+AU  - Huang, Cai
+AU  - Clayton, Evan A.
+AU  - Matyunina, Lilya V.
+AU  - McDonald, L. DeEtte
+AU  - Benigno, Benedict B.
+AU  - Vannberg, Fredrik
+AU  - McDonald, John F.
+PY  - 2018
+DA  - 2018/11/06
+TI  - Machine learning predicts individual cancer patient responses to therapeutic drugs with high accuracy
+JO  - Scientific Reports
+SP  - 16444
+VL  - 8
+IS  - 1
+AB  - Precision or personalized cancer medicine is a clinical approach that strives to customize therapies based upon the genomic profiles of individual patient tumors. Machine learning (ML) is a computational method particularly suited to the establishment of predictive models of drug response based on genomic profiles of targeted cells. We report here on the application of our previously established open-source support vector machine (SVM)-based algorithm to predict the responses of 175 individual cancer patients to a variety of standard-of-care chemotherapeutic drugs from the gene-expression profiles (RNA-seq or microarray) of individual patient tumors. The models were found to predict patient responses with >80% accuracy. The high PPV of our algorithms across multiple drugs suggests a potential clinical utility of our approach, particularly with respect to the identification of promising second-line treatments for patients failing standard-of-care first-line therapies.
+SN  - 2045-2322
+UR  - https://doi.org/10.1038/s41598-018-34753-5
+DO  - 10.1038/s41598-018-34753-5
+ID  - Huang2018
+ER  - 

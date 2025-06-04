@@ -1,0 +1,16 @@
+TY  - JOUR
+AU  - Wang, Yaojun
+AU  - Li, Qiang
+PY  - 2025
+DA  - 2025/04/21
+TI  - Integrated multiomics analysis identifies potential biomarkers and therapeutic targets for autophagy associated AKI to CKD transition
+JO  - Scientific Reports
+SP  - 13687
+VL  - 15
+IS  - 1
+AB  - This study explored the relationship between acute kidney injury (AKI) and chronic kidney disease (CKD), focusing on autophagy-related genes and their immune infiltration during the transition from AKI to CKD. We performed weighted correlation network analysis (WGCNA) using two microarray datasets (GSE139061 and GSE66494) in the GEO database and identified autophagy signatures by Gene Ontology (GO) and Kyoto Encyclopedia of Genes and Genomes (KEGG), and GSEA enrichment analysis. Machine learning algorithms such as LASSO, random forest, and XGBoost were used to construct the diagnostic model, and the diagnostic performance of GSE30718 (AKI) and GSE37171 (CKD) was used as validation cohorts to evaluate its diagnostic performance. The study identified 14 autophagy candidate genes, among which ATP6V1C1 and COPA were identified as key biomarkers that were able to effectively distinguish between AKI and CKD. Immune cell infiltration and GSEA analysis revealed immune dysregulation in AKI, and these genes were associated with inflammation and immune pathways. Single-cell analysis showed that ATP6V1C1 and COPA were specifically expressed in AKI and CKD, which may be related to renal fibrosis. In addition, drug prediction and molecular docking analysis proposed SZ(+)-(S)-202-791 and PDE4 inhibitor 16 as potential therapeutic agents. In summary, this study provides new insights into the relationship between AKI and CKD and lays a foundation for the development of new treatment strategies.
+SN  - 2045-2322
+UR  - https://doi.org/10.1038/s41598-025-97269-9
+DO  - 10.1038/s41598-025-97269-9
+ID  - Wang2025
+ER  - 

@@ -1,0 +1,22 @@
+TY  - JOUR
+AU  - Zhang, Yongqi
+AU  - Yao, Quanming
+AU  - Yue, Ling
+AU  - Wu, Xian
+AU  - Zhang, Ziheng
+AU  - Lin, Zhenxi
+AU  - Zheng, Yefeng
+PY  - 2023
+DA  - 2023/12/01
+TI  - Emerging drug interaction prediction enabled by a flow-based graph neural network with biomedical network
+JO  - Nature Computational Science
+SP  - 1023
+EP  - 1033
+VL  - 3
+IS  - 12
+AB  - Drug–drug interactions (DDIs) for emerging drugs offer possibilities for treating and alleviating diseases, and accurately predicting these with computational methods can improve patient care and contribute to efficient drug development. However, many existing computational methods require large amounts of known DDI information, which is scarce for emerging drugs. Here we propose EmerGNN, a graph neural network that can effectively predict interactions for emerging drugs by leveraging the rich information in biomedical networks. EmerGNN learns pairwise representations of drugs by extracting the paths between drug pairs, propagating information from one drug to the other, and incorporating the relevant biomedical concepts on the paths. The edges of the biomedical network are weighted to indicate the relevance for the target DDI prediction. Overall, EmerGNN has higher accuracy than existing approaches in predicting interactions for emerging drugs and can identify the most relevant information on the biomedical network.
+SN  - 2662-8457
+UR  - https://doi.org/10.1038/s43588-023-00558-4
+DO  - 10.1038/s43588-023-00558-4
+ID  - Zhang2023
+ER  - 
