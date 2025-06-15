@@ -3,6 +3,7 @@
 ## Systematic Review Code and Resources
 
 This repository contains tools and resources for conducting a systematic review of AI-based medication recommendation systems. The workflow involves querying various databases, processing and filtering the retrieved data, and manually reviewing the results.
+The cut-off is June 2025.
 
 ### Prerequisites
 
