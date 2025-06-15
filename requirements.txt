@@ -2,3 +2,5 @@ pandas
 bibtexparser
 rispy
 openpyxl
+requests
+beautifulsoup4

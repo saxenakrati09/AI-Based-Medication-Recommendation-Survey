@@ -10,6 +10,11 @@ from utils.ieee_parser import parse_ieee_csv
 from utils.nature_parser import parse_nature_ris
 
 def collect_all_papers():
+    """
+    Collects all papers from different sources and returns them as a list of dictionaries.
+    Sources are: ACM, DBLP, Dimensions, IEEE Xplore, and Nature.
+    The list of dictionaries is deduplicated by title (case-insensitive).
+    """
     all_papers = []
     # get path to the current script directory
     script_dir = os.path.dirname(os.path.abspath(__file__))
@@ -37,6 +42,20 @@ def collect_all_papers():
     return all_papers
 
 def main():
+    """
+    Main function to collect, deduplicate, and categorize research papers.
+
+    This function performs the following steps:
+    1. Collects papers from various sources and creates a DataFrame.
+    2. Deduplicates the DataFrame based on paper titles (case-insensitive).
+    3. Splits the DataFrame into two separate categories based on the presence
+       of 'arxiv' in any column.
+    4. Saves the deduplicated papers into CSV files, distinguishing between
+       those with and without 'arxiv' references.
+
+    The resulting CSV files are saved in the '../data/' directory.
+    """
+
     papers = collect_all_papers()
     df = pd.DataFrame(papers)
     # Deduplicate by title (case-insensitive)
@@ -46,8 +65,14 @@ def main():
     df = df.drop_duplicates(subset=['title_lower'])
     df = df.drop(columns=['title_lower'])
     os.makedirs('../data', exist_ok=True)
-    df.to_csv('../data/all_papers_dedup.csv', index=False)
-    print(f"Saved deduplicated papers: {len(df)} rows to data/all_papers_dedup.csv") # 1232
+    # Split based on presence of 'arxiv' in any column
+    mask_arxiv = df.apply(lambda row: row.astype(str).str.contains('arxiv', case=False, na=False).any(), axis=1)
+    df_arxiv = df[mask_arxiv]
+    df_no_arxiv = df[~mask_arxiv]
+    df_no_arxiv.to_csv('../data/all_papers_dedup.csv', index=False)
+    df_arxiv.to_csv('../data/all_papers_dedup_arxiv.csv', index=False)
+    print(f"Saved deduplicated papers without arxiv: {len(df_no_arxiv)} rows to data/all_papers_dedup.csv")
+    print(f"Saved deduplicated papers with arxiv: {len(df_arxiv)} rows to data/all_papers_dedup_arxiv.csv")
 
 if __name__ == "__main__":
     main()
