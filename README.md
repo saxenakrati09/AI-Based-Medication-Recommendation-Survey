@@ -53,6 +53,9 @@ pip install -r requirements.txt
 
 `back_from_removed_manual.csv` + `all_papers_filtered.csv`.
 
+Steps followed after this:
+1. Manually downlaod the papers PDF. If the PDF is not found then add those papers to `notOpenAccess.csv`.
+2. Download the papers for which the PDF is available.
 
 ### Folder Structure
 

@@ -33,7 +33,7 @@ EXCLUSION_PHRASES = [
     'diseases', 'injuries', 'cardiac', 'meningioma', 'seizures', 'malaise', 'dentistry', 'seizure',
     'fatigue', 'markets', 'asthma', 'revenue', 'hypertension', 'osteoporosis', 'bioinformatics',
     'colon', 'allergic', 'mutations', 'mutation', 'pharmacogenomic', "Parkinson’s", 'prognosis',
-    'melanoma', 'varicose vein', 'veins', 'side effects', 'side effect', 'pathogenic',
+    'melanoma', 'varicose vein', 'veins', 'side effects', 'side effect', 'pathogenic', 'vascular',
     'vitamin', 'oncology', 'nausea', 'ARDS', 'myocardial', 'appendicitis', 'inhibitor', 'inhibitors','telehealth'
 ]
 
@@ -102,7 +102,10 @@ EXCLUDED_TITLES = ['Negative-sample-free knowledge graph embedding',
                    'remote patient monitoring with IoT',
                    'CDCDB: A large and continuously updated drug combination database',
                    'Multilabel classification for defect prediction in software engineering',
-                   'ACNP 56th Annual Meeting'
+                   'ACNP 56th Annual Meeting',
+                   'human judgment',
+                   'ClOud-based MEdicine Recommendation',
+                   'Personalized Medicine Recommendation Based on Tensor Decomposition'
                    ]
 
 FULL_EXECUTION = EXCLUSION_PHRASES + EXCLUDED_TITLES

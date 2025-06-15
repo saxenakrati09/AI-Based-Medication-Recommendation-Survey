@@ -1,0 +1,63 @@
+title,authors,year,source,raw
+Deep Learning for Medication Recommendation: {A} Systematic Survey,"Zafar Ali and
+Yi Huang and
+Irfan Ullah and
+Junlan Feng and
+Chao Deng and
+Nimbeshaho Thierry and
+Asad Khan and
+Asim Ullah Jan and
+Xiaoli Shen and
+Rui Wu and
+Guilin Qi",2023.0,DBLP,"{'bibsource': 'dblp computer science bibliography, https://dblp.org', 'biburl': 'https://dblp.org/rec/journals/dint/AliHUFDTKJSWQ23.bib', 'timestamp': 'Sun, 06 Oct 2024 01:00:00 +0200', 'doi': '10.1162/DINT\\_A\\_00197', 'url': 'https://doi.org/10.1162/dint\\_a\\_00197', 'year': '2023', 'pages': '303--354', 'number': '2', 'volume': '5', 'journal': 'Data Intell.', 'title': 'Deep Learning for Medication Recommendation: {A} Systematic Survey', 'author': 'Zafar Ali and\nYi Huang and\nIrfan Ullah and\nJunlan Feng and\nChao Deng and\nNimbeshaho Thierry and\nAsad Khan and\nAsim Ullah Jan and\nXiaoli Shen and\nRui Wu and\nGuilin Qi', 'ENTRYTYPE': 'article', 'ID': 'DBLP:journals/dint/AliHUFDTKJSWQ23'}"
+"Artificial intelligence in clinical medicine: a state-of-the-art overview
+of systematic reviews with methodological recommendations for improved
+reporting","Giovanni Morone and
+Luigi De Angelis and
+Alex Martino Cinnera and
+Riccardo Carbonetti and
+Alessio Bisirri and
+Irene Ciancarelli and
+Marco Iosa and
+Stefano Negrini and
+Carlotte Kiekens and
+Francesco Negrini",2025.0,DBLP,"{'bibsource': 'dblp computer science bibliography, https://dblp.org', 'biburl': 'https://dblp.org/rec/journals/fdgth/MoroneACCBCINKN25.bib', 'timestamp': 'Sat, 31 May 2025 01:00:00 +0200', 'doi': '10.3389/FDGTH.2025.1550731', 'url': 'https://doi.org/10.3389/fdgth.2025.1550731', 'year': '2025', 'volume': '7', 'journal': 'Frontiers Digit. Health', 'title': 'Artificial intelligence in clinical medicine: a state-of-the-art overview\nof systematic reviews with methodological recommendations for improved\nreporting', 'author': 'Giovanni Morone and\nLuigi De Angelis and\nAlex Martino Cinnera and\nRiccardo Carbonetti and\nAlessio Bisirri and\nIrene Ciancarelli and\nMarco Iosa and\nStefano Negrini and\nCarlotte Kiekens and\nFrancesco Negrini', 'ENTRYTYPE': 'article', 'ID': 'DBLP:journals/fdgth/MoroneACCBCINKN25'}"
+A Survey of Personalized Medicine Recommendation,"Fanglin Zhu and
+Lizhen Cui and
+Yonghui Xu and
+Zhe Qu and
+Zhiqi Shen",2024.0,DBLP,"{'bibsource': 'dblp computer science bibliography, https://dblp.org', 'biburl': 'https://dblp.org/rec/journals/ijcrowdsci/ZhuCXQS24.bib', 'timestamp': 'Mon, 01 Jul 2024 01:00:00 +0200', 'doi': '10.26599/IJCS.2023.9100013', 'url': 'https://doi.org/10.26599/ijcs.2023.9100013', 'year': '2024', 'pages': '77--82', 'number': '2', 'volume': '8', 'journal': 'Int. J. Crowd Sci.', 'title': 'A Survey of Personalized Medicine Recommendation', 'author': 'Fanglin Zhu and\nLizhen Cui and\nYonghui Xu and\nZhe Qu and\nZhiqi Shen', 'ENTRYTYPE': 'article', 'ID': 'DBLP:journals/ijcrowdsci/ZhuCXQS24'}"
+"A Survey on Graph Construction for Geometric Deep Learning in Medicine:
+Methods and Recommendations","Tamara T. Mueller and
+Sophie Starck and
+Alina Dima and
+Stephan Wunderlich and
+Kyriaki{-}Margarita Bintsi and
+Kamilia Zaripova and
+Rickmer Braren and
+Daniel Rueckert and
+Anees Kazi and
+Georgios Kaissis",2024.0,DBLP,"{'bibsource': 'dblp computer science bibliography, https://dblp.org', 'biburl': 'https://dblp.org/rec/journals/tmlr/MuellerSDWBZBRK24.bib', 'timestamp': 'Thu, 08 Aug 2024 01:00:00 +0200', 'url': 'https://openreview.net/forum?id=sWlHhfijcS', 'year': '2024', 'volume': '2024', 'journal': 'Trans. Mach. Learn. Res.', 'title': 'A Survey on Graph Construction for Geometric Deep Learning in Medicine:\nMethods and Recommendations', 'author': 'Tamara T. Mueller and\nSophie Starck and\nAlina Dima and\nStephan Wunderlich and\nKyriaki{-}Margarita Bintsi and\nKamilia Zaripova and\nRickmer Braren and\nDaniel Rueckert and\nAnees Kazi and\nGeorgios Kaissis', 'ENTRYTYPE': 'article', 'ID': 'DBLP:journals/tmlr/MuellerSDWBZBRK24'}"
+"Causal inference using observational intensive care unit data: a scoping
+review and recommendations for future practice","J. M. Smit and
+Jesse H. Krijthe and
+W. M. R. Kant and
+J. A. Labrecque and
+M. Komorowski and
+D. A. M. P. J. Gommers and
+Jasper van Bommel and
+Marcel J. T. Reinders and
+Michel E. van Genderen",2023.0,DBLP,"{'bibsource': 'dblp computer science bibliography, https://dblp.org', 'biburl': 'https://dblp.org/rec/journals/npjdm/SmitKKLKGBRG23.bib', 'timestamp': 'Sun, 19 Jan 2025 00:00:00 +0100', 'doi': '10.1038/S41746-023-00961-1', 'url': 'https://doi.org/10.1038/s41746-023-00961-1', 'year': '2023', 'volume': '6', 'journal': 'npj Digit. Medicine', 'title': 'Causal inference using observational intensive care unit data: a scoping\nreview and recommendations for future practice', 'author': 'J. M. Smit and\nJesse H. Krijthe and\nW. M. R. Kant and\nJ. A. Labrecque and\nM. Komorowski and\nD. A. M. P. J. Gommers and\nJasper van Bommel and\nMarcel J. T. Reinders and\nMichel E. van Genderen', 'ENTRYTYPE': 'article', 'ID': 'DBLP:journals/npjdm/SmitKKLKGBRG23'}"
+"A systematic review of networks for prognostic prediction of health
+outcomes and diagnostic prediction of health conditions within Electronic
+Health Records","Zoe Hancox and
+Allan Pang and
+Philip G. Conaghan and
+Sarah R. Kingsbury and
+Andrew Clegg and
+Samuel D. Relton",2024.0,DBLP,"{'bibsource': 'dblp computer science bibliography, https://dblp.org', 'biburl': 'https://dblp.org/rec/journals/artmed/HancoxPCKCR24.bib', 'timestamp': 'Mon, 09 Dec 2024 00:00:00 +0100', 'doi': '10.1016/J.ARTMED.2024.102999', 'url': 'https://doi.org/10.1016/j.artmed.2024.102999', 'year': '2024', 'pages': '102999', 'volume': '158', 'journal': 'Artif. Intell. Medicine', 'title': 'A systematic review of networks for prognostic prediction of health\noutcomes and diagnostic prediction of health conditions within Electronic\nHealth Records', 'author': 'Zoe Hancox and\nAllan Pang and\nPhilip G. Conaghan and\nSarah R. Kingsbury and\nAndrew Clegg and\nSamuel D. Relton', 'ENTRYTYPE': 'article', 'ID': 'DBLP:journals/artmed/HancoxPCKCR24'}"
+"How does the model make predictions? {A} systematic literature review
+on the explainability power of machine learning in healthcare","Johannes Allgaier and
+Lena Mulansky and
+Rachel Lea Draelos and
+R{\""{u}}diger Pryss",2023.0,DBLP,"{'bibsource': 'dblp computer science bibliography, https://dblp.org', 'biburl': 'https://dblp.org/rec/journals/artmed/AllgaierMDP23.bib', 'timestamp': 'Wed, 01 Nov 2023 00:00:00 +0100', 'doi': '10.1016/J.ARTMED.2023.102616', 'url': 'https://doi.org/10.1016/j.artmed.2023.102616', 'year': '2023', 'pages': '102616', 'volume': '143', 'journal': 'Artif. Intell. Medicine', 'title': 'How does the model make predictions? {A} systematic literature review\non the explainability power of machine learning in healthcare', 'author': 'Johannes Allgaier and\nLena Mulansky and\nRachel Lea Draelos and\nR{\\""{u}}diger Pryss', 'ENTRYTYPE': 'article', 'ID': 'DBLP:journals/artmed/AllgaierMDP23'}"
